@@ -1,0 +1,52 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the action will run. 
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Get FreeDictionary data
+        run: |
+          wget http://deb.debian.org/debian/pool/main/f/freedict/freedict_2021.01.05.orig.tar.xz
+          tar -xf freedict_2021.01.05.orig.tar.xz
+
+      # Runs a set of commands using the runners shell
+      - name: Get freedict-tools
+        run: git clone https://github.com/freedict/tools
+        
+      - name: Extract English-German dictionary # (for example)
+        run: |
+          cd freedict-2021.01.05/eng-deu
+          make
+          
+      - name: Simple commit
+        # You may pin to the exact commit or the version.
+        # uses: zwaldowski/git-commit-action@66730766679672410dc04830ae6389f4376c8c94
+        uses: zwaldowski/git-commit-action@v1
+        with:
+          # Directory to create commit in
+          working_directory: freedict-2021.01.05/eng-deu
+          commit_message: Add English-German dictionary
+
+
