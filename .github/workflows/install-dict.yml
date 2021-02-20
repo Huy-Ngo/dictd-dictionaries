@@ -29,6 +29,7 @@ jobs:
       - name: Install dictionaries
         run: |
           sudo add-apt-repository 'deb http://de.archive.ubuntu.com/ubuntu bionic-updates main'
+          sudo apt update
           sudo apt install dictd \
             dict \
             dict-de-en \
