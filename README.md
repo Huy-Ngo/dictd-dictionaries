@@ -9,5 +9,6 @@ If you find another missing dictionary feel free to file an issue or a pull requ
 
 ## How to install
 
-- Copy `*.dict.dz` files to `/usr/share/dictd`
+- Find the databases and indexes of dictionaries you want to install in the release
+- Copy `*.dict.dz` and `*.index` files to `/usr/share/dictd`
 - Include `db.list` in your dictd config file, such as `/etc/dictd.config`
