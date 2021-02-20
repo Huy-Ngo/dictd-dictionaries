@@ -50,16 +50,22 @@ jobs:
         run: |
           cd freedict-2021.01.05/eng-fra
           make
+          cd ../..
           cd freedict-2021.01.05/fra-eng
           make
+          cd ../..
           cd freedict-2021.01.05/lat-eng
           make
+          cd ../..
           cd freedict-2021.01.05/eng-lat
           make
+          cd ../..
           cd freedict-2021.01.05/ell-eng
           make
+          cd ../..
           cd freedict-2021.01.05/eng-ell
           make
+          cd ../..
           
       - name: Simple commit
         # You may pin to the exact commit or the version.
@@ -69,5 +75,3 @@ jobs:
           # Directory to create commit in
           working_directory: freedict-2021.01.05/eng-fra
           commit_message: Add some dictionaries
-
-
