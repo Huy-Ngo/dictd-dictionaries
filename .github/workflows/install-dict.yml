@@ -29,7 +29,7 @@ jobs:
       - name: Install dictionaries
         run: |
           sudo add-apt-repository 'deb http://ftp.debian.org/debian/ buster main'
-          sudo apt update
+          sudo apt update --allow-insecure-repositories
           sudo apt install dictd \
             dict \
             dict-de-en \
