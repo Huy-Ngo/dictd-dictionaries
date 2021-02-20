@@ -64,14 +64,13 @@ jobs:
           make
           cd ../..
           
-      - name: Simple commit
-        # You may pin to the exact commit or the version.
-        # uses: zwaldowski/git-commit-action@66730766679672410dc04830ae6389f4376c8c94
-        uses: zwaldowski/git-commit-action@v1
-        with:
-          # Directory to create commit in
-          working_directory: freedict-2021.01.05/eng-fra
-          commit_message: Add some dictionaries
+      - name: Commit changes
+        run: |
+          cd freedict-2021.01.05/
+          git add eng-fra fra-eng lat-eng eng-lat eng-ell
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git commit -m "Add some dictionaries"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
