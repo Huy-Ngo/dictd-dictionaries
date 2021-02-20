@@ -29,7 +29,6 @@ jobs:
         with:
           python-version: '3.8'
           architecture: 'x64'
-      - run: python my_script.py
 
       # Runs a single command using the runners shell
       - name: Get FreeDictionary data
