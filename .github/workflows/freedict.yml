@@ -35,11 +35,14 @@ jobs:
       - name: Get freedict-tools
         run: git clone https://github.com/freedict/tools
         
-      - name: Extract some dictionaries # (for example)
+      - name: Install dependency
         run: |
           sudo apt-get install make xsltproc libicu-dev python3 python3-icu virtualenv python3-virtualenv espeak-ng dictfmt
           pip install git+https://github.com/itkach/slob.git  # install general slob tools
           pip install git+https://github.com/itkach/tei2slob.git  # install tei2slob converter
+
+      - name: Extract some dictionaries # (for example)
+        run: |
           cd freedict-2021.01.05/eng-fra
           make
           cd freedict-2021.01.05/fra-eng
