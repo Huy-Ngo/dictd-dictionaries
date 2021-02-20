@@ -72,3 +72,9 @@ jobs:
           # Directory to create commit in
           working_directory: freedict-2021.01.05/eng-fra
           commit_message: Add some dictionaries
+
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
