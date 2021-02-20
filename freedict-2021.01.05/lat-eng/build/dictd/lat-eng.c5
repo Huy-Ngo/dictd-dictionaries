@@ -1,0 +1,12081 @@
+_____
+
+00-database-info
+Latin-English FreeDict Dictionary
+
+Maintainer: [up for grabs]
+
+Edition: 0.1.2
+Size: 2305 headwords
+
+Publisher: FreeDict.
+
+
+Availability:
+
+    Copyright (C) 1999-2017 by various authors listed below.
+    Available under the terms of the GNU General Public License ver. 2.0 and 
+  any later version.
+    This program is free software; you can redistribute it and/or modify it 
+  under the terms of the GNU General Public License as published by the 
+  Free Software Foundation; either version 2 of the License, or (at your 
+  option) any later version.
+    This program is distributed in the hope that it will be useful, but 
+  WITHOUT ANY WARRANTY; without even the implied warranty of 
+  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General 
+  Public License for more details.
+    You should have received a copy of the GNU General Public License along 
+  with this program; if not, write to the Free Software Foundation, Inc., 
+  59 Temple Place - Suite 330, Boston, MA 02111-1307, USA.
+
+Published at: http://freedict.org/
+
+Notes:
+
+ * Database Status: too small
+
+
+Source(s):
+
+  Home: http://www.travlang.com/ This file was converted from the Ergane 
+  dictionaries.
+
+The Project:
+
+  This dictionary comes to you through nice people making it available for 
+  free and for good. It is part of the FreeDict project, 
+  http://freedict.org/. This project aims to make translating dictionaries 
+  available for free. Your contributions are welcome!
+
+Changelog:
+
+ * 2017-12-06 Sebastian Humenda ver. 0.1.2:
+   * update licencing stanza (thanks to Karl Bartel)
+   * improve markup by removing empty nodes and doubled translations
+ * 2010-10-25 Piotr Bański:
+   Conversion of TEI P4 source into P5 via tools/freedict_P4toP5.xsl; 
+   manual clean-up. We are back to version from before Michael Bunk's 
+   re-import from Ergane of 2006-12-21 that was rolled back due to 
+   Ergane's cryptic change of database licensing.
+ * 2004-06-26 Michael Bunk:
+   Converted file to TEI P4
+ * 2000-04-30 Horst Eyermann:
+   Database was converted to TEI format and checked into CVS
+ * 2000-01-01 Horst Eyermann:
+   This Database was generated from ergane (http://www.travlang.com) - 
+   Thanks!
+_____
+
+00-database-short
+Latin-English FreeDict Dictionary ver. 0.1.2
+_____
+
+Abnoba
+Abnoba /ˈabnɔba/
+Black Forest
+_____
+
+Academia
+Academia /akadˈɛmɪa/
+Academy
+_____
+
+Achaia
+Achaia /akʰˈajja/
+1. Achaea, Achaia
+2. Greece
+_____
+
+Achaias
+Achaias /akʰˈajjas/
+Greek woman
+_____
+
+Acheron
+Acheron /ˈakʰɛrɔn/
+Acheron
+_____
+
+Achivus
+Achivus /ˈakʰɪwʊs/
+Greek
+_____
+
+Achæmenius
+Achæmenius /akʰaɪmˈɛnɪʊs/
+Persian
+_____
+
+Actiacus
+Actiacus /aktˈɪakʊs/
+of Actium
+_____
+
+Actium
+Actium /ˈaktɪʊm/
+Actium
+_____
+
+Adam
+Adam /ˈadam/
+Adam
+_____
+
+Afer
+Afer /ˈafɛr/
+African
+_____
+
+Africa
+Africa /ˈafrɪka/
+Africa
+_____
+
+Alpes
+Alpes /ˈalpɛs/
+Alps
+_____
+
+Amor
+Amor /ˈamɔr/
+Cupid
+_____
+
+Aprilis
+Aprilis /ˈaprɪlɪs/
+April
+_____
+
+Arabicus
+Arabicus /arˈabɪkʊs/
+Arabian, Arabic
+_____
+
+Arabius
+Arabius /arˈabɪʊs/
+Arabian, Arabic
+_____
+
+Arabs
+Arabs /ˈarabs/
+Arab
+_____
+
+Ares
+Ares /ˈarɛs/
+Ares
+_____
+
+Argo
+Argo /ˈarɡɔ/
+Argus
+_____
+
+Aries
+Aries /ˈarɪɛs/
+Aries
+_____
+
+Asia
+Asia /ˈasɪa/
+Asia
+_____
+
+Astræa
+Astræa /astrˈaɪa/
+Astraea
+_____
+
+Atheniensis
+Atheniensis /atʰɛnɪˈɛnsɪs/
+Athenian
+_____
+
+Attica
+Attica /ˈatːɪka/
+Attica
+_____
+
+Ausonius
+Ausonius /aʊsˈɔnɪʊs/
+Westener
+_____
+
+Aventinus
+Aventinus /awˈɛntɪnʊs/
+Aventine
+_____
+
+Avernus
+Avernus /awˈɛrnʊs/
+Avernus
+_____
+
+Babylon
+Babylon /babˈylɔn/
+Babel, Babylon
+_____
+
+Bacchus
+Bacchus /bˈakːʰʊs/
+Bacchus
+_____
+
+Bellona
+Bellona /bˈɛllɔna/
+Bellona
+_____
+
+Capitolium
+Capitolium /kapɪtˈɔlɪʊm/
+Capitol
+_____
+
+Capricornus
+Capricornus /kaprɪkˈɔrnʊs/
+Capricorn
+_____
+
+Carthaginiensis
+Carthaginiensis /kartʰaɡɪnɪˈɛnsɪs/
+Carthaginian
+_____
+
+Carthago
+Carthago /kˈartʰaɡɔ/
+Carthage
+_____
+
+Centaurus
+Centaurus /kɛntˈaʊrʊs/
+centaur
+_____
+
+Cerberus
+Cerberus /kˈɛrbɛrʊs/
+Cerberus
+_____
+
+Ceres
+Ceres /kˈɛrɛs/
+Ceres
+_____
+
+Ceritus
+Ceritus /kˈɛrɪtʊs/
+crazy, insane, mad, nuts
+_____
+
+Cerritus
+Cerritus /kˈɛrɾɪtʊs/
+crazy, insane, mad, nuts
+_____
+
+Chaldæi
+Chaldæi /kʰaldˈaɪɪ/
+Chaldean
+_____
+
+Charon
+Charon /kʰˈarɔn/
+Charon
+_____
+
+Charybdis
+Charybdis /kʰarˈybdɪs/
+Charybdis
+_____
+
+Chimæra
+Chimæra /kʰɪmˈaɪra/
+Chimera
+_____
+
+Christianismus
+Christianismus /kʰrɪstɪanˈɪsmʊs/
+Christianity
+_____
+
+Christianizare
+Christianizare /kʰrɪstɪanˈɪzzarɛ/
+become a Christian
+_____
+
+Christianus
+Christianus /kʰrɪstˈɪanʊs/
+Christian
+_____
+
+Christus
+Christus /kʰrˈɪstʊs/
+Christ
+_____
+
+Cicero
+Cicero /kˈɪkɛrɔ/
+Cicero
+_____
+
+Circe
+Circe /kˈɪrkɛ/
+Circe
+_____
+
+Colosseus
+Colosseus /kɔlˈɔssɛʊs/
+colossal, huge
+_____
+
+Colossicus
+Colossicus /kɔlˈɔssɪkʊs/
+colossal, huge
+_____
+
+Colossus
+Colossus /kɔlˈɔssʊs/
+Colossus
+_____
+
+Creta
+Creta /krˈɛta/
+Crete
+_____
+
+Cybele
+Cybele /kˈybɛlɛ/
+Cybele
+_____
+
+Cytherea
+Cytherea /kytʰˈɛrɛa/
+1. Venus
+2. Evening Star
+_____
+
+Cæsar
+Cæsar /kˈaɪsar/
+Caesar
+_____
+
+Deus
+Deus /dˈɛʊs/
+God
+_____
+
+Diana
+Diana /dˈɪana/
+Diana
+_____
+
+Etruria
+Etruria /ɛtrˈʊrɪa/
+Etruria
+_____
+
+Europa
+Europa /ˈɛʊrɔpa/
+1. Europa
+2. Europe
+_____
+
+Februarius
+Februarius /fɛbrʊˈarɪʊs/
+February
+_____
+
+Gallia
+Gallia /ɡˈallɪa/
+Gaul
+_____
+
+Gallus
+Gallus /ɡˈallʊs/
+Gaul
+_____
+
+Græcia
+Græcia /ɡrˈaɪkɪa/
+Greece
+_____
+
+Græcus
+Græcus /ɡrˈaɪkʊs/
+Greek
+_____
+
+Hadria
+Hadria /hˈadrɪa/
+Adriatic, Adriatic Sea
+_____
+
+Hafnia
+Hafnia /hˈafnɪa/
+Copenhagen
+_____
+
+Harpyia
+Harpyia /harpˈyɪa/
+harpy
+_____
+
+Hesperus
+Hesperus /hˈɛspɛrʊs/
+Hesperus
+_____
+
+Hiberus
+Hiberus /hˈɪbɛrʊs/
+Ebro
+_____
+
+Hispania
+Hispania /hɪspˈanɪa/
+Spain
+_____
+
+Hister
+Hister /hˈɪstɛr/
+Danube
+_____
+
+Holmia
+Holmia /hˈɔlmɪa/
+Stockholm
+_____
+
+Iacchus
+Iacchus /jˈakːʰʊs/
+Bacchus
+_____
+
+Ianuarius
+Ianuarius /janʊˈarɪʊs/
+January
+_____
+
+Ianus
+Ianus /jˈanʊs/
+Janus
+_____
+
+Ilion
+Ilion /ˈɪlɪɔn/
+Troy
+_____
+
+Ilium
+Ilium /ˈɪlɪʊm/
+Troy
+_____
+
+Italia
+Italia /ɪtˈalɪa/
+Italy
+_____
+
+Iulius
+Iulius /jˈʊlɪʊs/
+July
+_____
+
+Iunius
+Iunius /jˈʊnɪʊs/
+June
+_____
+
+Liber
+Liber /lˈɪbɛr/
+Bacchus
+_____
+
+Lyæus
+Lyæus /lyˈaɪʊs/
+Bacchus
+_____
+
+Mars
+Mars /mˈars/
+Mars
+_____
+
+Martius
+Martius /mˈartɪʊs/
+March
+_____
+
+Melita
+Melita /mˈɛlɪta/
+Malta
+_____
+
+Messias
+Messias /mˈɛssɪas/
+Messiah
+_____
+
+Minerva
+Minerva /mɪnˈɛrwa/
+Minerva
+_____
+
+Mulciber
+Mulciber /mˈʊlkɪbɛr/
+Vulcan
+_____
+
+Oceanus
+Oceanus /ɔkˈɛanʊs/
+Oceanus
+_____
+
+Orcus
+Orcus /ˈɔrkʊs/
+death
+_____
+
+Padus
+Padus /pˈadʊs/
+Po
+_____
+
+Pegasus
+Pegasus /pˈɛɡasʊs/
+Pegasus
+_____
+
+Poenicus
+Poenicus /pˈɔɪnɪkʊs/
+Carthaginian
+_____
+
+Poenus
+Poenus /pˈɔɪnʊs/
+Carthaginian
+_____
+
+Pontus
+Pontus /pˈɔntʊs/
+Black Sea, Euxine Sea
+_____
+
+Pontus Axenus
+Pontus Axenus /pˈɔntʊs ˈaksɛnʊs/
+Black Sea, Euxine Sea
+_____
+
+Prusia
+Prusia /prˈʊsɪa/
+Prussia
+_____
+
+Punicus
+Punicus /pˈʊnɪkʊs/
+Carthaginian
+_____
+
+Rhodanus
+Rhodanus /rhˈɔdanʊs/
+Rhone
+_____
+
+Roma
+Roma /rˈɔma/
+Rome
+_____
+
+Romanus
+Romanus /rˈɔmanʊs/
+Roman
+_____
+
+Ruthenia
+Ruthenia /rʊtʰˈɛnɪa/
+Russia
+_____
+
+Satanas
+Satanas /sˈatanas/
+Lucifer, Satan
+_____
+
+Scandia
+Scandia /skˈandɪa/
+Scandinavia
+_____
+
+Sicilia
+Sicilia /sɪkˈɪlɪa/
+Sicily
+_____
+
+Styx
+Styx /stˈyks/
+Styx
+_____
+
+Syria
+Syria /sˈyrɪa/
+Syria
+_____
+
+Tiber
+Tiber /tˈɪbɛr/
+Tiber
+_____
+
+Trinacria
+Trinacria /trɪnˈakrɪa/
+Sicily
+_____
+
+Tros
+Tros /trˈɔs/
+Trojan
+_____
+
+Venus
+Venus /wˈɛnʊs/
+1. Venus
+2. Evening Star
+_____
+
+Vesta
+Vesta /wˈɛsta/
+Vesta
+_____
+
+Vulcanus
+Vulcanus /wˈʊlkanʊs/
+Vulcan
+_____
+
+Zabulus
+Zabulus /zˈabʊlʊs/
+Lucifer, Satan
+_____
+
+Zama
+Zama /zˈama/
+Zama
+_____
+
+... abhinc
+... abhinc /ˈabhɪŋk/
+... ago
+_____
+
+a
+a /ˈa/
+1. ah, oh, ow
+2. since, ever since
+3. by
+4. from
+5. out of
+6. at, on, upon
+7. as a result of, in consequence of, owing to
+_____
+
+ab
+ab /ˈab/
+1. since, ever since
+2. by
+3. from
+4. out of
+5. at, on, upon
+6. as a result of, in consequence of, owing to
+_____
+
+abactor
+abactor /abˈaktɔr/
+1. cattle‐lifter, cattle‐stealer
+2. abductor
+_____
+
+abacus
+abacus /ˈabakʊs/
+1. abacus
+2. ball‐frame, counting‐frame
+3. buffet
+_____
+
+abavus
+abavus /ˈabawʊs/
+1. great‐grandfather
+2. forefather
+_____
+
+abbas
+abbas /ˈabːas/
+abbot
+_____
+
+abbatia
+abbatia /abːˈatɪa/
+abbey
+_____
+
+abbatissa
+abbatissa /abːatˈɪssa/
+abbess
+_____
+
+abbreviare
+abbreviare /abːrɛwˈɪarɛ/
+abbreviate, abridge, shorten
+_____
+
+abdere
+abdere /ˈabdɛrɛ/
+1. abstract, take away
+2. conceal, hide
+_____
+
+abdicatio
+abdicatio /abdɪkˈatɪɔ/
+abdication
+_____
+
+abecedarius
+abecedarius /abɛkɛdˈarɪʊs/
+alphabetical
+_____
+
+abesse
+abesse /abˈɛssɛ/
+be absent, be missing
+_____
+
+abhinc ...
+abhinc ... /ˈabhɪŋk/
+... ago
+_____
+
+abiectus
+abiectus /abɪˈɛktʊs/
+commonplace, dismal, trite
+_____
+
+abies
+abies /ˈabɪɛs/
+1. fir
+2. lance, spear
+3. ship, vessel
+_____
+
+abigere
+abigere /abˈɪɡɛrɛ/
+1. chase away, drive away, expel
+2. steal
+_____
+
+abire
+abire /ˈabɪrɛ/
+absent onself, depart, go away, leave
+_____
+
+abitere
+abitere /abˈɪtɛrɛ/
+absent onself, depart, go away, leave
+_____
+
+abiungere
+abiungere /abɪˈʊŋɡɛrɛ/
+divide, separate
+_____
+
+abiurare
+abiurare /abɪˈʊrarɛ/
+abjure, abnegate
+_____
+
+ablativus
+ablativus /ablˈatɪwʊs/
+ablative
+_____
+
+ablegare
+ablegare /ablˈɛɡarɛ/
+dismiss, turn away
+_____
+
+ablocare
+ablocare /ablˈɔkarɛ/
+1. invite tenders for, put out to tender
+2. let, rent out
+_____
+
+abnatare
+abnatare /abnˈatarɛ/
+swim away
+_____
+
+abnegare
+abnegare /abnˈɛɡarɛ/
+abnegate, deny oneself
+_____
+
+abnegatio
+abnegatio /abnɛɡˈatɪɔ/
+abnegation
+_____
+
+abnepos
+abnepos /ˈabnɛpɔs/
+greatgrandchild
+_____
+
+abnuere
+abnuere /abnˈʊɛrɛ/
+1. shake one's head
+2. deny
+_____
+
+abnutare
+abnutare /abnˈʊtarɛ/
+shake one's head
+_____
+
+abolere
+abolere /abˈɔlɛrɛ/
+abolish, abrogate
+_____
+
+abolescere
+abolescere /abɔlˈɛskɛrɛ/
+disappear
+_____
+
+abolicio
+abolicio /abɔlˈɪkɪɔ/
+abolition, abrogation
+_____
+
+abolitio
+abolitio /abɔlˈɪtɪɔ/
+1. abolition, abrogation
+2. act of grace, amnesty
+_____
+
+abomiamentum
+abomiamentum /abɔmɪamˈɛntʊm/
+abomination
+_____
+
+abominabilis
+abominabilis /abɔmɪnˈabɪlɪs/
+abhorrent, abominable, alien, awful, hideous, horrible, gruesome
+_____
+
+abominare
+abominare /abɔmˈɪnarɛ/
+abhor, abominate, loathe
+_____
+
+abominari
+abominari /abɔmˈɪnarɪ/
+abhor, abominate, loathe
+_____
+
+abominatio
+abominatio /abɔmɪnˈatɪɔ/
+abhorrence, abomination, horror
+_____
+
+aboriri
+aboriri /abˈɔrɪrɪ/
+disappear
+_____
+
+aborisci
+aborisci /abɔrˈɪskɪ/
+disappear
+_____
+
+abrenuntiare
+abrenuntiare /abrɛnʊntˈɪarɛ/
+abjure, abnegate
+_____
+
+abrenuntiatio
+abrenuntiatio /abrɛnʊntɪˈatɪɔ/
+abjuration
+_____
+
+abrogatio
+abrogatio /abrɔɡˈatɪɔ/
+1. abolition, abrogation
+_____
+
+abrumpere
+abrumpere /abrˈʊmpɛrɛ/
+1. divide, separate
+2. break, break off
+_____
+
+abrupte
+abrupte /abrˈʊptɛ/
+abruptly
+_____
+
+abruptum
+abruptum /abrˈʊptʊm/
+abyss, chasm, gulf, precipice
+_____
+
+abs
+abs /ˈabs/
+1. since, ever since
+2. by
+3. from
+4. out of
+5. at, on, upon
+6. as a result of, in consequence of, owing to
+_____
+
+abscedere
+abscedere /abskˈɛdɛrɛ/
+1. absent onself, depart, go away, leave
+2. disappear
+_____
+
+abscondere
+abscondere /abskˈɔndɛrɛ/
+conceal, hide
+_____
+
+absconse
+absconse /abskˈɔnsɛ/
+clandestinely, secretly
+_____
+
+absens
+absens /ˈabsɛns/
+absent
+_____
+
+absimilis
+absimilis /absˈɪmɪlɪs/
+different
+_____
+
+absinthiatum
+absinthiatum /absɪntʰˈɪatʊm/
+vermouth
+_____
+
+absinthium
+absinthium /absˈɪntʰɪʊm/
+absinth
+_____
+
+absque
+absque /ˈabskwɛ/
+1. apart from, but, except, other than
+2. without
+_____
+
+absurdus
+absurdus /absˈʊrdʊs/
+absurd
+_____
+
+abyssus
+abyssus /abˈyssʊs/
+abyss, chasm, gulf, precipice
+_____
+
+abætere
+abætere /abˈaɪtɛrɛ/
+absent onself, depart, go away, leave
+_____
+
+ac
+ac /ˈak/
+and
+_____
+
+acacia
+acacia /akˈakɪa/
+acacia
+_____
+
+acalanthis
+acalanthis /akalˈantʰɪs/
+goldfinch
+_____
+
+acanthus
+acanthus /akˈantʰʊs/
+1. acacia
+2. acanthus
+_____
+
+acatium
+acatium /akˈatɪʊm/
+little boat
+_____
+
+accelerare
+accelerare /akːɛlˈɛrarɛ/
+accelerate, speed up
+_____
+
+accensere
+accensere /akːˈɛnsɛrɛ/
+add
+_____
+
+accentus
+accentus /akːˈɛntʊs/
+1. accent, stress
+2. sound
+_____
+
+acceptabilis
+acceptabilis /akːɛptˈabɪlɪs/
+1. agreeable, enjoyable, lovely, nice, pleasant
+2. acceptable
+_____
+
+acceptatio
+acceptatio /akːɛptˈatɪɔ/
+acceptance, admission
+_____
+
+acceptator
+acceptator /akːˈɛptatɔr/
+acceptor
+_____
+
+accidens
+accidens /ˈakːɪdɛns/
+accident
+_____
+
+accidere
+accidere /akːˈɪdɛrɛ/
+1. become, come about, grow, happen
+2. occur
+_____
+
+accipere
+accipere /akːˈɪpɛrɛ/
+accept, receive, take, take in
+_____
+
+accipiter
+accipiter /akːˈɪpɪtɛr/
+1. hawk
+2. money‐grubber
+_____
+
+accipitrina
+accipitrina /akːɪpˈɪtrɪna/
+prey
+_____
+
+acclamare
+acclamare /akːlˈamarɛ/
+acclaim, applaud
+_____
+
+acclamatio
+acclamatio /akːlamˈatɪɔ/
+1. acclamation
+2. acclaim, approval
+_____
+
+accommodare
+accommodare /akːɔmmˈɔdarɛ/
+add
+_____
+
+accrescere
+accrescere /akːrˈɛskɛrɛ/
+1. accrue, grow
+2. increase
+_____
+
+accretio
+accretio /akːrˈɛtɪɔ/
+1. accretion, growth
+2. enlargement, increase
+_____
+
+accusare
+accusare /akːˈʊsarɛ/
+accuse
+_____
+
+accusatio
+accusatio /akːʊsˈatɪɔ/
+accusal, accusation
+_____
+
+accusativus
+accusativus /akːʊsˈatɪwʊs/
+accusative
+_____
+
+accusator
+accusator /akːˈʊsatɔr/
+accuser
+_____
+
+acer
+acer /ˈakɛr/
+maple, sycamore
+_____
+
+acerbitas
+acerbitas /akˈɛrbɪtas/
+1. acerbity, bitterness
+2. severity, rigour, sterness
+_____
+
+acerbus
+acerbus /akˈɛrbʊs/
+1. acerbic, acid, acrid, harsh, sour, tart
+2. bitter
+3. cruel
+4. unripe
+5. severe, strict
+_____
+
+acere
+acere /ˈakɛrɛ/
+be acid, be sour
+_____
+
+acernus
+acernus /akˈɛrnʊs/
+maple, maple‐, of a maple
+_____
+
+acescere
+acescere /akˈɛskɛrɛ/
+acidify, sour, grow sour
+_____
+
+acetabulum
+acetabulum /akɛtˈabʊlʊm/
+vinager‐bottle
+_____
+
+acetum
+acetum /ˈakɛtʊm/
+vinegar
+_____
+
+acia
+acia /ˈakɪa/
+thread
+_____
+
+acidus
+acidus /ˈakɪdʊs/
+1. acid
+2. bleak, dismal, dreary, horrible, ghastly, grisly, nasty
+_____
+
+acies
+acies /ˈakɪɛs/
+acerbity, acrimony, acuity, sharpness
+_____
+
+acinus
+acinus /ˈakɪnʊs/
+1. berry
+2. grape
+_____
+
+acipenser
+acipenser /akɪpˈɛnsɛr/
+sturgeon
+_____
+
+aconitum
+aconitum /akˈɔnɪtʊm/
+1. aconite, monkshood
+2. poison
+_____
+
+acritas
+acritas /ˈakrɪtas/
+acerbity, acrimony, acuity, sharpness
+_____
+
+acroama
+acroama /akrˈɔama/
+1. reciter
+2. concert
+3. soloist
+_____
+
+acror
+acror /ˈakrɔr/
+acerbity, acrimony, acuity, sharpness
+_____
+
+acta
+acta /ˈakta/
+1. coast, seaside, shore
+2. beach
+_____
+
+actio
+actio /ˈaktɪɔ/
+achievement, act, action
+_____
+
+actor
+actor /ˈaktɔr/
+actor
+_____
+
+actuariola
+actuariola /aktʊarˈɪɔla/
+boat, ship's boat, shallop, sloop
+_____
+
+actum
+actum /ˈaktʊm/
+1. achievement, act, action
+2. accomplishment
+_____
+
+aculeus
+aculeus /ˈakʊlɛʊs/
+sting
+_____
+
+acumen
+acumen /ˈakʊmɛn/
+1. acerbity, acrimony, acuity, sharpness
+2. witticism
+_____
+
+acurere
+acurere /akˈʊrɛrɛ/
+sharpen
+_____
+
+acus
+acus /ˈakʊs/
+needle
+_____
+
+acutus
+acutus /ˈakʊtʊs/
+dangerous
+_____
+
+ad
+ad /ˈad/
+1. at, to, toward, towards
+2. until, till
+_____
+
+adagium
+adagium /adˈaɡɪʊm/
+adage, proverb
+_____
+
+adamas
+adamas /ˈadamas/
+steel
+_____
+
+addubitare
+addubitare /adːʊbˈɪtarɛ/
+doubt
+_____
+
+adducere
+adducere /adːˈʊkɛrɛ/
+bring, fetch
+_____
+
+adesse
+adesse /adˈɛssɛ/
+attend, be present, witness
+_____
+
+adesurire
+adesurire /adɛsˈʊrɪrɛ/
+get hungry
+_____
+
+adhuc
+adhuc /ˈadhʊk/
+yet
+_____
+
+adimere
+adimere /adˈɪmɛrɛ/
+abstract, take away
+_____
+
+adire
+adire /ˈadɪrɛ/
+advance, approach, come on
+_____
+
+adiutare
+adiutare /adɪˈʊtarɛ/
+1. abet, aid, assist, help
+2. accomodate
+_____
+
+adiuvare
+adiuvare /adɪˈʊwarɛ/
+1. abet, aid, assist, help
+2. accomodate
+_____
+
+adjectivum
+adjectivum /adjˈɛktɪwʊm/
+adjective
+_____
+
+admirabilis
+admirabilis /admɪrˈabɪlɪs/
+1. admirable
+2. paradoxical
+_____
+
+admirabilitas
+admirabilitas /admɪrabˈɪlɪtas/
+admiration
+_____
+
+admirari
+admirari /admˈɪrarɪ/
+admire
+_____
+
+admiratio
+admiratio /admɪrˈatɪɔ/
+admiration
+_____
+
+admirator
+admirator /admˈɪratɔr/
+admirer
+_____
+
+admodum
+admodum /ˈadmɔdʊm/
+quite, very, very much
+_____
+
+admonere
+admonere /admˈɔnɛrɛ/
+1. admonish, scold
+2. caution, warn
+_____
+
+admonitus
+admonitus /admˈɔnɪtʊs/
+admonition, exhortation
+_____
+
+adolescens
+adolescens /adɔlˈɛskɛns/
+1. adolescent
+_____
+
+adolescere
+adolescere /adɔlˈɛskɛrɛ/
+accrue, grow
+_____
+
+ador
+ador /ˈadɔr/
+spelt
+_____
+
+adorabilis
+adorabilis /adɔrˈabɪlɪs/
+adorable
+_____
+
+adorare
+adorare /adˈɔrarɛ/
+adore, worship
+_____
+
+adoratio
+adoratio /adɔrˈatɪɔ/
+adoration, worship
+_____
+
+adorea
+adorea /adˈɔrɛa/
+1. triumph
+2. victory
+_____
+
+adoria
+adoria /adˈɔrɪa/
+1. triumph
+2. victory
+_____
+
+adulter
+adulter /adˈʊltɛr/
+1. adulterous
+2. adulterer
+_____
+
+adultera
+adultera /adˈʊltɛra/
+adulteress
+_____
+
+adunare
+adunare /adˈʊnarɛ/
+join, unite
+_____
+
+adunatio
+adunatio /adʊnˈatɪɔ/
+combination, joining, junction, union
+_____
+
+adusque
+adusque /adˈʊskwɛ/
+until, till
+_____
+
+advena
+advena /ˈadwɛna/
+1. alien, foreign
+2. foreigner, foreign lady, foreign woman
+3. strange
+_____
+
+adventicius
+adventicius /adwɛntˈɪkɪʊs/
+alien, foreign
+_____
+
+adventus
+adventus /adwˈɛntʊs/
+arrival
+_____
+
+adverbium
+adverbium /adwˈɛrbɪʊm/
+adverb
+_____
+
+advocare
+advocare /adwˈɔkarɛ/
+appeal to, invoke
+_____
+
+affigere
+affigere /affˈɪɡɛrɛ/
+affix, attach
+_____
+
+affluere
+affluere /afflˈʊɛrɛ/
+come flocking in, flow towards, rush towards, stream towards
+_____
+
+agamus
+agamus /ˈaɡamʊs/
+single, unmarried
+_____
+
+agape
+agape /ˈaɡapɛ/
+1. agape
+2. affection, love
+_____
+
+agaso
+agaso /ˈaɡasɔ/
+1. donkey‐driver
+2. groom, stableman
+_____
+
+ager
+ager /ˈaɡɛr/
+field
+_____
+
+agere
+agere /ˈaɡɛrɛ/
+act, take action
+_____
+
+agna
+agna /ˈaŋna/
+lamb
+_____
+
+agnellina
+agnellina /aŋnˈɛllɪna/
+lamb
+_____
+
+agnina
+agnina /ˈaŋnɪna/
+lamb
+_____
+
+agninus
+agninus /ˈaŋnɪnʊs/
+lamb, of lamb
+_____
+
+agnomen
+agnomen /ˈaŋnɔmɛn/
+byname, nickname, sobriquet
+_____
+
+agnoscere
+agnoscere /aŋnˈɔskɛrɛ/
+acknowledge, recognize
+_____
+
+agon
+agon /ˈaɡɔn/
+competition, contest
+_____
+
+agoris
+agoris /ˈaɡɔrɪs/
+farmer
+_____
+
+agricultio
+agricultio /aɡrɪkˈʊltɪɔ/
+1. agriculture, farming, tillage
+_____
+
+agricultura
+agricultura /aɡrɪkˈʊltʊra/
+1. agriculture, farming, tillage
+_____
+
+ah
+ah /ˈah/
+ah, oh, ow
+_____
+
+aheneus
+aheneus /ˈahɛnɛʊs/
+1. bronze
+2. copper
+_____
+
+ai
+ai /ˈaɪ/
+ah, oh, ow
+_____
+
+ala
+ala /ˈala/
+1. armpit
+2. wing
+3. belt, girdle
+_____
+
+alauda
+alauda /alˈaʊda/
+lark
+_____
+
+albare
+albare /ˈalbarɛ/
+blanch, whiten
+_____
+
+alcedo
+alcedo /ˈalkɛdɔ/
+halcyon, kingfisher
+_____
+
+alces
+alces /ˈalkɛs/
+elk, moose
+_____
+
+alcyon
+alcyon /alkˈyɔn/
+1. halcyon, kingfisher
+_____
+
+alea
+alea /ˈalɛa/
+die
+_____
+
+alere
+alere /ˈalɛrɛ/
+1. attend, nurse, tend to
+2. feed, nourish
+_____
+
+ales
+ales /ˈalɛs/
+1. indication, omen, portent, precursor, presage, sign
+2. bird
+_____
+
+alga
+alga /ˈalɡa/
+alga, seaweed
+_____
+
+alias
+alias /ˈalɪas/
+another time
+_____
+
+alibi
+alibi /ˈalɪbɪ/
+elsewhere
+_____
+
+alienigenus
+alienigenus /alɪɛnˈɪɡɛnʊs/
+alien, foreign
+_____
+
+alienus
+alienus /alˈɪɛnʊs/
+another man's, other people's
+_____
+
+aliqua
+aliqua /ˈalɪkwa/
+anyway, somehow
+_____
+
+aliquis
+aliquis /ˈalɪkwɪs/
+1. a, any, anybody, some, somebody, one, some one
+_____
+
+alius
+alius /ˈalɪʊs/
+1. other, another, else
+2. another man
+_____
+
+allophylus
+allophylus /allɔpʰˈylʊs/
+1. alien, foreign
+2. strange
+_____
+
+alneus
+alneus /ˈalnɛʊs/
+alder, alder‐, of an alder
+_____
+
+alnus
+alnus /ˈalnʊs/
+alder
+_____
+
+aloe
+aloe /ˈalɔɪ/
+1. aloe
+2. acerbity, bitterness
+_____
+
+alogia
+alogia /alˈɔɡɪa/
+absurdity, nonsense, rubbish
+_____
+
+alsus
+alsus /ˈalsʊs/
+cool
+_____
+
+altaria
+altaria /altˈarɪa/
+altar
+_____
+
+altitudo
+altitudo /altˈɪtʊdɔ/
+height
+_____
+
+altum
+altum /ˈaltʊm/
+1. height
+2. depth
+_____
+
+altus
+altus /ˈaltʊs/
+1. high, lofty, tall
+2. proud
+_____
+
+alumen
+alumen /ˈalʊmɛn/
+alum
+_____
+
+alvarium
+alvarium /alwˈarɪʊm/
+beehive
+_____
+
+alveus
+alveus /ˈalwɛʊs/
+1. beehive
+2. bath
+3. basin, reservoir
+4. boat
+5. jug, box, container, vessel
+_____
+
+alvus
+alvus /ˈalwʊs/
+1. beehive
+2. stomach
+3. abdomen, belly, tummy
+_____
+
+amandare
+amandare /amˈandarɛ/
+dismiss, turn away
+_____
+
+amanuensis
+amanuensis /amanʊˈɛnsɪs/
+clerk
+_____
+
+amaracus
+amaracus /amˈarakʊs/
+majoram
+_____
+
+amaranthus
+amaranthus /amarˈantʰʊs/
+sweet william
+_____
+
+amarare
+amarare /amˈararɛ/
+make bitter
+_____
+
+amare
+amare /ˈamarɛ/
+love
+_____
+
+amarescere
+amarescere /amarˈɛskɛrɛ/
+become bitter
+_____
+
+amarities
+amarities /amarˈɪtɪɛs/
+1. acerbity, bitterness
+_____
+
+amaritudo
+amaritudo /amarˈɪtʊdɔ/
+1. acerbity, bitterness
+_____
+
+amarulentus
+amarulentus /amarʊlˈɛntʊs/
+acerbic, bitter
+_____
+
+amarus
+amarus /ˈamarʊs/
+1. acerbic, bitter
+2. bleak, dismal, dreary, horrible, ghastly, grisly, nasty
+_____
+
+amator
+amator /ˈamatɔr/
+lover
+_____
+
+ambactus
+ambactus /ambˈaktʊs/
+1. boy, servant
+2. serf, villain
+_____
+
+ambiguus
+ambiguus /ˈambɪɡwʊs/
+ambiguous
+_____
+
+ambire
+ambire /ˈambɪrɛ/
+circumvent, go around
+_____
+
+ambitio
+ambitio /ambˈɪtɪɔ/
+ambition
+_____
+
+ambrosia
+ambrosia /ambrˈɔsɪa/
+ambrosia
+_____
+
+ambulare
+ambulare /ambˈʊlarɛ/
+go for a walk, stroll
+_____
+
+amens
+amens /ˈamɛns/
+crazy, insane, mad, nuts
+_____
+
+amentia
+amentia /amˈɛntɪa/
+craziness, insanity, lunacy, madness
+_____
+
+amethystus
+amethystus /amɛtʰˈystʊs/
+amethyst
+_____
+
+amica
+amica /ˈamɪka/
+friend
+_____
+
+amicitia
+amicitia /amɪkˈɪtɪa/
+friendship
+_____
+
+amicus
+amicus /ˈamɪkʊs/
+1. friendly
+2. friend
+_____
+
+amita
+amita /ˈamɪta/
+aunt
+_____
+
+amnis
+amnis /ˈamnɪs/
+1. current, flow, stream
+_____
+
+amoliri
+amoliri /amˈɔlɪrɪ/
+turn away
+_____
+
+amor
+amor /ˈamɔr/
+1. affection, love
+2. sexual love
+_____
+
+amphibolus
+amphibolus /ampʰˈɪbɔlʊs/
+ambiguous
+_____
+
+amphitheatrum
+amphitheatrum /ampʰɪtʰˈɛatrʊm/
+amphitheatre
+_____
+
+amphora
+amphora /ˈampʰɔra/
+amphora
+_____
+
+amplus
+amplus /ˈamplʊs/
+1. ample, bulky, extensive
+2. spacious, vast, wide
+_____
+
+ampulla
+ampulla /ampˈʊlla/
+bulb
+_____
+
+amputare
+amputare /ampˈʊtarɛ/
+amputate
+_____
+
+anapæstus
+anapæstus /anapˈaɪstʊs/
+anapaest
+_____
+
+anas
+anas /ˈanas/
+duck
+_____
+
+anathema
+anathema /anˈatʰɛma/
+anathema, ban, excommunication
+_____
+
+anatina
+anatina /anˈatɪna/
+duck, duck meat
+_____
+
+anatinus
+anatinus /anˈatɪnʊs/
+duck, duck‐, duck's, of a duck
+_____
+
+anatomia
+anatomia /anatˈɔmɪa/
+anatomy
+_____
+
+anatomicus
+anatomicus /anatˈɔmɪkʊs/
+anatomist
+_____
+
+ancilla
+ancilla /aŋkˈɪlla/
+1. maid, servant
+2. bondwoman, slave, female slave
+_____
+
+ancon
+ancon /ˈaŋkɔn/
+elbow
+_____
+
+ancora
+ancora /ˈaŋkɔra/
+anchor
+_____
+
+ancula
+ancula /ˈaŋkʊla/
+maid, servant
+_____
+
+anculare
+anculare /aŋkˈʊlarɛ/
+serve
+_____
+
+anculus
+anculus /ˈaŋkʊlʊs/
+boy, servant
+_____
+
+anethum
+anethum /ˈanɛtʰʊm/
+dill
+_____
+
+angela
+angela /ˈaŋɡɛla/
+angel, female angel
+_____
+
+angelicus
+angelicus /aŋɡˈɛlɪkʊs/
+angelic
+_____
+
+angelus
+angelus /ˈaŋɡɛlʊs/
+angel
+_____
+
+anguilla
+anguilla /aŋɡwˈɪlla/
+eel
+_____
+
+anguis
+anguis /ˈaŋɡwɪs/
+serpent, snake
+_____
+
+angularis
+angularis /aŋɡˈʊlarɪs/
+gaunt
+_____
+
+angulatus
+angulatus /aŋɡˈʊlatʊs/
+gaunt
+_____
+
+angulosus
+angulosus /aŋɡˈʊlɔsʊs/
+gaunt
+_____
+
+angulus
+angulus /ˈaŋɡʊlʊs/
+1. angle
+2. corner
+_____
+
+angustus
+angustus /aŋɡˈʊstʊs/
+1. narrow
+2. close, cramped
+_____
+
+anima
+anima /ˈanɪma/
+1. soul
+2. breath
+3. wind
+_____
+
+animal
+animal /ˈanɪmal/
+animal
+_____
+
+animus
+animus /ˈanɪmʊs/
+soul
+_____
+
+annihilare
+annihilare /annɪhˈɪlarɛ/
+destroy, quash
+_____
+
+anniversarius
+anniversarius /annɪwɛrsˈarɪʊs/
+annual, yearly
+_____
+
+annotare
+annotare /annˈɔtarɛ/
+note, make a note, write down
+_____
+
+annullare
+annullare /annˈʊllarɛ/
+destroy, quash
+_____
+
+annuntiare
+annuntiare /annʊntˈɪarɛ/
+advertise, announce, give notice
+_____
+
+annus
+annus /ˈannʊs/
+year
+_____
+
+annuus
+annuus /ˈannʊʊs/
+annual, yearly
+_____
+
+anser
+anser /ˈansɛr/
+goose
+_____
+
+antarcticus
+antarcticus /antˈarktɪkʊs/
+south, southern
+_____
+
+ante
+ante /ˈantɛ/
+1. before, in front of
+2. ahead, formerly, previously
+_____
+
+antecedere
+antecedere /antɛkˈɛdɛrɛ/
+precede
+_____
+
+antecenium
+antecenium /antɛkˈɛnɪʊm/
+entrée
+_____
+
+antehac
+antehac /ˈantɛhak/
+ahead, formerly, previously
+_____
+
+anteire
+anteire /antˈɛɪrɛ/
+precede
+_____
+
+antelogium
+antelogium /antɛlˈɔɡɪʊm/
+prologue
+_____
+
+anteludium
+anteludium /antɛlˈʊdɪʊm/
+overture, prelude
+_____
+
+antenna
+antenna /antˈɛnna/
+yard
+_____
+
+antepassio
+antepassio /antɛpˈassɪɔ/
+presentiment
+_____
+
+antepes
+antepes /ˈantɛpɛs/
+foreleg, front paw
+_____
+
+antepollere
+antepollere /antɛpˈɔllɛrɛ/
+exceed, surpass
+_____
+
+antestare
+antestare /antˈɛstarɛ/
+exceed, surpass
+_____
+
+antevenire
+antevenire /antɛwˈɛnɪrɛ/
+1. prevent
+2. exceed, surpass
+_____
+
+antevertere
+antevertere /antɛwˈɛrtɛrɛ/
+prevent
+_____
+
+anteviare
+anteviare /antɛwˈɪarɛ/
+precede
+_____
+
+antichristus
+antichristus /antɪkʰrˈɪstʊs/
+Antichrist
+_____
+
+antidotum
+antidotum /antˈɪdɔtʊm/
+antidote
+_____
+
+antigerio
+antigerio /antɪɡˈɛrɪɔ/
+quite, very, very much
+_____
+
+antistes
+antistes /antˈɪstɛs/
+bishop
+_____
+
+antitheus
+antitheus /ˈantɪtʰɛʊs/
+devil
+_____
+
+antrum
+antrum /ˈantrʊm/
+1. cave, grotto
+2. cavity
+3. cavern, den
+_____
+
+anulus
+anulus /ˈanʊlʊs/
+ring
+_____
+
+anus
+anus /ˈanʊs/
+1. anus, arse
+2. old
+3. gammer, old woman
+_____
+
+apator
+apator /ˈapatɔr/
+fatherless
+_____
+
+aper
+aper /ˈapɛr/
+wild boar
+_____
+
+apium
+apium /ˈapɪʊm/
+celery
+_____
+
+apographon
+apographon /apˈɔɡrapʰɔn/
+copy
+_____
+
+apolactizare
+apolactizare /apɔlaktˈɪzzarɛ/
+despise
+_____
+
+apoplexia
+apoplexia /apɔplˈɛksɪa/
+fit, apoplectic fit, seizure, stroke, stroke of apoplexy
+_____
+
+aporia
+aporia /apˈɔrɪa/
+bashfulness, shyness, timidity
+_____
+
+aporiatio
+aporiatio /apɔrɪˈatɪɔ/
+bashfulness, shyness, timidity
+_____
+
+apostolicus
+apostolicus /apɔstˈɔlɪkʊs/
+apostolic
+_____
+
+apostolus
+apostolus /apˈɔstɔlʊs/
+apostle
+_____
+
+apparere
+apparere /apːˈarɛrɛ/
+appear, emerge, perform
+_____
+
+appellare
+appellare /apːˈɛllarɛ/
+accost, address
+_____
+
+applaudere
+applaudere /apːlˈaʊdɛrɛ/
+acclaim, applaud, clap
+_____
+
+appotus
+appotus /ˈapːɔtʊs/
+drunk, intoxicated
+_____
+
+appretiare
+appretiare /apːrɛtˈɪarɛ/
+appraise, estimate, rate
+_____
+
+apprime
+apprime /ˈapːrɪmɛ/
+quite, very, very much
+_____
+
+approbare
+approbare /apːrˈɔbarɛ/
+approve
+_____
+
+appugnare
+appugnare /apːˈʊŋnarɛ/
+assault, attack
+_____
+
+aprugnus
+aprugnus /aprˈʊŋnʊs/
+of a wild boar
+_____
+
+apud
+apud /ˈapʊd/
+1. at, beside, by, near, nearby, near to, next to
+2. in the presence of
+_____
+
+apyrenus
+apyrenus /apˈyrɛnʊs/
+pomegranate
+_____
+
+aqua
+aqua /ˈakwa/
+water
+_____
+
+aqualiculus
+aqualiculus /akwalˈɪkʊlʊs/
+1. stomach
+2. abdomen, belly, tummy
+_____
+
+aqualis
+aqualis /ˈakwalɪs/
+1. aquatic, water, water‐, of water
+2. jug, pitcher
+3. bucket, pail
+_____
+
+aquarium
+aquarium /akwˈarɪʊm/
+bar, pub
+_____
+
+aquarius
+aquarius /akwˈarɪʊs/
+aquatic, water, water‐, of water
+_____
+
+aquila
+aquila /ˈakwɪla/
+eagle
+_____
+
+aquosus
+aquosus /ˈakwɔsʊs/
+abounding in water
+_____
+
+aquæ
+aquæ /ˈakwaɪ/
+spa
+_____
+
+aquæductus
+aquæductus /akwaɪdˈʊktʊs/
+aqueduct
+_____
+
+ara
+ara /ˈara/
+altar
+_____
+
+arabilis
+arabilis /arˈabɪlɪs/
+arable
+_____
+
+aranea
+aranea /arˈanɛa/
+1. spiderweb
+2. spider
+_____
+
+araneum
+araneum /ˈaranɛʊm/
+spiderweb
+_____
+
+araneus
+araneus /ˈaranɛʊs/
+of a spider
+_____
+
+arare
+arare /ˈararɛ/
+plough
+_____
+
+arbiter
+arbiter /ˈarbɪtɛr/
+arbiter, arbitrator, referee, umpire
+_____
+
+arbitrarius
+arbitrarius /arbɪtrˈarɪʊs/
+arbitrary
+_____
+
+arbitratus
+arbitratus /arbˈɪtratʊs/
+arbiter, arbitrator
+_____
+
+arbor
+arbor /ˈarbɔr/
+tree
+_____
+
+arboreus
+arboreus /ˈarbɔrɛʊs/
+arboreal, tree, tree‐, of a tree
+_____
+
+arbutum
+arbutum /ˈarbʊtʊm/
+arbutus fruit
+_____
+
+arbutus
+arbutus /ˈarbʊtʊs/
+arbutus, strawberry tree
+_____
+
+arca
+arca /ˈarka/
+1. box, chest
+2. coffin
+_____
+
+arcano
+arcano /ˈarkanɔ/
+clandestinely, secretly
+_____
+
+arcanus
+arcanus /ˈarkanʊs/
+1. abstruse, mysterious
+2. secret
+_____
+
+archangelus
+archangelus /arkʰˈaŋɡɛlʊs/
+archangel
+_____
+
+archetypus
+archetypus /arkʰɛtˈypʊs/
+aboriginal, original
+_____
+
+archiepiscopus
+archiepiscopus /arkʰɪɛpˈɪskɔpʊs/
+archbishop
+_____
+
+archimagirus
+archimagirus /arkʰɪmˈaɡɪrʊs/
+chef
+_____
+
+archimandrita
+archimandrita /arkʰɪmˈandrɪta/
+archimandrite
+_____
+
+archipirata
+archipirata /arkʰɪpˈɪrata/
+pirate‐chief
+_____
+
+arcus
+arcus /ˈarkʊs/
+1. arch
+2. arc, bow
+_____
+
+ardere
+ardere /ˈardɛrɛ/
+glow, glow with heat
+_____
+
+arduitas
+arduitas /ardˈʊɪtas/
+steepness
+_____
+
+arduum
+arduum /ˈardʊʊm/
+precipice
+_____
+
+arduus
+arduus /ˈardʊʊs/
+1. high, lofty, tall
+2. abrupt, steep
+_____
+
+area
+area /ˈarɛa/
+area
+_____
+
+arena
+arena /ˈarɛna/
+1. arena
+2. desert
+3. beach
+4. sand
+_____
+
+arenaceus
+arenaceus /arˈɛnakɛʊs/
+sand, sand‐, of sand
+_____
+
+arenarius
+arenarius /arɛnˈarɪʊs/
+sand, sand‐, of sand
+_____
+
+arenosus
+arenosus /arˈɛnɔsʊs/
+sand, sand‐, of sand
+_____
+
+argenteus
+argenteus /arɡˈɛntɛʊs/
+silver
+_____
+
+argentum
+argentum /arɡˈɛntʊm/
+silver
+_____
+
+argilla
+argilla /arɡˈɪlla/
+1. clay
+2. white clay
+_____
+
+argumentum
+argumentum /arɡʊmˈɛntʊm/
+attempt, test
+_____
+
+aries
+aries /ˈarɪɛs/
+ram, tup
+_____
+
+arista
+arista /arˈɪsta/
+ear
+_____
+
+arma
+arma /ˈarma/
+weapon
+_____
+
+armare
+armare /ˈarmarɛ/
+arm
+_____
+
+armarium
+armarium /armˈarɪʊm/
+cabinet, closet, cupboard, sideboard
+_____
+
+armilla
+armilla /armˈɪlla/
+bracelet
+_____
+
+armus
+armus /ˈarmʊs/
+1. arm
+2. shoulderblade
+3. upper arm, upper‐arm
+_____
+
+ars
+ars /ˈars/
+1. work of art
+2. art
+3. ruse, trick
+4. tactic, tactics
+5. theory
+_____
+
+arteria
+arteria /artˈɛrɪa/
+artery
+_____
+
+arthritis
+arthritis /ˈartʰrɪtɪs/
+arthritis
+_____
+
+articulus
+articulus /artˈɪkʊlʊs/
+article
+_____
+
+artifex
+artifex /ˈartɪfɛks/
+1. artist
+2. expert, specialist
+_____
+
+artus
+artus /ˈartʊs/
+1. joint
+2. narrow
+3. close, cramped
+_____
+
+arundineus
+arundineus /arˈʊndɪnɛʊs/
+cane, cane‐
+_____
+
+arundo
+arundo /arˈʊndɔ/
+1. baton, cane, stick
+2. fishing rod
+3. reed
+4. arrow
+5. pen
+_____
+
+arvina
+arvina /ˈarwɪna/
+1. fat, grease
+2. bacon
+_____
+
+arvum
+arvum /ˈarwʊm/
+farmland
+_____
+
+arx
+arx /ˈarks/
+castle
+_____
+
+asella
+asella /asˈɛlla/
+jenny‐ass, she‐ass
+_____
+
+asellus
+asellus /asˈɛllʊs/
+haddock
+_____
+
+asilus
+asilus /ˈasɪlʊs/
+gadfly, horse‐fly
+_____
+
+asinarius
+asinarius /asɪnˈarɪʊs/
+1. ass's, donkey, donkey‐, of an ass
+2. donkey‐driver
+_____
+
+asininus
+asininus /asˈɪnɪnʊs/
+ass's, donkey, donkey‐, of an ass
+_____
+
+asinus
+asinus /ˈasɪnʊs/
+ass, donkey
+_____
+
+asparagus
+asparagus /aspˈaraɡʊs/
+asparagus
+_____
+
+aspectamen
+aspectamen /aspˈɛktamɛn/
+appearance, aspect, look, sight, view
+_____
+
+aspirare
+aspirare /aspˈɪrarɛ/
+1. breathe
+2. blow
+_____
+
+aspis
+aspis /ˈaspɪs/
+adder, viper
+_____
+
+asportare
+asportare /aspˈɔrtarɛ/
+bring away, carry away
+_____
+
+asser
+asser /ˈassɛr/
+pole, rod
+_____
+
+assessor
+assessor /assˈɛssɔr/
+1. aid, assistant, helper
+2. assistent
+_____
+
+assiccare
+assiccare /assˈɪkːarɛ/
+dry
+_____
+
+assidere
+assidere /assˈɪdɛrɛ/
+1. defecate
+2. sit down
+_____
+
+assignare
+assignare /assˈɪŋnarɛ/
+assign
+_____
+
+assula
+assula /ˈassʊla/
+splinter
+_____
+
+aster
+aster /ˈastɛr/
+1. heavenly body
+2. star
+_____
+
+asticus
+asticus /ˈastɪkʊs/
+urban
+_____
+
+astralis
+astralis /ˈastralɪs/
+sideral, star, star‐, of a star
+_____
+
+astrangulare
+astrangulare /astraŋɡˈʊlarɛ/
+choke, strangle
+_____
+
+astrologia
+astrologia /astrɔlˈɔɡɪa/
+1. astrology
+2. astronomy
+_____
+
+astrologicus
+astrologicus /astrɔlˈɔɡɪkʊs/
+astronomic, astronomical
+_____
+
+astrologus
+astrologus /astrˈɔlɔɡʊs/
+1. astrologer
+2. astronomer
+_____
+
+astronomia
+astronomia /astrɔnˈɔmɪa/
+astronomy
+_____
+
+astrosus
+astrosus /ˈastrɔsʊs/
+crazy, insane, mad, nuts
+_____
+
+astrum
+astrum /ˈastrʊm/
+1. heavenly body
+2. star
+_____
+
+asylum
+asylum /asˈylʊm/
+asylum
+_____
+
+at
+at /ˈat/
+but, however, nevertheless, yet
+_____
+
+atabulus
+atabulus /atˈabʊlʊs/
+sirocco
+_____
+
+ater
+ater /ˈatɛr/
+1. dark, dim
+2. black
+_____
+
+atheos
+atheos /ˈatʰɛɔs/
+atheist
+_____
+
+athleta
+athleta /ˈatʰlɛta/
+athlete
+_____
+
+athletice
+athletice /atʰlˈɛtɪkɛ/
+athletic
+_____
+
+atomus
+atomus /ˈatɔmʊs/
+atom
+_____
+
+atque
+atque /ˈatkwɛ/
+and
+_____
+
+atramentum
+atramentum /atramˈɛntʊm/
+ink
+_____
+
+atritas
+atritas /ˈatrɪtas/
+blackness
+_____
+
+atrium
+atrium /ˈatrɪʊm/
+1. abode, accommodation, dwelling, residence
+2. living‐room, sitting‐room
+3. palace
+4. reception room
+_____
+
+atrox
+atrox /ˈatrɔks/
+1. abhorrent, abominable, alien, awful, hideous, horrible, gruesome
+2. cruel
+_____
+
+attemptare
+attemptare /atːˈɛmptarɛ/
+attempt, test, try
+_____
+
+aucella
+aucella /aʊkˈɛlla/
+little bird
+_____
+
+audere
+audere /ˈaʊdɛrɛ/
+be bold, dare
+_____
+
+audiens
+audiens /ˈaʊdɪɛns/
+listener
+_____
+
+audire
+audire /ˈaʊdɪrɛ/
+hear
+_____
+
+aura
+aura /ˈaʊra/
+breeze
+_____
+
+auraria
+auraria /aʊrˈarɪa/
+gold‐mine
+_____
+
+aurarius
+aurarius /aʊrˈarɪʊs/
+gold, golden
+_____
+
+aureus
+aureus /ˈaʊrɛʊs/
+1. lovely
+2. gold, golden
+3. gold‐coloured
+_____
+
+aurichalcum
+aurichalcum /aʊrɪkʰˈalkʊm/
+brass
+_____
+
+auricilla
+auricilla /aʊrɪkˈɪlla/
+1. earlobe, lobe of the ear
+2. ear
+_____
+
+auricomus
+auricomus /aʊrˈɪkɔmʊs/
+golden
+_____
+
+auricula
+auricula /aʊrˈɪkʊla/
+1. earlobe, lobe of the ear
+2. ear
+_____
+
+aurifex
+aurifex /ˈaʊrɪfɛks/
+goldsmith
+_____
+
+auris
+auris /ˈaʊrɪs/
+ear
+_____
+
+aurulentus
+aurulentus /aʊrʊlˈɛntʊs/
+gold‐coloured, golden
+_____
+
+aurum
+aurum /ˈaʊrʊm/
+gold
+_____
+
+auscultare
+auscultare /aʊskˈʊltarɛ/
+listen
+_____
+
+auster
+auster /ˈaʊstɛr/
+1. south wind
+2. storm
+_____
+
+austerus
+austerus /ˈaʊstɛrʊs/
+1. acerbic, acrid, tart
+2. bitter
+3. severe, strict
+_____
+
+australis
+australis /ˈaʊstralɪs/
+south, southern
+_____
+
+aut
+aut /ˈaʊt/
+or
+_____
+
+autochton
+autochton /aʊtˈɔkʰtɔn/
+native
+_____
+
+automatum
+automatum /aʊtˈɔmatʊm/
+automoton
+_____
+
+autumare
+autumare /aʊtˈʊmarɛ/
+assert, state
+_____
+
+autumnum
+autumnum /aʊtˈʊmnʊm/
+autumn
+_____
+
+autumnus
+autumnus /aʊtˈʊmnʊs/
+autumn
+_____
+
+auxiliator
+auxiliator /aʊksɪlˈɪatɔr/
+1. aid, assistant, helper
+2. assistent
+_____
+
+auxilium
+auxilium /aʊksˈɪlɪʊm/
+1. aid, help
+_____
+
+avaritia
+avaritia /awarˈɪtɪa/
+avarice, miserliness, stinginess
+_____
+
+avarities
+avarities /awarˈɪtɪɛs/
+avarice, miserliness, stinginess
+_____
+
+avarus
+avarus /ˈawarʊs/
+1. avaricious, miserly, stingy
+2. miser, niggard, skinflint
+_____
+
+ave
+ave /ˈawɛ/
+1. adieu, farewell, bye, goodbye
+2. hello
+_____
+
+avena
+avena /ˈawɛna/
+oats
+_____
+
+aversabilis
+aversabilis /awɛrsˈabɪlɪs/
+abhorrent, abominable, alien, awful, hideous, horrible, gruesome
+_____
+
+aves
+aves /ˈawɛs/
+bird
+_____
+
+avia
+avia /ˈawɪa/
+grandmother
+_____
+
+aviarium
+aviarium /awɪˈarɪʊm/
+aviary
+_____
+
+avicula
+avicula /awˈɪkʊla/
+little bird
+_____
+
+avis
+avis /ˈawɪs/
+indication, omen, portent, precursor, presage, sign
+_____
+
+avitus
+avitus /ˈawɪtʊs/
+bird, bird‐, bird's, of a bird
+_____
+
+avolare
+avolare /awˈɔlarɛ/
+fly away
+_____
+
+avus
+avus /ˈawʊs/
+1. grandfather
+2. great‐grandfather
+3. forefather
+_____
+
+axicia
+axicia /aksˈɪkɪa/
+scissors
+_____
+
+axilla
+axilla /aksˈɪlla/
+armpit
+_____
+
+axioma
+axioma /aksˈɪɔma/
+axiom
+_____
+
+axis
+axis /ˈaksɪs/
+1. axis, axle
+2. heaven, sky
+_____
+
+baca
+baca /bˈaka/
+1. berry
+2. pearl
+_____
+
+baccar
+baccar /bˈakːar/
+valerian
+_____
+
+baceolus
+baceolus /bakˈɛɔlʊs/
+fool
+_____
+
+bacillum
+bacillum /bakˈɪllʊm/
+stick, little stick
+_____
+
+baculum
+baculum /bˈakʊlʊm/
+baton, cane, stick
+_____
+
+baculus
+baculus /bˈakʊlʊs/
+baton, cane, stick
+_____
+
+balare
+balare /bˈalarɛ/
+bleat
+_____
+
+balbutire
+balbutire /balbˈʊtɪrɛ/
+stammer, stutter
+_____
+
+ballio
+ballio /bˈallɪɔ/
+good‐for‐nothing
+_____
+
+balneum
+balneum /bˈalnɛʊm/
+bath
+_____
+
+balæna
+balæna /balˈaɪna/
+whale
+_____
+
+baptisma
+baptisma /baptˈɪsma/
+baptism, christening
+_____
+
+baptismus
+baptismus /baptˈɪsmʊs/
+baptism, christening
+_____
+
+baptisterium
+baptisterium /baptɪstˈɛrɪʊm/
+1. baptistery
+2. pool, swimming‐bath, swimming‐pool
+_____
+
+baptizare
+baptizare /baptˈɪzzarɛ/
+baptize, christen
+_____
+
+barathrum
+barathrum /barˈatʰrʊm/
+ravine
+_____
+
+barba
+barba /bˈarba/
+beard
+_____
+
+barbaria
+barbaria /barbˈarɪa/
+1. foreign country
+2. want of civilization
+_____
+
+barbaries
+barbaries /barbˈarɪɛs/
+1. foreign country
+2. want of civilization
+_____
+
+barbarismus
+barbarismus /barbarˈɪsmʊs/
+barbarism
+_____
+
+barbarus
+barbarus /bˈarbarʊs/
+1. barbaric
+2. barbarian
+3. alien, foreign
+4. foreigner
+5. cruel
+6. uncivilized
+7. Persian
+_____
+
+barbitos
+barbitos /bˈarbɪtɔs/
+lute
+_____
+
+bardus
+bardus /bˈardʊs/
+1. bard
+2. addled, foolish, stupid
+_____
+
+barrinus
+barrinus /bˈarɾɪnʊs/
+elephant, elephant‐, elephant's, elephantine, of an elephant
+_____
+
+barrus
+barrus /bˈarɾʊs/
+elephant
+_____
+
+basiare
+basiare /basˈɪarɛ/
+kiss
+_____
+
+basiatio
+basiatio /basɪˈatɪɔ/
+kiss
+_____
+
+basilicus
+basilicus /basˈɪlɪkʊs/
+1. lovely
+2. regal, royal
+_____
+
+basis
+basis /bˈasɪs/
+1. element, foundation
+2. pedestal
+3. supporting base
+_____
+
+basium
+basium /bˈasɪʊm/
+kiss
+_____
+
+battuere
+battuere /batːˈʊɛrɛ/
+1. fight, struggle
+2. beat, hit, strike
+3. make love
+_____
+
+beccus
+beccus /bˈɛkːʊs/
+beak, bill
+_____
+
+bellare
+bellare /bˈɛllarɛ/
+make war, wage war
+_____
+
+bellari
+bellari /bˈɛllarɪ/
+make war, wage war
+_____
+
+bellator
+bellator /bˈɛllatɔr/
+1. martial, warlike
+2. warrior
+_____
+
+bellatorius
+bellatorius /bɛllatˈɔrɪʊs/
+military
+_____
+
+bellatrix
+bellatrix /bˈɛllatrɪks/
+martial, warlike
+_____
+
+bellax
+bellax /bˈɛllaks/
+martial, warlike
+_____
+
+bellicosus
+bellicosus /bɛllˈɪkɔsʊs/
+martial, warlike
+_____
+
+bellicus
+bellicus /bˈɛllɪkʊs/
+military
+_____
+
+belligerare
+belligerare /bɛllɪɡˈɛrarɛ/
+make war, wage war
+_____
+
+belligerator
+belligerator /bɛllɪɡˈɛratɔr/
+warrior
+_____
+
+bellum
+bellum /bˈɛllʊm/
+war
+_____
+
+bellus
+bellus /bˈɛllʊs/
+1. pretty
+2. charming, lovely
+_____
+
+belua
+belua /bˈɛlʊa/
+monster
+_____
+
+bene
+bene /bˈɛnɛ/
+okay, well
+_____
+
+benedictio
+benedictio /bɛnɛdˈɪktɪɔ/
+blessing, boon
+_____
+
+beryllus
+beryllus /bɛrˈyllʊs/
+beryl
+_____
+
+bestia
+bestia /bˈɛstɪa/
+animal, beast
+_____
+
+beta
+beta /bˈɛta/
+beet
+_____
+
+betaceus
+betaceus /bˈɛtakɛʊs/
+beet, beet‐, of a beet
+_____
+
+bibere
+bibere /bˈɪbɛrɛ/
+drink
+_____
+
+bibilis
+bibilis /bˈɪbɪlɪs/
+drinkable
+_____
+
+bibitor
+bibitor /bˈɪbɪtɔr/
+1. boozer, alcoholic
+_____
+
+bibliopola
+bibliopola /bɪblɪˈɔpɔla/
+bookseller
+_____
+
+bibliotheca
+bibliotheca /bɪblɪˈɔtʰɛka/
+bookcase
+_____
+
+bibliothecarius
+bibliothecarius /bɪblɪɔtʰɛkˈarɪʊs/
+librarian
+_____
+
+biblus
+biblus /bˈɪblʊs/
+paper
+_____
+
+bicolor
+bicolor /bˈɪkɔlɔr/
+bicolour, bicoloured, of two colours
+_____
+
+bifurcum
+bifurcum /bɪfˈʊrkʊm/
+cross
+_____
+
+bilis
+bilis /bˈɪlɪs/
+bile, gall
+_____
+
+bimus
+bimus /bˈɪmʊs/
+biennial, two‐year, two‐year‐old
+_____
+
+bipes
+bipes /bˈɪpɛs/
+two‐footed
+_____
+
+bis
+bis /bˈɪs/
+twice
+_____
+
+bison
+bison /bˈɪsɔn/
+aurochs
+_____
+
+bitumen
+bitumen /bˈɪtʊmɛn/
+asphalt
+_____
+
+blasphemare
+blasphemare /blaspʰˈɛmarɛ/
+blaspheme, cuss, curse, swear
+_____
+
+blasphematio
+blasphematio /blaspʰɛmˈatɪɔ/
+blasphemy
+_____
+
+blasphemia
+blasphemia /blaspʰˈɛmɪa/
+blasphemy
+_____
+
+blasphemus
+blasphemus /blˈaspʰɛmʊs/
+blasphemer
+_____
+
+blatta
+blatta /blˈatːa/
+moth
+_____
+
+blennus
+blennus /blˈɛnnʊs/
+addled, foolish, stupid
+_____
+
+bliteus
+bliteus /blˈɪtɛʊs/
+tasteless
+_____
+
+blitum
+blitum /blˈɪtʊm/
+orache
+_____
+
+boare
+boare /bˈɔarɛ/
+cry out, scream, shout
+_____
+
+boiæ
+boiæ /bˈɔjjaɪ/
+collar
+_____
+
+boletus
+boletus /bˈɔlɛtʊs/
+mushroom
+_____
+
+bombax
+bombax /bˈɔmbaks/
+darn
+_____
+
+bombycinus
+bombycinus /bɔmbˈykɪnʊs/
+silk, silk‐, silken, of silk
+_____
+
+bombyx
+bombyx /bˈɔmbyks/
+silkworm
+_____
+
+bonum
+bonum /bˈɔnʊm/
+good
+_____
+
+bonus
+bonus /bˈɔnʊs/
+good, nice, okay
+_____
+
+borealis
+borealis /bɔrˈɛalɪs/
+northern
+_____
+
+borrire
+borrire /bˈɔrɾɪrɛ/
+bubble
+_____
+
+bos
+bos /bˈɔs/
+bovine, bovine animal
+_____
+
+botrus
+botrus /bˈɔtrʊs/
+grape
+_____
+
+botrys
+botrys /bˈɔtrys/
+grape
+_____
+
+bovile
+bovile /bˈɔwɪlɛ/
+byre, cowhouse, cowshed
+_____
+
+bovillus
+bovillus /bɔwˈɪllʊs/
+bovine, cow, cow‐
+_____
+
+bovinari
+bovinari /bɔwˈɪnarɪ/
+howl, roar
+_____
+
+bovinus
+bovinus /bˈɔwɪnʊs/
+bovine, cow, cow‐
+_____
+
+bracatus
+bracatus /brˈakatʊs/
+1. alien, foreign
+2. trousers wearing
+_____
+
+bracchialis
+bracchialis /brakːʰˈɪalɪs/
+arm, arm‐
+_____
+
+bracchium
+bracchium /brˈakːʰɪʊm/
+1. lower‐arm
+2. arm
+3. thigh
+4. collateral branch, side‐branch
+5. arm of the sea, estuary, firth
+6. scissors
+_____
+
+bracæ
+bracæ /brˈakaɪ/
+pants, trousers
+_____
+
+brassica
+brassica /brˈassɪka/
+cabbage
+_____
+
+breviare
+breviare /brɛwˈɪarɛ/
+abbreviate, abridge, curtail, shorten
+_____
+
+breviarium
+breviarium /brɛwɪˈarɪʊm/
+abridgement, abstract, resumé, summery
+_____
+
+brevis
+brevis /brˈɛwɪs/
+1. short
+2. low
+3. brief
+4. shallow, superficial
+_____
+
+brumalis
+brumalis /brˈʊmalɪs/
+winter, winter‐, of the winter
+_____
+
+brutus
+brutus /brˈʊtʊs/
+1. awkward
+2. obtuse
+3. dull, stupid
+4. burdensome, heavy, onerous
+_____
+
+bubalus
+bubalus /bˈʊbalʊs/
+1. buffalo
+2. gazelle
+_____
+
+bubile
+bubile /bˈʊbɪlɛ/
+byre, cowhouse, cowshed
+_____
+
+bublus
+bublus /bˈʊblʊs/
+bovine, cow, cow‐
+_____
+
+bubo
+bubo /bˈʊbɔ/
+little owl
+_____
+
+bubulus
+bubulus /bˈʊbʊlʊs/
+bovine, cow, cow‐
+_____
+
+bucca
+bucca /bˈʊkːa/
+jaw, jawbone
+_____
+
+bufo
+bufo /bˈʊfɔ/
+toad
+_____
+
+bulbus
+bulbus /bˈʊlbʊs/
+1. bulb
+2. onion
+_____
+
+burdo
+burdo /bˈʊrdɔ/
+hinny
+_____
+
+buxus
+buxus /bˈʊksʊs/
+box‐tree
+_____
+
+caballinus
+caballinus /kabˈallɪnʊs/
+equestrian, horse, horse‐, of a horse
+_____
+
+caballus
+caballus /kabˈallʊs/
+horse
+_____
+
+cacare
+cacare /kˈakarɛ/
+defecate
+_____
+
+cachetcta
+cachetcta /kakʰˈɛtkta/
+consumptive
+_____
+
+cachexia
+cachexia /kakʰˈɛksɪa/
+consumption, tuberculosis
+_____
+
+cachinnare
+cachinnare /kakʰˈɪnnarɛ/
+roar with laughter
+_____
+
+cactus
+cactus /kˈaktʊs/
+artichoke
+_____
+
+cadaver
+cadaver /kˈadawɛr/
+cadaver, corpse
+_____
+
+cadere
+cadere /kˈadɛrɛ/
+drop, fall
+_____
+
+calamus
+calamus /kˈalamʊs/
+1. fishing rod
+2. cane, reed
+3. blade, stalk
+4. arrow
+5. pen
+6. stem
+_____
+
+calathus
+calathus /kˈalatʰʊs/
+basket
+_____
+
+calautica
+calautica /kalˈaʊtɪka/
+1. kerchief
+2. veil
+_____
+
+calcanium
+calcanium /kalkˈanɪʊm/
+heel
+_____
+
+calceolarius
+calceolarius /kalkɛɔlˈarɪʊs/
+shoemaker
+_____
+
+calceus
+calceus /kˈalkɛʊs/
+1. boot
+2. shoe
+_____
+
+calculare
+calculare /kalkˈʊlarɛ/
+calculate, count, figure, work out
+_____
+
+calculo
+calculo /kˈalkʊlɔ/
+book‐keeper
+_____
+
+caldor
+caldor /kˈaldɔr/
+heat
+_____
+
+caldus
+caldus /kˈaldʊs/
+warm
+_____
+
+calere
+calere /kˈalɛrɛ/
+glow, glow with heat
+_____
+
+caliandrum
+caliandrum /kalɪˈandrʊm/
+hairpiece, wig
+_____
+
+calidus
+calidus /kˈalɪdʊs/
+warm
+_____
+
+caliendrum
+caliendrum /kalɪˈɛndrʊm/
+hairpiece, wig
+_____
+
+caligatio
+caligatio /kalɪɡˈatɪɔ/
+darkness, murk
+_____
+
+caligineus
+caligineus /kalˈɪɡɪnɛʊs/
+dark, dim
+_____
+
+caliginosus
+caliginosus /kalɪɡˈɪnɔsʊs/
+1. dark, dim
+2. fuzzy, misty
+_____
+
+caligo
+caligo /kˈalɪɡɔ/
+1. darkness, murk
+2. fog, mist
+_____
+
+calix
+calix /kˈalɪks/
+goblet
+_____
+
+callis
+callis /kˈallɪs/
+1. forest path
+2. mountain path
+_____
+
+callum
+callum /kˈallʊm/
+corn
+_____
+
+calo
+calo /kˈalɔ/
+boy, servant
+_____
+
+calor
+calor /kˈalɔr/
+heat
+_____
+
+caltha
+caltha /kˈaltʰa/
+marigold
+_____
+
+calumnia
+calumnia /kalˈʊmnɪa/
+backbiting, scandal, slander
+_____
+
+calva
+calva /kˈalwa/
+nut
+_____
+
+calvescere
+calvescere /kalwˈɛskɛrɛ/
+be balding
+_____
+
+calvities
+calvities /kalwˈɪtɪɛs/
+baldness
+_____
+
+calvus
+calvus /kˈalwʊs/
+bald
+_____
+
+calx
+calx /kˈalks/
+1. hoof
+2. heel
+3. lime
+_____
+
+camelus
+camelus /kˈamɛlʊs/
+1. dromedary
+2. camel
+_____
+
+caminus
+caminus /kˈamɪnʊs/
+1. hearth
+2. firebox
+3. furnace, kiln, oven, stove
+4. fire on the hearth
+_____
+
+campus
+campus /kˈampʊs/
+plain
+_____
+
+canaba
+canaba /kˈanaba/
+cabin, hut, shack
+_____
+
+canalis
+canalis /kˈanalɪs/
+1. canal, channel
+2. barrel, pipe, tube
+_____
+
+cancer
+cancer /kˈaŋkɛr/
+crayfish
+_____
+
+candela
+candela /kˈandɛla/
+candle
+_____
+
+candidatus
+candidatus /kandˈɪdatʊs/
+candidate
+_____
+
+canens
+canens /kˈanɛns/
+grey
+_____
+
+canere
+canere /kˈanɛrɛ/
+sing
+_____
+
+canis
+canis /kˈanɪs/
+dog
+_____
+
+canistrum
+canistrum /kanˈɪstrʊm/
+small basket
+_____
+
+canna
+canna /kˈanna/
+cane, reed
+_____
+
+cannabis
+cannabis /kˈannabɪs/
+hemp
+_____
+
+cannetum
+cannetum /kˈannɛtʊm/
+cane‐field
+_____
+
+canneus
+canneus /kˈannɛʊs/
+cane, cane‐
+_____
+
+canor
+canor /kˈanɔr/
+1. melody, tune
+2. sound
+_____
+
+cantare
+cantare /kˈantarɛ/
+sing
+_____
+
+canterinus
+canterinus /kantˈɛrɪnʊs/
+equestrian, horse, horse‐, of a horse
+_____
+
+canterius
+canterius /kantˈɛrɪʊs/
+gelding
+_____
+
+cantharis
+cantharis /kˈantʰarɪs/
+1. cantharides, Spanish fly
+2. poison
+_____
+
+cantharus
+cantharus /kˈantʰarʊs/
+weever
+_____
+
+cantor
+cantor /kˈantɔr/
+singer
+_____
+
+cantrix
+cantrix /kˈantrɪks/
+singer, female singer
+_____
+
+canturire
+canturire /kantˈʊrɪrɛ/
+sing
+_____
+
+cantus
+cantus /kˈantʊs/
+1. singing
+2. song
+3. music
+_____
+
+canus
+canus /kˈanʊs/
+grey
+_____
+
+capacitas
+capacitas /kapˈakɪtas/
+1. room, space
+2. ability, capability, fitness, suitability
+_____
+
+capax
+capax /kˈapaks/
+ample, bulky, extensive
+_____
+
+caper
+caper /kˈapɛr/
+he‐goat
+_____
+
+capere
+capere /kˈapɛrɛ/
+1. capture, catch, grapple
+2. get, lay hold of, pick up, take
+_____
+
+capillamentum
+capillamentum /kapɪllamˈɛntʊm/
+hairpiece, wig
+_____
+
+capillus
+capillus /kapˈɪllʊs/
+hair
+_____
+
+capra
+capra /kˈapra/
+1. she‐goat
+2. chamois
+_____
+
+caprea
+caprea /kˈaprɛa/
+roe
+_____
+
+capreolus
+capreolus /kaprˈɛɔlʊs/
+1. wild goat
+2. chamois
+_____
+
+capsa
+capsa /kˈapsa/
+box
+_____
+
+captiosus
+captiosus /kaptˈɪɔsʊs/
+clever, cunning, sly, smart
+_____
+
+captura
+captura /kˈaptʊra/
+prey
+_____
+
+captus
+captus /kˈaptʊs/
+catch, prey
+_____
+
+capulus
+capulus /kˈapʊlʊs/
+1. cemetery, God's acre, graveyard
+2. coffin
+_____
+
+caput
+caput /kˈapʊt/
+1. head, pate
+2. chapter
+_____
+
+carbo
+carbo /kˈarbɔ/
+charcoal
+_____
+
+carcer
+carcer /kˈarkɛr/
+cell
+_____
+
+cardimona
+cardimona /kardˈɪmɔna/
+stomach ache
+_____
+
+cardinalis
+cardinalis /kardˈɪnalɪs/
+fine, great
+_____
+
+carduelis
+carduelis /kardˈʊɛlɪs/
+goldfinch
+_____
+
+carduetum
+carduetum /kardˈʊɛtʊm/
+thisle‐field
+_____
+
+carduus
+carduus /kˈardʊʊs/
+thisle
+_____
+
+carere
+carere /kˈarɛrɛ/
+card
+_____
+
+caries
+caries /kˈarɪɛs/
+rottenness
+_____
+
+carina
+carina /kˈarɪna/
+1. keel
+2. ship, vessel
+_____
+
+cariosus
+cariosus /karˈɪɔsʊs/
+addled, bad, rotten
+_____
+
+caritas
+caritas /kˈarɪtas/
+1. affection, love
+2. value, worth
+_____
+
+carmen
+carmen /kˈarmɛn/
+1. singing
+2. song
+3. poem
+_____
+
+carnatus
+carnatus /kˈarnatʊs/
+bold, corpulent, fat, thick
+_____
+
+carnifex
+carnifex /kˈarnɪfɛks/
+1. hangman, executioner
+2. torturer
+_____
+
+carnificare
+carnificare /karnɪfˈɪkarɛ/
+behead, decapitate
+_____
+
+carnificina
+carnificina /karnɪfˈɪkɪna/
+torture
+_____
+
+carnivorus
+carnivorus /karnˈɪwɔrʊs/
+carnivorous
+_____
+
+caro
+caro /kˈarɔ/
+1. flesh
+2. meat
+_____
+
+carpere
+carpere /kˈarpɛrɛ/
+pick, pluck
+_____
+
+carrus
+carrus /kˈarɾʊs/
+vehicle
+_____
+
+caryota
+caryota /karˈyɔta/
+date
+_____
+
+caryotis
+caryotis /karˈyɔtɪs/
+date
+_____
+
+casa
+casa /kˈasa/
+1. cottage
+2. cabin, hut, shack
+_____
+
+caseus
+caseus /kˈasɛʊs/
+cheese
+_____
+
+casia
+casia /kˈasɪa/
+1. cinnamon
+2. lavender
+_____
+
+cassare
+cassare /kˈassarɛ/
+thrash
+_____
+
+casses
+casses /kˈassɛs/
+1. spiderweb
+2. snare, trap
+_____
+
+cassis
+cassis /kˈassɪs/
+helmet
+_____
+
+cassita
+cassita /kˈassɪta/
+tufted lark
+_____
+
+cassus
+cassus /kˈassʊs/
+concave, hollow
+_____
+
+castanea
+castanea /kastˈanɛa/
+chestnut‐tree
+_____
+
+castellum
+castellum /kastˈɛllʊm/
+fortification
+_____
+
+castificare
+castificare /kastɪfˈɪkarɛ/
+bowdlerize, chasten, expurgate, purify
+_____
+
+castimonia
+castimonia /kastɪmˈɔnɪa/
+chastity, purity
+_____
+
+castitas
+castitas /kˈastɪtas/
+chastity, purity
+_____
+
+castor
+castor /kˈastɔr/
+beaver
+_____
+
+castrare
+castrare /kˈastrarɛ/
+castrate
+_____
+
+castratus
+castratus /kˈastratʊs/
+eunuch
+_____
+
+castrum
+castrum /kˈastrʊm/
+fortification
+_____
+
+castus
+castus /kˈastʊs/
+1. pious
+2. clean
+3. chaste
+_____
+
+casualis
+casualis /kasˈʊalɪs/
+by accident, by chance
+_____
+
+casus
+casus /kˈasʊs/
+1. accident
+2. fall
+3. accidence, chance, hazard
+4. aberration, false step
+_____
+
+catachresis
+catachresis /katˈakʰrɛsɪs/
+abuse
+_____
+
+cataclysmus
+cataclysmus /kataklˈysmʊs/
+deluge, flood
+_____
+
+catadupa
+catadupa /katˈadʊpa/
+waterfall
+_____
+
+catalogus
+catalogus /katˈalɔɡʊs/
+ennumeration
+_____
+
+cataracta
+cataracta /katarˈakta/
+1. waterfall
+2. lock, sluice
+_____
+
+catasta
+catasta /katˈasta/
+scaffold
+_____
+
+catastropha
+catastropha /katˈastrɔpʰa/
+catastrophe
+_____
+
+catax
+catax /kˈataks/
+lame
+_____
+
+catechesis
+catechesis /katˈɛkʰɛsɪs/
+education
+_____
+
+catechismus
+catechismus /katɛkʰˈɪsmʊs/
+catechism
+_____
+
+categoria
+categoria /katɛɡˈɔrɪa/
+accusal, accusation
+_____
+
+catena
+catena /kˈatɛna/
+chain
+_____
+
+caterva
+caterva /katˈɛrwa/
+troop, troupe
+_____
+
+catharticum
+catharticum /katʰˈartɪkʊm/
+laxative
+_____
+
+cathedra
+cathedra /kˈatʰɛdra/
+1. armchair
+2. pulpit
+_____
+
+catholicus
+catholicus /katʰˈɔlɪkʊs/
+1. Catholic
+2. general, usual
+_____
+
+catægis
+catægis /katˈaɪɡɪs/
+hurricane
+_____
+
+cauda
+cauda /kˈaʊda/
+1. penis
+2. tail
+_____
+
+caudex
+caudex /kˈaʊdɛks/
+1. stem, trunk, tree‐trunk
+2. block, pad
+3. book
+4. list
+_____
+
+caudicalis
+caudicalis /kaʊdˈɪkalɪs/
+wooden
+_____
+
+caudicarius
+caudicarius /kaʊdɪkˈarɪʊs/
+wooden
+_____
+
+caudiceus
+caudiceus /kˈaʊdɪkɛʊs/
+wooden
+_____
+
+caulis
+caulis /kˈaʊlɪs/
+1. stalk of cabbage
+2. penis
+3. stalk, stem
+_____
+
+caulæ
+caulæ /kˈaʊlaɪ/
+1. cavity
+2. cave
+_____
+
+causa
+causa /kˈaʊsa/
+1. affair, business, business deal, case, matter
+2. cause, reason
+3. account
+4. concern
+5. action, lawsuit
+_____
+
+cautela
+cautela /kˈaʊtɛla/
+1. preservative
+2. caution
+_____
+
+cautim
+cautim /kˈaʊtɪm/
+carefully, gently, lightly
+_____
+
+cautio
+cautio /kˈaʊtɪɔ/
+caution
+_____
+
+cautus
+cautus /kˈaʊtʊs/
+1. certain, sure
+2. careful, cautious
+_____
+
+cavea
+cavea /kˈawɛa/
+1. beehive
+2. cavity
+3. cave
+4. orbit
+_____
+
+caverna
+caverna /kawˈɛrna/
+1. cave, grotto
+2. cavern, den
+_____
+
+cavum
+cavum /kˈawʊm/
+1. cavity
+2. cave
+3. hole
+_____
+
+cavus
+cavus /kˈawʊs/
+1. concave, hollow
+2. cavity
+3. cave
+4. hole
+_____
+
+cedrinus
+cedrinus /kˈɛdrɪnʊs/
+cedar, of a cedar
+_____
+
+cedrus
+cedrus /kˈɛdrʊs/
+cedar
+_____
+
+celare
+celare /kˈɛlarɛ/
+conceal, hide
+_____
+
+celatim
+celatim /kˈɛlatɪm/
+clandestinely, secretly
+_____
+
+celebrare
+celebrare /kɛlˈɛbrarɛ/
+celebrate
+_____
+
+cella
+cella /kˈɛlla/
+1. pantry
+2. chamber, room
+_____
+
+cellarium
+cellarium /kɛllˈarɪʊm/
+pantry
+_____
+
+cellulanus
+cellulanus /kɛllˈʊlanʊs/
+hermit
+_____
+
+celsus
+celsus /kˈɛlsʊs/
+1. high, lofty, tall
+2. northern
+_____
+
+cenobita
+cenobita /kɛnˈɔbɪta/
+monk
+_____
+
+cenobium
+cenobium /kɛnˈɔbɪʊm/
+monastery
+_____
+
+censere
+censere /kˈɛnsɛrɛ/
+1. decide
+2. judge
+3. think
+4. appraise, estimate, rate
+_____
+
+centum
+centum /kˈɛntʊm/
+hundred, one hundred
+_____
+
+centum milia
+centum milia /kˈɛntʊm mˈɪlɪa/
+hundred thousand
+_____
+
+cera
+cera /kˈɛra/
+wax
+_____
+
+cerastes
+cerastes /kɛrˈastɛs/
+cerastes, horned viper
+_____
+
+cerasus
+cerasus /kˈɛrasʊs/
+1. cherry
+2. cherry‐tree
+_____
+
+cercops
+cercops /kˈɛrkɔps/
+ape, monkey
+_____
+
+cerebellum
+cerebellum /kɛrɛbˈɛllʊm/
+brain
+_____
+
+cerebrosus
+cerebrosus /kɛrˈɛbrɔsʊs/
+1. crazy, insane, mad, nuts
+2. lunatic
+_____
+
+cerebrum
+cerebrum /kˈɛrɛbrʊm/
+brain
+_____
+
+cereus
+cereus /kˈɛrɛʊs/
+taper, wax candle
+_____
+
+cerevisia
+cerevisia /kɛrɛwˈɪsɪa/
+ale, beer
+_____
+
+cerium
+cerium /kˈɛrɪʊm/
+honeycomb
+_____
+
+cernere
+cernere /kˈɛrnɛrɛ/
+sift
+_____
+
+cerritulus
+cerritulus /kɛrɾˈɪtʊlʊs/
+crack‐brained, daft, loopy, nuts, weird
+_____
+
+certe
+certe /kˈɛrtɛ/
+1. certainly
+2. no doubt, undoubtedly
+_____
+
+certim
+certim /kˈɛrtɪm/
+certainly
+_____
+
+certitudo
+certitudo /kɛrtˈɪtʊdɔ/
+certainty
+_____
+
+certo
+certo /kˈɛrtɔ/
+certainly
+_____
+
+certus
+certus /kˈɛrtʊs/
+certain, sure
+_____
+
+ceruchus
+ceruchus /kˈɛrʊkʰʊs/
+cord, rope, string
+_____
+
+cerva
+cerva /kˈɛrwa/
+doe, hind
+_____
+
+cervical
+cervical /kˈɛrwɪkal/
+pillow
+_____
+
+cervinus
+cervinus /kˈɛrwɪnʊs/
+deer, deer‐, of a deer
+_____
+
+cervisia
+cervisia /kɛrwˈɪsɪa/
+ale, beer
+_____
+
+cervix
+cervix /kˈɛrwɪks/
+1. force, strength, vigour
+2. neck
+3. courage
+4. back of the neck, nape
+_____
+
+cervus
+cervus /kˈɛrwʊs/
+deer
+_____
+
+ceryx
+ceryx /kˈɛryks/
+herald
+_____
+
+ceterum
+ceterum /kˈɛtɛrʊm/
+as for the rest, besides, for the rest, moreover, what's more
+_____
+
+ceterus
+ceterus /kˈɛtɛrʊs/
+additional, remaining, rest of
+_____
+
+cetus
+cetus /kˈɛtʊs/
+sea‐monster
+_____
+
+chalceus
+chalceus /kʰˈalkɛʊs/
+copper
+_____
+
+chalybs
+chalybs /kʰˈalybs/
+steel
+_____
+
+chalybæus
+chalybæus /kʰalybˈaɪʊs/
+steal, of steal
+_____
+
+chaos
+chaos /kʰˈaɔs/
+chaos, tangle
+_____
+
+character
+character /kʰarˈaktɛr/
+1. branding iron
+2. brand
+_____
+
+charta
+charta /kʰˈarta/
+1. letter
+2. paper
+_____
+
+chasma
+chasma /kʰˈasma/
+atmospheric phenomenon
+_____
+
+chelys
+chelys /kʰˈɛlys/
+1. lyre
+2. tortoise
+_____
+
+chersus
+chersus /kʰˈɛrsʊs/
+land tortoise
+_____
+
+chirurgia
+chirurgia /kʰɪrˈʊrɡɪa/
+surgery
+_____
+
+chorda
+chorda /kʰˈɔrda/
+cord, string
+_____
+
+chorea
+chorea /kʰˈɔrɛa/
+round dance
+_____
+
+chorus
+chorus /kʰˈɔrʊs/
+round dance
+_____
+
+chrestus
+chrestus /kʰrˈɛstʊs/
+slave
+_____
+
+chrisma
+chrisma /kʰrˈɪsma/
+administration of the last sacraments
+_____
+
+chrysanthes
+chrysanthes /kʰrysˈantʰɛs/
+marigold
+_____
+
+chryseus
+chryseus /kʰrˈysɛʊs/
+gold, golden
+_____
+
+chrysizon
+chrysizon /kʰrˈysɪzzɔn/
+gold‐coloured, golden
+_____
+
+chrysolithus
+chrysolithus /kʰrysˈɔlɪtʰʊs/
+topaz
+_____
+
+chrysos
+chrysos /kʰrˈysɔs/
+gold
+_____
+
+cicaro
+cicaro /kˈɪkarɔ/
+darling
+_____
+
+cicatrix
+cicatrix /kˈɪkatrɪks/
+scar
+_____
+
+cichorium
+cichorium /kɪkʰˈɔrɪʊm/
+1. chicory
+2. endive
+_____
+
+cicirrus
+cicirrus /kɪkˈɪrɾʊs/
+fighting cock, gamecock, ruff
+_____
+
+ciconia
+ciconia /kɪkˈɔnɪa/
+stork
+_____
+
+cicur
+cicur /kˈɪkʊr/
+tame
+_____
+
+cicurare
+cicurare /kɪkˈʊrarɛ/
+tame
+_____
+
+cicuta
+cicuta /kˈɪkʊta/
+hemlock
+_____
+
+cimeterium
+cimeterium /kɪmɛtˈɛrɪʊm/
+cemetery, God's acre, graveyard
+_____
+
+cimex
+cimex /kˈɪmɛks/
+1. bug, bedbug
+2. arsehole, bastard, son‐of‐a‐bitch
+_____
+
+cinis
+cinis /kˈɪnɪs/
+1. ash, cinder
+2. gammer, old woman
+3. barrow, burial mound, grave‐mound, tumulus
+_____
+
+cinnamomum
+cinnamomum /kɪnnˈamɔmʊm/
+cinnamon
+_____
+
+cinnamum
+cinnamum /kˈɪnnamʊm/
+cinnamon
+_____
+
+circa
+circa /kˈɪrka/
+1. about, approximately
+2. round, around, towards
+_____
+
+circulus
+circulus /kˈɪrkʊlʊs/
+1. hoop
+2. ring
+3. circle
+_____
+
+circus
+circus /kˈɪrkʊs/
+circle
+_____
+
+cithara
+cithara /kˈɪtʰara/
+zither
+_____
+
+citrus
+citrus /kˈɪtrʊs/
+lemon‐tree
+_____
+
+classis
+classis /klˈassɪs/
+class
+_____
+
+claudere
+claudere /klˈaʊdɛrɛ/
+1. close, shut
+2. lock
+_____
+
+claudus
+claudus /klˈaʊdʊs/
+lame
+_____
+
+clavis
+clavis /klˈawɪs/
+key, wrench
+_____
+
+clavus
+clavus /klˈawʊs/
+nail
+_____
+
+clepere
+clepere /klˈɛpɛrɛ/
+steal
+_____
+
+clepsere
+clepsere /klˈɛpsɛrɛ/
+steal
+_____
+
+clepta
+clepta /klˈɛpta/
+thief
+_____
+
+clericus
+clericus /klˈɛrɪkʊs/
+clergyman
+_____
+
+cliens
+cliens /klˈɪɛns/
+1. protégé
+2. boy, servant
+3. serf, villain
+_____
+
+clienta
+clienta /klɪˈɛnta/
+protégée
+_____
+
+clima
+clima /klˈɪma/
+climate
+_____
+
+clinamen
+clinamen /klˈɪnamɛn/
+acclivity, hillside, slope
+_____
+
+clinicus
+clinicus /klˈɪnɪkʊs/
+doctor, physician
+_____
+
+clinopale
+clinopale /klɪnˈɔpalɛ/
+coition
+_____
+
+cloaca
+cloaca /klˈɔaka/
+sewer
+_____
+
+clura
+clura /klˈʊra/
+ape, monkey
+_____
+
+coaxare
+coaxare /kɔˈaksarɛ/
+croak
+_____
+
+cochlea
+cochlea /kˈɔkʰlɛa/
+snail
+_____
+
+codex
+codex /kˈɔdɛks/
+1. stem, trunk, tree‐trunk
+2. block, pad
+3. book
+4. list
+_____
+
+coercere
+coercere /kˈɔɪrkɛrɛ/
+compel, force
+_____
+
+coetus
+coetus /kˈɔɪtʊs/
+coition
+_____
+
+cogitare
+cogitare /kɔɡˈɪtarɛ/
+think
+_____
+
+cognomen
+cognomen /kˈɔŋnɔmɛn/
+1. surname
+2. byname, nickname, sobriquet
+_____
+
+cognomentum
+cognomentum /kɔŋnɔmˈɛntʊm/
+byname, nickname, sobriquet
+_____
+
+cohabitare
+cohabitare /kɔhabˈɪtarɛ/
+huddle
+_____
+
+coire
+coire /kˈɔɪrɛ/
+1. assemble, congregate, gather, meet
+2. associate, join, pool
+_____
+
+coitus
+coitus /kˈɔɪtʊs/
+coition
+_____
+
+colere
+colere /kˈɔlɛrɛ/
+1. cultivate, grow
+2. dwell, live
+_____
+
+collaborare
+collaborare /kɔllabˈɔrarɛ/
+cooperate, co‐operate
+_____
+
+collega
+collega /kˈɔllɛɡa/
+colleague
+_____
+
+collis
+collis /kˈɔllɪs/
+hill
+_____
+
+colluctari
+colluctari /kɔllˈʊktarɪ/
+struggle, wrestle
+_____
+
+colluctator
+colluctator /kɔllˈʊktatɔr/
+adversary, enemy
+_____
+
+collum
+collum /kˈɔllʊm/
+1. neck
+2. back of the neck, nape
+_____
+
+colonia
+colonia /kɔlˈɔnɪa/
+colony, settlement
+_____
+
+colonus
+colonus /kˈɔlɔnʊs/
+1. farmer
+2. agrarian
+_____
+
+color
+color /kˈɔlɔr/
+colour, dye
+_____
+
+colorare
+colorare /kɔlˈɔrarɛ/
+colour, paint
+_____
+
+columba
+columba /kɔlˈʊmba/
+dove, pigeon
+_____
+
+columbula
+columbula /kɔlˈʊmbʊla/
+dove, female pigeon
+_____
+
+columbus
+columbus /kɔlˈʊmbʊs/
+cock‐pigeon
+_____
+
+combinare
+combinare /kɔmbˈɪnarɛ/
+couple, match, pair, unite
+_____
+
+cometes
+cometes /kˈɔmɛtɛs/
+comet
+_____
+
+comis
+comis /kˈɔmɪs/
+affable, friendly, good‐natured, kind
+_____
+
+commentarius
+commentarius /kɔmmɛntˈarɪʊs/
+diary
+_____
+
+communis
+communis /kˈɔmmʊnɪs/
+common, joint
+_____
+
+compactus
+compactus /kɔmpˈaktʊs/
+compact
+_____
+
+comparare
+comparare /kɔmpˈararɛ/
+compare
+_____
+
+comparere
+comparere /kɔmpˈarɛrɛ/
+appear, emerge, perform
+_____
+
+compati
+compati /kˈɔmpatɪ/
+have compassion on, pity
+_____
+
+conciliare
+conciliare /kɔŋkɪlˈɪarɛ/
+achieve, acquire, attain, get, obtain
+_____
+
+concitare
+concitare /kɔŋkˈɪtarɛ/
+abet, agitate, incite, stir up
+_____
+
+consul
+consul /kˈɔnsʊl/
+consul
+_____
+
+continuus
+continuus /kɔntˈɪnʊʊs/
+coherent, connected, consistent
+_____
+
+contus
+contus /kˈɔntʊs/
+pole, rod
+_____
+
+converti
+converti /kɔnwˈɛrtɪ/
+convert
+_____
+
+copa
+copa /kˈɔpa/
+1. hostess, landlady
+2. host, innkeeper, landlord
+_____
+
+cophinus
+cophinus /kˈɔpʰɪnʊs/
+basket
+_____
+
+copula
+copula /kˈɔpʊla/
+belt, girdle
+_____
+
+copulare
+copulare /kɔpˈʊlarɛ/
+connect, join
+_____
+
+coquus
+coquus /kˈɔkwʊs/
+cook, male cook
+_____
+
+cor
+cor /kˈɔr/
+1. soul
+2. heart
+_____
+
+corax
+corax /kˈɔraks/
+raven
+_____
+
+corbis
+corbis /kˈɔrbɪs/
+basket
+_____
+
+coriandrum
+coriandrum /kɔrɪˈandrʊm/
+coriander
+_____
+
+corium
+corium /kˈɔrɪʊm/
+leather
+_____
+
+cornix
+cornix /kˈɔrnɪks/
+crow
+_____
+
+cornu
+cornu /kˈɔrnʊ/
+horn
+_____
+
+cornum
+cornum /kˈɔrnʊm/
+cornel, dogberry
+_____
+
+cornus
+cornus /kˈɔrnʊs/
+cornel, dogberry
+_____
+
+corona
+corona /kˈɔrɔna/
+corona
+_____
+
+corporalis
+corporalis /kɔrpˈɔralɪs/
+bodily, body, body‐, corporal, corporeal, of the body, physical
+_____
+
+corporeus
+corporeus /kˈɔrpɔrɛʊs/
+bodily, body, body‐, corporal, corporeal, of the body, physical
+_____
+
+corpus
+corpus /kˈɔrpʊs/
+1. flesh
+2. body
+_____
+
+cortex
+cortex /kˈɔrtɛks/
+1. bark
+2. cork
+_____
+
+corvus
+corvus /kˈɔrwʊs/
+raven
+_____
+
+corylus
+corylus /kɔrˈylʊs/
+1. hazel, hazel‐tree
+_____
+
+costa
+costa /kˈɔsta/
+1. side
+2. abdomen, belly, tummy
+_____
+
+cotidianus
+cotidianus /kɔtɪdˈɪanʊs/
+daily
+_____
+
+cotidie
+cotidie /kɔtˈɪdɪɛ/
+daily
+_____
+
+coturnix
+coturnix /kɔtˈʊrnɪks/
+quail
+_____
+
+coxa
+coxa /kˈɔksa/
+hip
+_____
+
+coxendix
+coxendix /kɔksˈɛndɪks/
+hip
+_____
+
+crabro
+crabro /krˈabrɔ/
+hornet
+_____
+
+crambe
+crambe /krˈambɛ/
+cabbage
+_____
+
+cras
+cras /krˈas/
+tomorrow
+_____
+
+crassus
+crassus /krˈassʊs/
+1. bold, corpulent, fat, thick
+2. fatty, greasy
+_____
+
+crater
+crater /krˈatɛr/
+1. abyss, chasm, gulf, precipice
+2. basin, reservoir
+3. ravine
+_____
+
+creare
+creare /krˈɛarɛ/
+create
+_____
+
+credere
+credere /krˈɛdɛrɛ/
+account, accredit, believe, deem
+_____
+
+cremare
+cremare /krˈɛmarɛ/
+burn down
+_____
+
+crepusculum
+crepusculum /krɛpˈʊskʊlʊm/
+dusk
+_____
+
+crescere
+crescere /krˈɛskɛrɛ/
+accrue, grow
+_____
+
+creta
+creta /krˈɛta/
+chalk
+_____
+
+cribellare
+cribellare /krɪbˈɛllarɛ/
+sift
+_____
+
+cribrare
+cribrare /krˈɪbrarɛ/
+sift
+_____
+
+cribrum
+cribrum /krˈɪbrʊm/
+sieve
+_____
+
+crimen
+crimen /krˈɪmɛn/
+1. accusal, accusation
+2. crime
+3. blame, fault, guilt
+4. reproach
+_____
+
+crocodilus
+crocodilus /krɔkˈɔdɪlʊs/
+crocodile
+_____
+
+crudelis
+crudelis /krˈʊdɛlɪs/
+cruel
+_____
+
+crudus
+crudus /krˈʊdʊs/
+crude, raw, rough
+_____
+
+crus
+crus /krˈʊs/
+leg, paw
+_____
+
+crux
+crux /krˈʊks/
+cross
+_____
+
+crystallus
+crystallus /krystˈallʊs/
+crystal
+_____
+
+cubus
+cubus /kˈʊbʊs/
+die
+_____
+
+cuculus
+cuculus /kˈʊkʊlʊs/
+cuckoo
+_____
+
+cucumis
+cucumis /kˈʊkʊmɪs/
+cucumber
+_____
+
+cucurbita
+cucurbita /kʊkˈʊrbɪta/
+gourd, pumpkin, squash
+_____
+
+culina
+culina /kˈʊlɪna/
+kitchen
+_____
+
+culmen
+culmen /kˈʊlmɛn/
+1. summit, surface, top
+_____
+
+culpa
+culpa /kˈʊlpa/
+blame, fault, guilt
+_____
+
+cultor
+cultor /kˈʊltɔr/
+friend
+_____
+
+culus
+culus /kˈʊlʊs/
+anus, arse
+_____
+
+cumba
+cumba /kˈʊmba/
+boat
+_____
+
+cuniculus
+cuniculus /kʊnˈɪkʊlʊs/
+rabbit
+_____
+
+cunnus
+cunnus /kˈʊnnʊs/
+slut, trollop
+_____
+
+cupa
+cupa /kˈʊpa/
+barrel
+_____
+
+cupressus
+cupressus /kʊprˈɛssʊs/
+cypres
+_____
+
+cura
+cura /kˈʊra/
+1. thoughtfulness
+2. care, concern
+_____
+
+curculio
+curculio /kʊrkˈʊlɪɔ/
+penis
+_____
+
+curis
+curis /kˈʊrɪs/
+javelin
+_____
+
+currere
+currere /kˈʊrɾɛrɛ/
+1. race, run
+_____
+
+cursor
+cursor /kˈʊrsɔr/
+1. runner
+2. courier
+_____
+
+curtare
+curtare /kˈʊrtarɛ/
+abbreviate, abridge, shorten
+_____
+
+curvus
+curvus /kˈʊrwʊs/
+1. bent
+2. curved
+_____
+
+cuspis
+cuspis /kˈʊspɪs/
+1. sting
+2. javelin
+_____
+
+cutis
+cutis /kˈʊtɪs/
+skin
+_____
+
+cyathus
+cyathus /kˈyatʰʊs/
+goblet
+_____
+
+cybium
+cybium /kˈybɪʊm/
+tuna, tuna‐fish, tunny
+_____
+
+cycnus
+cycnus /kˈyknʊs/
+swan
+_____
+
+cylindrus
+cylindrus /kylˈɪndrʊs/
+cylinder, roller
+_____
+
+cymba
+cymba /kˈymba/
+boat
+_____
+
+cymbalum
+cymbalum /kˈymbalʊm/
+cymbal
+_____
+
+cyparissus
+cyparissus /kyparˈɪssʊs/
+cypres
+_____
+
+cæcare
+cæcare /kˈaɪkarɛ/
+dazzle
+_____
+
+cæcitudo
+cæcitudo /kaɪkˈɪtʊdɔ/
+blindness
+_____
+
+cæcus
+cæcus /kˈaɪkʊs/
+blind
+_____
+
+cædere
+cædere /kˈaɪdɛrɛ/
+1. butcher, slaughter
+2. drop, overthrow
+_____
+
+cælebs
+cælebs /kˈaɪlɛbs/
+single, unmarried
+_____
+
+cæles
+cæles /kˈaɪlɛs/
+celestial, heavenly
+_____
+
+cælestis
+cælestis /kaɪlˈɛstɪs/
+1. divine
+2. celestial, heavenly
+_____
+
+cælicus
+cælicus /kˈaɪlɪkʊs/
+celestial, heavenly
+_____
+
+cælum
+cælum /kˈaɪlʊm/
+heaven, sky
+_____
+
+cæmentarius
+cæmentarius /kaɪmɛntˈarɪʊs/
+stone‐cutter, stonemason
+_____
+
+cænum
+cænum /kˈaɪnʊm/
+mud
+_____
+
+cæpa
+cæpa /kˈaɪpa/
+onion
+_____
+
+cæpe
+cæpe /kˈaɪpɛ/
+onion
+_____
+
+cæremonia
+cæremonia /kaɪrɛmˈɔnɪa/
+1. ceremony, solemnity
+2. respectability, venerability
+3. deference, devotion, respect
+4. holy deed
+5. holiness
+6. 10.ceremony
+_____
+
+cærimonia
+cærimonia /kaɪrɪmˈɔnɪa/
+1. ceremony, solemnity
+2. respectability, venerability
+3. deference, devotion, respect
+4. holy deed
+5. holiness
+6. 10.ceremony
+_____
+
+cæruleus
+cæruleus /kˈaɪrʊlɛʊs/
+1. dark blue
+2. dark, dim
+3. green
+_____
+
+cæspes
+cæspes /kˈaɪspɛs/
+sod, sod of grass, turf
+_____
+
+dare
+dare /dˈarɛ/
+give
+_____
+
+debere
+debere /dˈɛbɛrɛ/
+owe
+_____
+
+decem
+decem /dˈɛkɛm/
+ten
+_____
+
+decies centena milia
+decies centena milia /dˈɛkɪɛs kˈɛntɛna mˈɪlɪa/
+million
+_____
+
+decimus
+decimus /dˈɛkɪmʊs/
+tenth
+_____
+
+defendere
+defendere /dɛfˈɛndɛrɛ/
+defend
+_____
+
+delphin
+delphin /dˈɛlpʰɪn/
+dolphin
+_____
+
+delubrum
+delubrum /dˈɛlʊbrʊm/
+1. sanctuary, sanctum
+2. temple
+_____
+
+demens
+demens /dˈɛmɛns/
+1. crazy, insane, mad, nuts
+2. foolish
+_____
+
+dementia
+dementia /dɛmˈɛntɪa/
+1. craziness, insanity, lunacy, madness
+_____
+
+dens
+dens /dˈɛns/
+tooth
+_____
+
+desperare
+desperare /dɛspˈɛrarɛ/
+despair
+_____
+
+desperatio
+desperatio /dɛspɛrˈatɪɔ/
+despair
+_____
+
+deus
+deus /dˈɛʊs/
+god
+_____
+
+dicere
+dicere /dˈɪkɛrɛ/
+say, tell
+_____
+
+dictator
+dictator /dˈɪktatɔr/
+dictator
+_____
+
+dies
+dies /dˈɪɛs/
+day
+_____
+
+digitus
+digitus /dˈɪɡɪtʊs/
+finger
+_____
+
+dimicare
+dimicare /dɪmˈɪkarɛ/
+fight, struggle
+_____
+
+dius
+dius /dˈɪʊs/
+divine
+_____
+
+divus
+divus /dˈɪwʊs/
+1. divine
+2. god
+_____
+
+docere
+docere /dˈɔkɛrɛ/
+teach
+_____
+
+domina
+domina /dˈɔmɪna/
+1. housewife
+2. mistress
+_____
+
+dominus
+dominus /dˈɔmɪnʊs/
+1. despot
+2. emperor
+3. boss, master
+4. ruler
+5. gentleman, lord
+_____
+
+domus
+domus /dˈɔmʊs/
+house
+_____
+
+donare
+donare /dˈɔnarɛ/
+give
+_____
+
+donec
+donec /dˈɔnɛk/
+until, till
+_____
+
+donum
+donum /dˈɔnʊm/
+gift, present
+_____
+
+draco
+draco /drˈakɔ/
+dragon
+_____
+
+dubitare
+dubitare /dʊbˈɪtarɛ/
+doubt
+_____
+
+dubium
+dubium /dˈʊbɪʊm/
+doubt
+_____
+
+ducere
+ducere /dˈʊkɛrɛ/
+conduct, guide, lead
+_____
+
+dum
+dum /dˈʊm/
+for, during, whereas, while, whilst
+_____
+
+duo
+duo /dˈʊɔ/
+two
+_____
+
+duodecim
+duodecim /dʊˈɔdɛkɪm/
+twelve
+_____
+
+duodeviginti
+duodeviginti /dʊɔdɛwɪɡˈɪntɪ/
+eighteen
+_____
+
+durus
+durus /dˈʊrʊs/
+hard
+_____
+
+dux
+dux /dˈʊks/
+1. boss, chief, leader
+_____
+
+duæ
+duæ /dˈʊaɪ/
+two
+_____
+
+e
+e /ˈɛ/
+from, out of
+_____
+
+elementa
+elementa /ɛlɛmˈɛnta/
+element
+_____
+
+elephantus
+elephantus /ɛlɛpʰˈantʊs/
+elephant
+_____
+
+eo
+eo /ˈɛɔ/
+that way, there, thither, yonder
+_____
+
+episcopus
+episcopus /ɛpˈɪskɔpʊs/
+bishop
+_____
+
+epistola
+epistola /ɛpˈɪstɔla/
+letter
+_____
+
+equus
+equus /ˈɛkwʊs/
+horse
+_____
+
+errare
+errare /ˈɛrɾarɛ/
+err, make a mistake
+_____
+
+error
+error /ˈɛrɾɔr/
+aberration, error, mistake
+_____
+
+ex
+ex /ˈɛks/
+from, out of
+_____
+
+exercitus
+exercitus /ɛksˈɛrkɪtʊs/
+army
+_____
+
+exhalare
+exhalare /ɛkshˈalarɛ/
+exhale
+_____
+
+exigere
+exigere /ɛksˈɪɡɛrɛ/
+demand, postulate, require
+_____
+
+experiri
+experiri /ɛkspˈɛrɪrɪ/
+prove
+_____
+
+faba
+faba /fˈaba/
+bean
+_____
+
+fabrica
+fabrica /fˈabrɪka/
+workplace
+_____
+
+facere
+facere /fˈakɛrɛ/
+achieve, act, do, make, perform
+_____
+
+facies
+facies /fˈakɪɛs/
+1. appearance, aspect, look, sight, view
+2. form, shape
+3. face
+_____
+
+facile
+facile /fˈakɪlɛ/
+easily
+_____
+
+facilis
+facilis /fˈakɪlɪs/
+easy, facile
+_____
+
+factum
+factum /fˈaktʊm/
+accomplishment, achievement, act, action
+_____
+
+fagus
+fagus /fˈaɡʊs/
+beech
+_____
+
+falsus
+falsus /fˈalsʊs/
+false
+_____
+
+falx
+falx /fˈalks/
+1. sickle
+2. scythe
+_____
+
+fama
+fama /fˈama/
+1. fame, hearsay, renown, repute, rumor, rumour
+_____
+
+fames
+fames /fˈamɛs/
+1. famine
+2. hunger
+_____
+
+familia
+familia /famˈɪlɪa/
+family
+_____
+
+famosus
+famosus /fˈamɔsʊs/
+famous
+_____
+
+fanum
+fanum /fˈanʊm/
+1. sanctuary, sanctum
+2. temple
+_____
+
+farferis
+farferis /fˈarfɛrɪs/
+coltsfoot
+_____
+
+farferus
+farferus /fˈarfɛrʊs/
+coltsfoot
+_____
+
+fascia
+fascia /fˈaskɪa/
+1. bandage
+2. hair ribbon, fillet
+3. bra
+4. swathe
+_____
+
+fascinum
+fascinum /fˈaskɪnʊm/
+penis
+_____
+
+fascis
+fascis /fˈaskɪs/
+bunch, bundle, cluster, sheaf
+_____
+
+fauces
+fauces /fˈaʊkɛs/
+1. abyss, chasm, gulf, precipice
+2. throat
+3. strait
+_____
+
+faustus
+faustus /fˈaʊstʊs/
+advantageous, favourable
+_____
+
+favea
+favea /fˈawɛa/
+favourite
+_____
+
+faventia
+faventia /fawˈɛntɪa/
+favor, favour
+_____
+
+favere
+favere /fˈawɛrɛ/
+favor, favour
+_____
+
+favor
+favor /fˈawɔr/
+favor, favour
+_____
+
+favus
+favus /fˈawʊs/
+honeycomb
+_____
+
+fax
+fax /fˈaks/
+1. comet
+2. atmospheric phenomenon
+3. torch
+_____
+
+febris
+febris /fˈɛbrɪs/
+ague, fever
+_____
+
+fecundus
+fecundus /fɛkˈʊndʊs/
+1. fertile
+2. fruitful
+_____
+
+feles
+feles /fˈɛlɛs/
+cat
+_____
+
+femina
+femina /fˈɛmɪna/
+woman
+_____
+
+femineus
+femineus /fˈɛmɪnɛʊs/
+1. female, feminine
+_____
+
+femininus
+femininus /fɛmˈɪnɪnʊs/
+1. female, feminine
+_____
+
+femur
+femur /fˈɛmʊr/
+1. thigh
+2. hip
+_____
+
+fendere
+fendere /fˈɛndɛrɛ/
+fight, struggle
+_____
+
+fenestra
+fenestra /fɛnˈɛstra/
+window
+_____
+
+feniculum
+feniculum /fɛnˈɪkʊlʊm/
+fennel
+_____
+
+fenum
+fenum /fˈɛnʊm/
+hay
+_____
+
+fera
+fera /fˈɛra/
+animal, beast
+_____
+
+fere
+fere /fˈɛrɛ/
+almost, nearly
+_____
+
+feriæ
+feriæ /fˈɛrɪaɪ/
+vacation
+_____
+
+ferocia
+ferocia /fɛrˈɔkɪa/
+audacity, boldness, daring
+_____
+
+ferre
+ferre /fˈɛrɾɛ/
+bring, fetch
+_____
+
+ferrum
+ferrum /fˈɛrɾʊm/
+iron
+_____
+
+fessus
+fessus /fˈɛssʊs/
+tired
+_____
+
+festum
+festum /fˈɛstʊm/
+celebration, festival, party
+_____
+
+fibra
+fibra /fˈɪbra/
+fiber, fibre
+_____
+
+ficus
+ficus /fˈɪkʊs/
+1. fig‐tree
+2. fig
+_____
+
+fides
+fides /fˈɪdɛs/
+confidence, faith, trust
+_____
+
+figura
+figura /fˈɪɡʊra/
+figure, diagram, image, picture, representation
+_____
+
+filia
+filia /fˈɪlɪa/
+daughter
+_____
+
+filius
+filius /fˈɪlɪʊs/
+son
+_____
+
+filum
+filum /fˈɪlʊm/
+thread
+_____
+
+finis
+finis /fˈɪnɪs/
+1. end, ending
+2. boundary, frontier, limit
+_____
+
+firmus
+firmus /fˈɪrmʊs/
+fast, firm, stable
+_____
+
+fiscus
+fiscus /fˈɪskʊs/
+cashier's stand, fund, money box, money‐box, till
+_____
+
+fistula
+fistula /fˈɪstʊla/
+barrel, channel, pipe, tube
+_____
+
+flagrare
+flagrare /flˈaɡrarɛ/
+1. glow, glow with heat
+2. burn
+_____
+
+flamma
+flamma /flˈamma/
+flame
+_____
+
+flectere
+flectere /flˈɛktɛrɛ/
+bend
+_____
+
+fligere
+fligere /flˈɪɡɛrɛ/
+beat, hit, strike
+_____
+
+flos
+flos /flˈɔs/
+bloom, flower
+_____
+
+fluctus
+fluctus /flˈʊktʊs/
+wave
+_____
+
+fluere
+fluere /flˈʊɛrɛ/
+flow
+_____
+
+flumen
+flumen /flˈʊmɛn/
+river
+_____
+
+fluvius
+fluvius /flˈʊwɪʊs/
+river
+_____
+
+focus
+focus /fˈɔkʊs/
+hearth
+_____
+
+fodere
+fodere /fˈɔdɛrɛ/
+dig, grub, spade
+_____
+
+folium
+folium /fˈɔlɪʊm/
+leaf, sheet
+_____
+
+forma
+forma /fˈɔrma/
+form, shape
+_____
+
+formica
+formica /fˈɔrmɪka/
+ant, emmet
+_____
+
+formosus
+formosus /fˈɔrmɔsʊs/
+beautiful, fine, handsome, lovely
+_____
+
+fortasse
+fortasse /fɔrtˈassɛ/
+maybe, mayhap, perchance, perhaps, possibly
+_____
+
+fortis
+fortis /fˈɔrtɪs/
+strong
+_____
+
+fortuna
+fortuna /fˈɔrtʊna/
+fortune
+_____
+
+forum
+forum /fˈɔrʊm/
+fair, market
+_____
+
+fossa
+fossa /fˈɔssa/
+hole, ditch, pit
+_____
+
+fragmentum
+fragmentum /fraɡmˈɛntʊm/
+fragment, lump, piece
+_____
+
+fragum
+fragum /frˈaɡʊm/
+strawberry
+_____
+
+framea
+framea /frˈamɛa/
+lance, spear
+_____
+
+frater
+frater /frˈatɛr/
+brother
+_____
+
+fraus
+fraus /frˈaʊs/
+swindle
+_____
+
+fraxinus
+fraxinus /frˈaksɪnʊs/
+ash
+_____
+
+fricare
+fricare /frˈɪkarɛ/
+rub
+_____
+
+frigus
+frigus /frˈɪɡʊs/
+cold
+_____
+
+frons
+frons /frˈɔns/
+forehead
+_____
+
+fructus
+fructus /frˈʊktʊs/
+fruit
+_____
+
+fuga
+fuga /fˈʊɡa/
+flight, run
+_____
+
+fulgere
+fulgere /fˈʊlɡɛrɛ/
+lighten
+_____
+
+fulmen
+fulmen /fˈʊlmɛn/
+lightning
+_____
+
+fumus
+fumus /fˈʊmʊs/
+smoke
+_____
+
+fungus
+fungus /fˈʊŋɡʊs/
+fungus, mushroom
+_____
+
+funis
+funis /fˈʊnɪs/
+cord, rope, string
+_____
+
+funus
+funus /fˈʊnʊs/
+death
+_____
+
+fur
+fur /fˈʊr/
+1. thief, female thief
+_____
+
+furca
+furca /fˈʊrka/
+fork
+_____
+
+gallina
+gallina /ɡˈallɪna/
+chicken, fowl
+_____
+
+gallus
+gallus /ɡˈallʊs/
+cock, rooster
+_____
+
+gavia
+gavia /ɡˈawɪa/
+seagull
+_____
+
+gelu
+gelu /ɡˈɛlʊ/
+1. freezing cold, frost
+_____
+
+gemere
+gemere /ɡˈɛmɛrɛ/
+groan, moan
+_____
+
+genista
+genista /ɡɛnˈɪsta/
+greenweed
+_____
+
+gens
+gens /ɡˈɛns/
+1. family
+2. nation
+3. breed, race
+_____
+
+genu
+genu /ɡˈɛnʊ/
+knee
+_____
+
+genus
+genus /ɡˈɛnʊs/
+breed, race
+_____
+
+geographia
+geographia /ɡɛɔɡrˈapʰɪa/
+geography
+_____
+
+germinare
+germinare /ɡɛrmˈɪnarɛ/
+germinate
+_____
+
+gibba
+gibba /ɡˈɪbːa/
+bump, hump
+_____
+
+gladius
+gladius /ɡlˈadɪʊs/
+sword
+_____
+
+glans
+glans /ɡlˈans/
+acorn
+_____
+
+globus
+globus /ɡlˈɔbʊs/
+bullet
+_____
+
+gloria
+gloria /ɡlˈɔrɪa/
+fame, glory, renown
+_____
+
+gradi
+gradi /ɡrˈadɪ/
+pace, stalk, step, stride, tread
+_____
+
+gradus
+gradus /ɡrˈadʊs/
+pace, step, stride
+_____
+
+grammatica
+grammatica /ɡrammˈatɪka/
+grammar
+_____
+
+grammaticus
+grammaticus /ɡrammˈatɪkʊs/
+linguistic
+_____
+
+grandis
+grandis /ɡrˈandɪs/
+big, great, large
+_____
+
+gravis
+gravis /ɡrˈawɪs/
+1. important, serious
+2. burdensome, heavy, onerous
+_____
+
+grex
+grex /ɡrˈɛks/
+flock, herd
+_____
+
+griphus
+griphus /ɡrˈɪpʰʊs/
+enigma, puzzle, riddle
+_____
+
+gubernare
+gubernare /ɡʊbˈɛrnarɛ/
+control, govern, restrain, rule
+_____
+
+gustos
+gustos /ɡˈʊstɔs/
+guard
+_____
+
+gustus
+gustus /ɡˈʊstʊs/
+taste
+_____
+
+guttur
+guttur /ɡˈʊtːʊr/
+throat
+_____
+
+habere
+habere /hˈabɛrɛ/
+1. have, have got
+2. hang onto, hold
+_____
+
+habitare
+habitare /habˈɪtarɛ/
+dwell, live
+_____
+
+halare
+halare /hˈalarɛ/
+breathe
+_____
+
+haliaeetus
+haliaeetus /halɪˈaɪɛtʊs/
+white‐tailed eagle
+_____
+
+halos
+halos /hˈalɔs/
+halo
+_____
+
+hara
+hara /hˈara/
+sty
+_____
+
+harena
+harena /hˈarɛna/
+sand
+_____
+
+harmonia
+harmonia /harmˈɔnɪa/
+harmony
+_____
+
+harpa
+harpa /hˈarpa/
+harp
+_____
+
+harpagare
+harpagare /harpˈaɡarɛ/
+plunder, rob
+_____
+
+hasta
+hasta /hˈasta/
+pole, rod
+_____
+
+haud dubie
+haud dubie /hˈaʊd dˈʊbɪɛ/
+no doubt, undoubtedly
+_____
+
+hedera
+hedera /hˈɛdɛra/
+ivy
+_____
+
+hedychrum
+hedychrum /hɛdˈykʰrʊm/
+perfume
+_____
+
+hei
+hei /hˈɛɪ/
+1. ah, oh, ow
+2. woe
+_____
+
+helica
+helica /hˈɛlɪka/
+1. snail‐shell
+2. spiral
+_____
+
+hem
+hem /hˈɛm/
+ah, oh, ow
+_____
+
+hepar
+hepar /hˈɛpar/
+liver
+_____
+
+here
+here /hˈɛrɛ/
+yesterday
+_____
+
+heres
+heres /hˈɛrɛs/
+heir
+_____
+
+heri
+heri /hˈɛrɪ/
+yesterday
+_____
+
+heroicus
+heroicus /hɛrˈɔɪkʊs/
+of a demigod
+_____
+
+heroine
+heroine /hɛrˈɔɪnɛ/
+1. demigodess
+2. heroine
+_____
+
+herois
+herois /hˈɛrɔɪs/
+1. demigodess
+2. heroine
+_____
+
+heros
+heros /hˈɛrɔs/
+1. demigod
+2. hero
+_____
+
+heu
+heu /hˈɛʊ/
+1. ah, oh, ow
+2. hey, say
+3. woe
+_____
+
+hibernum
+hibernum /hɪbˈɛrnʊm/
+winter
+_____
+
+hibrida
+hibrida /hˈɪbrɪda/
+bastard
+_____
+
+hiemalis
+hiemalis /hɪˈɛmalɪs/
+winter, winter‐, of the winter
+_____
+
+hiems
+hiems /hˈɪɛms/
+winter
+_____
+
+hinc
+hinc /hˈɪŋk/
+here, hither, this way
+_____
+
+hinnire
+hinnire /hˈɪnnɪrɛ/
+neigh
+_____
+
+hinnus
+hinnus /hˈɪnnʊs/
+mule
+_____
+
+hippopotamus
+hippopotamus /hɪpːɔpˈɔtamʊs/
+hippo, hippopotamus
+_____
+
+hircus
+hircus /hˈɪrkʊs/
+he‐goat
+_____
+
+hirudo
+hirudo /hˈɪrʊdɔ/
+leech
+_____
+
+hirundo
+hirundo /hɪrˈʊndɔ/
+swallow
+_____
+
+hodie
+hodie /hˈɔdɪɛ/
+today
+_____
+
+homo
+homo /hˈɔmɔ/
+man, human being
+_____
+
+honor
+honor /hˈɔnɔr/
+honor, honour
+_____
+
+hora
+hora /hˈɔra/
+hour, o'clock, time
+_____
+
+hordeum
+hordeum /hˈɔrdɛʊm/
+barley
+_____
+
+horror
+horror /hˈɔrɾɔr/
+horror
+_____
+
+hortus
+hortus /hˈɔrtʊs/
+1. park
+2. garden
+_____
+
+hospes
+hospes /hˈɔspɛs/
+1. foreigner, stranger
+2. guest
+_____
+
+hospita
+hospita /hˈɔspɪta/
+1. stranger, female stranger
+2. hostess
+_____
+
+hospitalis
+hospitalis /hɔspˈɪtalɪs/
+hospitable
+_____
+
+hospitalitas
+hospitalitas /hɔspɪtˈalɪtas/
+hospitality
+_____
+
+hospitator
+hospitator /hɔspˈɪtatɔr/
+guest
+_____
+
+hospitium
+hospitium /hɔspˈɪtɪʊm/
+friendship
+_____
+
+hospitus
+hospitus /hˈɔspɪtʊs/
+1. alien, foreign, strange
+2. hospitable
+_____
+
+hosticus
+hosticus /hˈɔstɪkʊs/
+adverse, hostile
+_____
+
+hostifer
+hostifer /hˈɔstɪfɛr/
+adverse, hostile
+_____
+
+hostilis
+hostilis /hˈɔstɪlɪs/
+adverse, hostile
+_____
+
+hostis
+hostis /hˈɔstɪs/
+adversary, enemy
+_____
+
+huc
+huc /hˈʊk/
+here, hither, this way
+_____
+
+hui
+hui /hˈʊɪ/
+now, well, well then
+_____
+
+humanus
+humanus /hˈʊmanʊs/
+human
+_____
+
+humus
+humus /hˈʊmʊs/
+1. ground, soil
+2. earth, land
+_____
+
+hymnus
+hymnus /hˈymnʊs/
+anthem, hymn
+_____
+
+hypotheca
+hypotheca /hypˈɔtʰɛka/
+mortgage
+_____
+
+hystericus
+hystericus /hystˈɛrɪkʊs/
+hysterical
+_____
+
+hystrix
+hystrix /hˈystrɪks/
+porcupine
+_____
+
+hyæna
+hyæna /hyˈaɪna/
+hyaena
+_____
+
+iacere
+iacere /jˈakɛrɛ/
+throw
+_____
+
+iam
+iam /ˈɪam/
+already, by now, yet
+_____
+
+ianitor
+ianitor /jˈanɪtɔr/
+porter
+_____
+
+ianitrix
+ianitrix /jˈanɪtrɪks/
+doorwoman
+_____
+
+ianua
+ianua /jˈanʊa/
+door
+_____
+
+ibis
+ibis /ˈɪbɪs/
+ibis
+_____
+
+ictis
+ictis /ˈɪktɪs/
+weasel
+_____
+
+ignis
+ignis /ˈɪŋnɪs/
+fire
+_____
+
+ilex
+ilex /ˈɪlɛks/
+holly
+_____
+
+illuc
+illuc /ˈɪllʊk/
+that way, there, thither, yonder
+_____
+
+illudere
+illudere /ɪllˈʊdɛrɛ/
+jeer at, make fun of, mock
+_____
+
+imago
+imago /ˈɪmaɡɔ/
+image, picture
+_____
+
+imber
+imber /ˈɪmbɛr/
+rain
+_____
+
+imperator
+imperator /ɪmpˈɛratɔr/
+emperor
+_____
+
+inanis
+inanis /ˈɪnanɪs/
+empty, void
+_____
+
+incaste
+incaste /ɪŋkˈastɛ/
+lewdly
+_____
+
+incendium
+incendium /ɪŋkˈɛndɪʊm/
+fire
+_____
+
+incertus
+incertus /ɪŋkˈɛrtʊs/
+uncertain
+_____
+
+incestum
+incestum /ɪŋkˈɛstʊm/
+incest
+_____
+
+incestus
+incestus /ɪŋkˈɛstʊs/
+lewd
+_____
+
+incubare
+incubare /ɪŋkˈʊbarɛ/
+incubate, sit
+_____
+
+indigena
+indigena /ɪndˈɪɡɛna/
+aboriginal, native
+_____
+
+indivisibilis
+indivisibilis /ɪndɪwɪsˈɪbɪlɪs/
+indivisible
+_____
+
+inexplanabilis
+inexplanabilis /ɪnɛksplanˈabɪlɪs/
+inexplicable
+_____
+
+inobsequens
+inobsequens /ɪnˈɔbsɛkwɛns/
+disobedient, insubordinate
+_____
+
+insula
+insula /ˈɪnsʊla/
+island
+_____
+
+intellegere
+intellegere /ɪntɛllˈɛɡɛrɛ/
+understand, realize
+_____
+
+inter
+inter /ˈɪntɛr/
+among, between
+_____
+
+iocare
+iocare /jˈɔkarɛ/
+jest, joke
+_____
+
+iocatio
+iocatio /jɔkˈatɪɔ/
+gag, joke
+_____
+
+ioculatio
+ioculatio /jɔkʊlˈatɪɔ/
+gag, joke
+_____
+
+iocus
+iocus /jˈɔkʊs/
+gag, joke
+_____
+
+ire
+ire /ˈɪrɛ/
+go
+_____
+
+iudicare
+iudicare /jʊdˈɪkarɛ/
+judge
+_____
+
+iugum
+iugum /jˈʊɡʊm/
+yoke
+_____
+
+iurare
+iurare /jˈʊrarɛ/
+swear
+_____
+
+ius
+ius /ˈɪʊs/
+oath
+_____
+
+iuvare
+iuvare /jˈʊwarɛ/
+1. abet, aid, assist, help
+2. accomodate
+_____
+
+labea
+labea /lˈabɛa/
+lip
+_____
+
+labia
+labia /lˈabɪa/
+lip
+_____
+
+labium
+labium /lˈabɪʊm/
+lip
+_____
+
+labor
+labor /lˈabɔr/
+job, work
+_____
+
+labrum
+labrum /lˈabrʊm/
+1. bath
+2. lip
+3. border, brim, brink, edge, edging, fringe, rim
+_____
+
+lac
+lac /lˈak/
+milk
+_____
+
+lacertus
+lacertus /lakˈɛrtʊs/
+arm
+_____
+
+lacrima
+lacrima /lˈakrɪma/
+tear
+_____
+
+lacus
+lacus /lˈakʊs/
+lake, loch
+_____
+
+lama
+lama /lˈama/
+marsh, swamp
+_____
+
+lamentari
+lamentari /lamˈɛntarɪ/
+lament, wail
+_____
+
+lamia
+lamia /lˈamɪa/
+vampire
+_____
+
+lamina
+lamina /lˈamɪna/
+ghost, phantom
+_____
+
+lamium
+lamium /lˈamɪʊm/
+dead‐nettle
+_____
+
+lanterna
+lanterna /lantˈɛrna/
+lantern
+_____
+
+lapathum
+lapathum /lˈapatʰʊm/
+dock, sorrel
+_____
+
+lapis
+lapis /lˈapɪs/
+1. marble
+2. stone
+_____
+
+lappa
+lappa /lˈapːa/
+burr
+_____
+
+larix
+larix /lˈarɪks/
+larch
+_____
+
+larus
+larus /lˈarʊs/
+seagull
+_____
+
+larva
+larva /lˈarwa/
+ghost, phantom
+_____
+
+lassus
+lassus /lˈassʊs/
+tired
+_____
+
+later
+later /lˈatɛr/
+brick
+_____
+
+latrina
+latrina /lˈatrɪna/
+1. brothel
+2. toilet
+3. bawdy, house of ill fame, whorehouse
+_____
+
+latus
+latus /lˈatʊs/
+1. side
+2. broad
+3. extensive, spacious, vast, wide
+_____
+
+laudare
+laudare /lˈaʊdarɛ/
+commend, laud, praise
+_____
+
+laurus
+laurus /lˈaʊrʊs/
+laurel
+_____
+
+legere
+legere /lˈɛɡɛrɛ/
+read
+_____
+
+legio
+legio /lˈɛɡɪɔ/
+1. army
+2. legion
+_____
+
+lenis
+lenis /lˈɛnɪs/
+soft
+_____
+
+lente
+lente /lˈɛntɛ/
+leasurely, slowly
+_____
+
+leo
+leo /lˈɛɔ/
+lion
+_____
+
+lepidus
+lepidus /lˈɛpɪdʊs/
+affable, friendly, good‐natured, kind
+_____
+
+letum
+letum /lˈɛtʊm/
+death
+_____
+
+levare
+levare /lˈɛwarɛ/
+lever, lift, raise
+_____
+
+levir
+levir /lˈɛwɪr/
+brother‐in‐law
+_____
+
+lex
+lex /lˈɛks/
+law
+_____
+
+liber
+liber /lˈɪbɛr/
+book
+_____
+
+liberare
+liberare /lɪbˈɛrarɛ/
+release
+_____
+
+libido
+libido /lˈɪbɪdɔ/
+lust, sexual pleasure
+_____
+
+licentia
+licentia /lɪkˈɛntɪa/
+permission
+_____
+
+ligare
+ligare /lˈɪɡarɛ/
+bind, connect, join, tie, tie up
+_____
+
+lignum
+lignum /lˈɪŋnʊm/
+timber, wood
+_____
+
+ligo
+ligo /lˈɪɡɔ/
+pick‐axe
+_____
+
+ligustrum
+ligustrum /lɪɡˈʊstrʊm/
+privet
+_____
+
+lilium
+lilium /lˈɪlɪʊm/
+lily
+_____
+
+lima
+lima /lˈɪma/
+file
+_____
+
+limare
+limare /lˈɪmarɛ/
+file
+_____
+
+limax
+limax /lˈɪmaks/
+slug
+_____
+
+limbus
+limbus /lˈɪmbʊs/
+border, brim, brink, edge, edging, fringe, rim
+_____
+
+limen
+limen /lˈɪmɛn/
+sill, threshold
+_____
+
+limes
+limes /lˈɪmɛs/
+boundary, frontier, limit
+_____
+
+limus
+limus /lˈɪmʊs/
+mud
+_____
+
+linea
+linea /lˈɪnɛa/
+line
+_____
+
+lingua
+lingua /lˈɪŋɡwa/
+1. tongue
+2. language
+_____
+
+linum
+linum /lˈɪnʊm/
+1. thread
+2. flax
+_____
+
+lira
+lira /lˈɪra/
+lyre
+_____
+
+littera
+littera /lˈɪtːɛra/
+letter
+_____
+
+litus
+litus /lˈɪtʊs/
+coast, seaside, shore
+_____
+
+locus
+locus /lˈɔkʊs/
+1. place
+2. location, spot
+_____
+
+locusta
+locusta /lɔkˈʊsta/
+1. grasshopper
+2. lobster
+_____
+
+lolium
+lolium /lˈɔlɪʊm/
+corn cockle
+_____
+
+longus
+longus /lˈɔŋɡʊs/
+long
+_____
+
+loquere
+loquere /lˈɔkwɛrɛ/
+speak, talk
+_____
+
+loqui
+loqui /lˈɔkwɪ/
+speak, talk
+_____
+
+lucinia
+lucinia /lʊkˈɪnɪa/
+nightingale
+_____
+
+lucinius
+lucinius /lʊkˈɪnɪʊs/
+nightingale
+_____
+
+lucrum
+lucrum /lˈʊkrʊm/
+gain, profit
+_____
+
+ludere
+ludere /lˈʊdɛrɛ/
+play
+_____
+
+luere
+luere /lˈʊɛrɛ/
+wash
+_____
+
+lumbricus
+lumbricus /lˈʊmbrɪkʊs/
+earthworm
+_____
+
+lumen
+lumen /lˈʊmɛn/
+light
+_____
+
+luna
+luna /lˈʊna/
+moon
+_____
+
+lunaris
+lunaris /lˈʊnarɪs/
+lunar
+_____
+
+lupa
+lupa /lˈʊpa/
+she‐wolf
+_____
+
+lupus
+lupus /lˈʊpʊs/
+wolf
+_____
+
+lustrum
+lustrum /lˈʊstrʊm/
+1. forest, woods
+2. brothel
+3. marsh, swamp
+4. bawdy, house of ill fame, whorehouse
+_____
+
+lutum
+lutum /lˈʊtʊm/
+mud
+_____
+
+lux
+lux /lˈʊks/
+light
+_____
+
+luxus
+luxus /lˈʊksʊs/
+luxury
+_____
+
+lynx
+lynx /lˈyŋks/
+lynx
+_____
+
+lætus
+lætus /lˈaɪtʊs/
+happy, glad
+_____
+
+maccus
+maccus /mˈakːʊs/
+1. buffoon, jester
+2. clown
+_____
+
+machina
+machina /mˈakʰɪna/
+1. work of art
+2. tool
+3. engine, machine
+4. ruse, trick
+_____
+
+machinamentum
+machinamentum /makʰɪnamˈɛntʊm/
+tool
+_____
+
+machinatio
+machinatio /makʰɪnˈatɪɔ/
+tool
+_____
+
+mactare
+mactare /mˈaktarɛ/
+butcher, slaughter
+_____
+
+macula
+macula /mˈakʊla/
+blot, spot
+_____
+
+maga
+maga /mˈaɡa/
+witch
+_____
+
+magia
+magia /mˈaɡɪa/
+1. enchantment, magic, sorcery, witchcraft, wizardry
+_____
+
+magicus
+magicus /mˈaɡɪkʊs/
+magic
+_____
+
+magirus
+magirus /mˈaɡɪrʊs/
+cook, male cook
+_____
+
+magnus
+magnus /mˈaŋnʊs/
+big, great, large
+_____
+
+magus
+magus /mˈaɡʊs/
+1. magic
+2. enchanter, magician, sorcerer, warlock, wizard
+_____
+
+maialis
+maialis /mˈajjalɪs/
+hog, pig, swine
+_____
+
+mala
+mala /mˈala/
+jaw, jawbone
+_____
+
+malacus
+malacus /mˈalakʊs/
+soft
+_____
+
+male
+male /mˈalɛ/
+badly
+_____
+
+malle
+malle /mˈallɛ/
+prefer
+_____
+
+malleus
+malleus /mˈallɛʊs/
+hammer
+_____
+
+malogranatum
+malogranatum /malɔɡrˈanatʊm/
+pomegranate
+_____
+
+malus
+malus /mˈalʊs/
+bad, miserable, nasty, poor
+_____
+
+mamma
+mamma /mˈamma/
+1. udder
+2. breast, teat
+_____
+
+mane
+mane /mˈanɛ/
+in the morning
+_____
+
+manere
+manere /mˈanɛrɛ/
+remain, stay, stay over
+_____
+
+mantellum
+mantellum /mantˈɛllʊm/
+cloak, mantle
+_____
+
+manus
+manus /mˈanʊs/
+hand
+_____
+
+marcus
+marcus /mˈarkʊs/
+hammer
+_____
+
+mare
+mare /mˈarɛ/
+sea
+_____
+
+margarita
+margarita /marɡˈarɪta/
+pearl
+_____
+
+maritimus
+maritimus /marˈɪtɪmʊs/
+maritime, sea, sea‐, of the sea
+_____
+
+marmor
+marmor /mˈarmɔr/
+marble
+_____
+
+martes
+martes /mˈartɛs/
+marten
+_____
+
+martyr
+martyr /mˈartyr/
+martyr
+_____
+
+martyria
+martyria /martˈyrɪa/
+martyr, female martyr
+_____
+
+mas
+mas /mˈas/
+male
+_____
+
+massa
+massa /mˈassa/
+accumulation, crowd, heap, mass, multitude, pile
+_____
+
+masturbari
+masturbari /mastˈʊrbarɪ/
+masturbate
+_____
+
+matara
+matara /mˈatara/
+javelin
+_____
+
+mater
+mater /mˈatɛr/
+mother
+_____
+
+materia
+materia /matˈɛrɪa/
+matter
+_____
+
+mathematica
+mathematica /matʰɛmˈatɪka/
+1. astrology
+2. mathematics
+_____
+
+mathematicus
+mathematicus /matʰɛmˈatɪkʊs/
+1. astrologer
+2. mathematician
+_____
+
+matrix
+matrix /mˈatrɪks/
+1. stem, trunk, tree‐trunk
+2. account book, record, register
+_____
+
+maturus
+maturus /mˈatʊrʊs/
+mature, ripe
+_____
+
+medicus
+medicus /mˈɛdɪkʊs/
+doctor, physician
+_____
+
+medius
+medius /mˈɛdɪʊs/
+average, mean, middle
+_____
+
+mel
+mel /mˈɛl/
+honey
+_____
+
+melior
+melior /mˈɛlɪɔr/
+better
+_____
+
+memoranculum
+memoranculum /mɛmɔrˈaŋkʊlʊm/
+monument
+_____
+
+memoria
+memoria /mɛmˈɔrɪa/
+memory, recollection
+_____
+
+mens
+mens /mˈɛns/
+mind
+_____
+
+mensa
+mensa /mˈɛnsa/
+table
+_____
+
+mensis
+mensis /mˈɛnsɪs/
+month
+_____
+
+menta
+menta /mˈɛnta/
+mint
+_____
+
+mentiri
+mentiri /mˈɛntɪrɪ/
+lie, tell a lie
+_____
+
+mentula
+mentula /mˈɛntʊla/
+penis
+_____
+
+merces
+merces /mˈɛrkɛs/
+salary, wage, wages
+_____
+
+merda
+merda /mˈɛrda/
+dung, excrement
+_____
+
+meretricium
+meretricium /mɛrɛtrˈɪkɪʊm/
+prostitution
+_____
+
+meretrix
+meretrix /mˈɛrɛtrɪks/
+prostitute
+_____
+
+meritorium
+meritorium /mɛrɪtˈɔrɪʊm/
+1. brothel
+2. house to let
+3. hired house, rented house
+4. bawdy, house of ill fame, whorehouse
+_____
+
+metallum
+metallum /mɛtˈallʊm/
+1. ore
+2. metal
+3. mine
+_____
+
+metiri
+metiri /mˈɛtɪrɪ/
+measure
+_____
+
+metropolis
+metropolis /mɛtrˈɔpɔlɪs/
+metropolis
+_____
+
+migrare
+migrare /mˈɪɡrarɛ/
+migrate, roam, wander, wander about
+_____
+
+miles
+miles /mˈɪlɛs/
+pawn, soldier
+_____
+
+milium
+milium /mˈɪlɪʊm/
+millet
+_____
+
+mille
+mille /mˈɪllɛ/
+thousand, one thousand
+_____
+
+miluus
+miluus /mˈɪlʊʊs/
+kite
+_____
+
+mima
+mima /mˈɪma/
+actress
+_____
+
+mimus
+mimus /mˈɪmʊs/
+actor
+_____
+
+minister
+minister /mɪnˈɪstɛr/
+1. aid, assistant, helper
+2. assistent
+3. boy, servant
+_____
+
+ministrare
+ministrare /mɪnˈɪstrarɛ/
+serve
+_____
+
+minus
+minus /mˈɪnʊs/
+fewer, less
+_____
+
+mirari
+mirari /mˈɪrarɪ/
+marvel, marvel at, wonder
+_____
+
+miscere
+miscere /mˈɪskɛrɛ/
+blend, mingle, mix, shuffle
+_____
+
+mitis
+mitis /mˈɪtɪs/
+soft
+_____
+
+mittere
+mittere /mˈɪtːɛrɛ/
+send, transmit
+_____
+
+mnemosynon
+mnemosynon /mnɛmɔsˈynɔn/
+monument
+_____
+
+modo
+modo /mˈɔdɔ/
+exclusively, just, only
+_____
+
+moecha
+moecha /mˈɔɪkʰa/
+adulteress
+_____
+
+moechus
+moechus /mˈɔɪkʰʊs/
+adulterer
+_____
+
+mollis
+mollis /mˈɔllɪs/
+soft
+_____
+
+molybdus
+molybdus /mɔlˈybdʊs/
+lead
+_____
+
+monachus
+monachus /mˈɔnakʰʊs/
+monk
+_____
+
+monasterium
+monasterium /mɔnastˈɛrɪʊm/
+monastery
+_____
+
+monere
+monere /mˈɔnɛrɛ/
+1. caution, warn
+2. advise, counsel, notify
+_____
+
+monogamia
+monogamia /mɔnɔɡˈamɪa/
+monogamy
+_____
+
+monopolium
+monopolium /mɔnɔpˈɔlɪʊm/
+monopoly
+_____
+
+mons
+mons /mˈɔns/
+mountain
+_____
+
+monstrare
+monstrare /mˈɔnstrarɛ/
+indicate, point out, show
+_____
+
+monumentum
+monumentum /mɔnʊmˈɛntʊm/
+monument
+_____
+
+morari
+morari /mˈɔrarɪ/
+act crazy, rave
+_____
+
+mordere
+mordere /mˈɔrdɛrɛ/
+bite
+_____
+
+mori
+mori /mˈɔrɪ/
+die, expire, pass away
+_____
+
+mors
+mors /mˈɔrs/
+death
+_____
+
+mortificare
+mortificare /mɔrtɪfˈɪkarɛ/
+kill, liquidate, slay
+_____
+
+mortuus
+mortuus /mˈɔrtʊʊs/
+dead
+_____
+
+mos
+mos /mˈɔs/
+1. custom, habit, way
+2. mores
+_____
+
+movere
+movere /mˈɔwɛrɛ/
+actuate, move
+_____
+
+mox
+mox /mˈɔks/
+soon
+_____
+
+mucus
+mucus /mˈʊkʊs/
+mucus, phlegm
+_____
+
+mulier
+mulier /mˈʊlɪɛr/
+woman
+_____
+
+mullus
+mullus /mˈʊllʊs/
+barbel
+_____
+
+multitudo
+multitudo /mʊltˈɪtʊdɔ/
+1. accumulation, crowd, heap, mass, multitude, pile
+_____
+
+murra
+murra /mˈʊrɾa/
+myrrh
+_____
+
+murus
+murus /mˈʊrʊs/
+wall
+_____
+
+mus
+mus /mˈʊs/
+mouse
+_____
+
+musca
+musca /mˈʊska/
+fly, housefly
+_____
+
+musculus
+musculus /mˈʊskʊlʊs/
+muscle
+_____
+
+muscus
+muscus /mˈʊskʊs/
+moss
+_____
+
+mustela
+mustela /mˈʊstɛla/
+weasel
+_____
+
+mustum
+mustum /mˈʊstʊm/
+must
+_____
+
+mutare
+mutare /mˈʊtarɛ/
+1. alter, change
+2. turn
+_____
+
+myrrha
+myrrha /mˈyrɾha/
+myrrh
+_____
+
+mæna
+mæna /mˈaɪna/
+1. anchovy
+2. arsehole, bastard, son‐of‐a‐bitch
+_____
+
+mæstitia
+mæstitia /maɪstˈɪtɪa/
+1. grief, sadness, sorrow
+_____
+
+narcissus
+narcissus /narkˈɪssʊs/
+daffodil, narcissus
+_____
+
+nare
+nare /nˈarɛ/
+float, swim
+_____
+
+naris
+naris /nˈarɪs/
+1. nose
+2. nostril
+_____
+
+narrare
+narrare /nˈarɾarɛ/
+narrate, relate, tell
+_____
+
+nasci
+nasci /nˈaskɪ/
+arise, be born
+_____
+
+nasus
+nasus /nˈasʊs/
+nose
+_____
+
+natare
+natare /nˈatarɛ/
+float, swim
+_____
+
+natio
+natio /nˈatɪɔ/
+1. nation
+2. birth
+3. breed, race
+_____
+
+natura
+natura /nˈatʊra/
+1. nature
+2. character
+_____
+
+natus
+natus /nˈatʊs/
+son
+_____
+
+nauta
+nauta /nˈaʊta/
+sailor
+_____
+
+navia
+navia /nˈawɪa/
+boat
+_____
+
+navis
+navis /nˈawɪs/
+ship, vessel
+_____
+
+nebula
+nebula /nˈɛbʊla/
+cloud
+_____
+
+necare
+necare /nˈɛkarɛ/
+kill, liquidate, slay
+_____
+
+nefas
+nefas /nˈɛfas/
+sinful
+_____
+
+negare
+negare /nˈɛɡarɛ/
+deny
+_____
+
+nemo
+nemo /nˈɛmɔ/
+neither, nobody, none, no‐one
+_____
+
+nervus
+nervus /nˈɛrwʊs/
+1. muscle
+2. nerve
+3. sinew, string, tendon
+_____
+
+niger
+niger /nˈɪɡɛr/
+black
+_____
+
+nihil
+nihil /nˈɪhɪl/
+nothing
+_____
+
+nix
+nix /nˈɪks/
+snow
+_____
+
+noctu
+noctu /nˈɔktʊ/
+at night, by night, during the night
+_____
+
+nodare
+nodare /nˈɔdarɛ/
+knot
+_____
+
+nomen
+nomen /nˈɔmɛn/
+appellation, name
+_____
+
+non
+non /nˈɔn/
+1. no
+2. not
+_____
+
+nonaginta
+nonaginta /nɔnaɡˈɪnta/
+ninety
+_____
+
+nonnus
+nonnus /nˈɔnnʊs/
+1. nun
+2. monk
+_____
+
+nonus
+nonus /nˈɔnʊs/
+ninth
+_____
+
+novem
+novem /nˈɔwɛm/
+nine
+_____
+
+novus
+novus /nˈɔwʊs/
+new, novel
+_____
+
+nox
+nox /nˈɔks/
+night
+_____
+
+nubes
+nubes /nˈʊbɛs/
+cloud
+_____
+
+nullus
+nullus /nˈʊllʊs/
+neither, nobody, none, no‐one
+_____
+
+numerus
+numerus /nˈʊmɛrʊs/
+number, numeral
+_____
+
+nunc
+nunc /nˈʊŋk/
+at present, now
+_____
+
+nunquam
+nunquam /nˈʊŋkwam/
+never
+_____
+
+nuntius
+nuntius /nˈʊntɪʊs/
+errand, message
+_____
+
+nutrire
+nutrire /nˈʊtrɪrɛ/
+feed, nourish
+_____
+
+obedire
+obedire /ɔbˈɛdɪrɛ/
+obey
+_____
+
+obesus
+obesus /ˈɔbɛsʊs/
+bold, corpulent, fat, thick
+_____
+
+obitus
+obitus /ˈɔbɪtʊs/
+death
+_____
+
+oblectare
+oblectare /ɔblˈɛktarɛ/
+amuse
+_____
+
+obscurus
+obscurus /ˈɔbskʊrʊs/
+dark, dim
+_____
+
+obses
+obses /ˈɔbsɛs/
+hostage
+_____
+
+occasio
+occasio /ɔkːˈasɪɔ/
+chance, event, occurence, opportunity
+_____
+
+occasus
+occasus /ˈɔkːasʊs/
+west, West
+_____
+
+occidaneus
+occidaneus /ɔkːˈɪdanɛʊs/
+western
+_____
+
+occidens
+occidens /ˈɔkːɪdɛns/
+west, West
+_____
+
+occidentalis
+occidentalis /ɔkːɪdˈɛntalɪs/
+western
+_____
+
+occidere
+occidere /ɔkːˈɪdɛrɛ/
+kill, liquidate, slay
+_____
+
+occidualis
+occidualis /ɔkːɪdˈʊalɪs/
+western
+_____
+
+octavus
+octavus /ˈɔktawʊs/
+eighth
+_____
+
+octo
+octo /ˈɔktɔ/
+eight
+_____
+
+octoginta
+octoginta /ɔktɔɡˈɪnta/
+eighty
+_____
+
+oculus
+oculus /ˈɔkʊlʊs/
+eye
+_____
+
+odisse
+odisse /ɔdˈɪssɛ/
+hate
+_____
+
+odium
+odium /ˈɔdɪʊm/
+hate
+_____
+
+odor
+odor /ˈɔdɔr/
+odor, odour, scent, smell
+_____
+
+officium
+officium /ɔffˈɪkɪʊm/
+function, job, office, post
+_____
+
+olea
+olea /ˈɔlɛa/
+1. olive
+2. olive‐tree
+_____
+
+oleum
+oleum /ˈɔlɛʊm/
+oil
+_____
+
+oliva
+oliva /ˈɔlɪwa/
+1. olive
+2. olive‐tree
+_____
+
+olla
+olla /ˈɔlla/
+1. jug, pot
+2. box, container, vessel
+_____
+
+olor
+olor /ˈɔlɔr/
+swan
+_____
+
+olus
+olus /ˈɔlʊs/
+vegetable
+_____
+
+omen
+omen /ˈɔmɛn/
+1. indication, omen, portent, precursor, presage, sign
+_____
+
+omnipotens
+omnipotens /ɔmnˈɪpɔtɛns/
+almighty, all‐powerful, omnipotent
+_____
+
+onagrus
+onagrus /ˈɔnaɡrʊs/
+onager
+_____
+
+onagus
+onagus /ˈɔnaɡʊs/
+donkey‐driver
+_____
+
+oncare
+oncare /ˈɔŋkarɛ/
+bray
+_____
+
+onus
+onus /ˈɔnʊs/
+1. weight
+2. burden, charge, load
+_____
+
+onyx
+onyx /ˈɔnyks/
+onyx
+_____
+
+opera
+opera /ˈɔpɛra/
+effort
+_____
+
+operire
+operire /ɔpˈɛrɪrɛ/
+cover
+_____
+
+opilio
+opilio /ɔpˈɪlɪɔ/
+shepherd
+_____
+
+opinari
+opinari /ɔpˈɪnarɪ/
+account, deem, opine, think
+_____
+
+oppidum
+oppidum /ˈɔpːɪdʊm/
+city, town
+_____
+
+opplere
+opplere /ˈɔpːlɛrɛ/
+fill, fill in, fill up
+_____
+
+oppugnare
+oppugnare /ɔpːˈʊŋnarɛ/
+assault, attack
+_____
+
+ops
+ops /ˈɔps/
+1. force, strength, vigour
+2. aid, help
+3. ability
+_____
+
+optare
+optare /ˈɔptarɛ/
+1. desire, wish
+2. choose, elect, pick out
+_____
+
+optimus
+optimus /ˈɔptɪmʊs/
+best
+_____
+
+opus
+opus /ˈɔpʊs/
+work
+_____
+
+ora
+ora /ˈɔra/
+1. boundary, frontier, limit
+2. coast, seaside, shore
+3. border, brim, brink, edge, edging, fringe, rim
+_____
+
+orare
+orare /ˈɔrarɛ/
+1. speak, talk
+2. pray
+_____
+
+orarius
+orarius /ɔrˈarɪʊs/
+coast, coast‐, coastal, of the coast
+_____
+
+orbis
+orbis /ˈɔrbɪs/
+circle
+_____
+
+orichalcum
+orichalcum /ɔrɪkʰˈalkʊm/
+brass
+_____
+
+origo
+origo /ˈɔrɪɡɔ/
+1. lineage
+2. origin
+_____
+
+ornithon
+ornithon /ˈɔrnɪtʰɔn/
+aviary
+_____
+
+orphanus
+orphanus /ˈɔrpʰanʊs/
+orphan
+_____
+
+orthografia
+orthografia /ɔrtʰɔɡrˈafɪa/
+orthography
+_____
+
+ortigometra
+ortigometra /ɔrtɪɡˈɔmɛtra/
+quail
+_____
+
+oryza
+oryza /ɔrˈyza/
+rice
+_____
+
+os
+os /ˈɔs/
+bone
+_____
+
+oscitare
+oscitare /ɔskˈɪtarɛ/
+yawn
+_____
+
+oscitari
+oscitari /ɔskˈɪtarɪ/
+yawn
+_____
+
+ostes
+ostes /ˈɔstɛs/
+earthquake
+_____
+
+ostrea
+ostrea /ˈɔstrɛa/
+oyster
+_____
+
+otacustes
+otacustes /ɔtakˈʊstɛs/
+spy
+_____
+
+ovile
+ovile /ˈɔwɪlɛ/
+fold, pen
+_____
+
+ovis
+ovis /ˈɔwɪs/
+sheep
+_____
+
+ovum
+ovum /ˈɔwʊm/
+egg
+_____
+
+padus
+padus /pˈadʊs/
+thread
+_____
+
+palatium
+palatium /palˈatɪʊm/
+palace
+_____
+
+palpitare
+palpitare /palpˈɪtarɛ/
+pulsate, throb
+_____
+
+palus
+palus /pˈalʊs/
+1. pole, post, stanchion, stake
+2. marsh, swamp
+3. penis
+_____
+
+pancratium
+pancratium /paŋkrˈatɪʊm/
+chicory
+_____
+
+panis
+panis /pˈanɪs/
+bread, loaf
+_____
+
+panthera
+panthera /pˈantʰɛra/
+1. panther
+2. giraffe
+_____
+
+papaver
+papaver /pˈapawɛr/
+poppy
+_____
+
+papilio
+papilio /papˈɪlɪɔ/
+butterfly
+_____
+
+papyrus
+papyrus /papˈyrʊs/
+paper
+_____
+
+par
+par /pˈar/
+equal, even, level
+_____
+
+paradisus
+paradisus /parˈadɪsʊs/
+paradise
+_____
+
+paralysis
+paralysis /paralˈysɪs/
+paralysis
+_____
+
+parazonium
+parazonium /parazzˈɔnɪʊm/
+dagger
+_____
+
+pardalis
+pardalis /pˈardalɪs/
+female panther
+_____
+
+pardus
+pardus /pˈardʊs/
+panther
+_____
+
+parens
+parens /pˈarɛns/
+parent
+_____
+
+parentes
+parentes /parˈɛntɛs/
+parents
+_____
+
+parere
+parere /pˈarɛrɛ/
+obey
+_____
+
+pars
+pars /pˈars/
+part, Parthian, share
+_____
+
+parus
+parus /pˈarʊs/
+titmouse
+_____
+
+parvus
+parvus /pˈarwʊs/
+diminutive, little, small
+_____
+
+passer
+passer /pˈassɛr/
+1. canary
+2. sparrow
+3. ostrich
+_____
+
+passus
+passus /pˈassʊs/
+pace, step, stride
+_____
+
+pastor
+pastor /pˈastɔr/
+shepherd
+_____
+
+pater
+pater /pˈatɛr/
+father
+_____
+
+patiri
+patiri /pˈatɪrɪ/
+abide, bear, endure, put up with, suffer
+_____
+
+patria
+patria /pˈatrɪa/
+fatherland
+_____
+
+patruus
+patruus /pˈatrʊʊs/
+uncle
+_____
+
+pavo
+pavo /pˈawɔ/
+peacock
+_____
+
+pax
+pax /pˈaks/
+peace
+_____
+
+pecunia
+pecunia /pɛkˈʊnɪa/
+money
+_____
+
+pedes
+pedes /pˈɛdɛs/
+pedestrian
+_____
+
+pedis
+pedis /pˈɛdɪs/
+louse
+_____
+
+peior
+peior /pˈɛjjɔr/
+worse
+_____
+
+pelicanus
+pelicanus /pɛlˈɪkanʊs/
+pelican
+_____
+
+pellere
+pellere /pˈɛllɛrɛ/
+beat, hit, strike
+_____
+
+pellis
+pellis /pˈɛllɪs/
+skin
+_____
+
+pelvis
+pelvis /pˈɛlwɪs/
+basin, bowl, pelvis
+_____
+
+pendere
+pendere /pˈɛndɛrɛ/
+droop, hang
+_____
+
+penetrare
+penetrare /pɛnˈɛtrarɛ/
+penetrate
+_____
+
+penis
+penis /pˈɛnɪs/
+1. penis
+2. tail
+_____
+
+pentecoste
+pentecoste /pɛntɛkˈɔstɛ/
+Pentecost, Whitsunday
+_____
+
+perca
+perca /pˈɛrka/
+bass
+_____
+
+periculum
+periculum /pɛrˈɪkʊlʊm/
+danger, peril
+_____
+
+perire
+perire /pˈɛrɪrɛ/
+perish
+_____
+
+permittere
+permittere /pɛrmˈɪtːɛrɛ/
+accord, admit, afford, allow, permit
+_____
+
+perpetuum
+perpetuum /pɛrpˈɛtʊʊm/
+continuous
+_____
+
+persona
+persona /pˈɛrsɔna/
+person
+_____
+
+persuadere
+persuadere /pɛrsʊˈadɛrɛ/
+persuade
+_____
+
+perubique
+perubique /pɛrˈʊbɪkwɛ/
+all about, everywhere
+_____
+
+pervenire
+pervenire /pɛrwˈɛnɪrɛ/
+accomplish, achieve, attain, get, reach
+_____
+
+pervertere
+pervertere /pɛrwˈɛrtɛrɛ/
+ruin
+_____
+
+pervetere
+pervetere /pɛrwˈɛtɛrɛ/
+bribe
+_____
+
+pessulus
+pessulus /pˈɛssʊlʊs/
+bolt
+_____
+
+petere
+petere /pˈɛtɛrɛ/
+ask, ask for, beg, bid, request
+_____
+
+petilus
+petilus /pˈɛtɪlʊs/
+1. gaunt, lean, meager, skimpy, skinny, thin
+2. slender
+_____
+
+petra
+petra /pˈɛtra/
+rock
+_____
+
+petro
+petro /pˈɛtrɔ/
+ibex
+_____
+
+petroselinum
+petroselinum /pɛtrɔsˈɛlɪnʊm/
+parsley
+_____
+
+phalarica
+phalarica /pʰalˈarɪka/
+lance, spear
+_____
+
+phallus
+phallus /pʰˈallʊs/
+phallus
+_____
+
+phaselus
+phaselus /pʰˈasɛlʊs/
+haricot
+_____
+
+phasianus
+phasianus /pʰasˈɪanʊs/
+pheasant
+_____
+
+phasma
+phasma /pʰˈasma/
+ghost, phantom
+_____
+
+phaulius
+phaulius /pʰˈaʊlɪʊs/
+bad, miserable, nasty, poor
+_____
+
+philema
+philema /pʰˈɪlɛma/
+kiss
+_____
+
+phoca
+phoca /pʰˈɔka/
+seal, sea‐dog
+_____
+
+phoenicopterus
+phoenicopterus /pʰɔɪnɪkˈɔptɛrʊs/
+flamingo
+_____
+
+phthisis
+phthisis /pˈeːhtʰˈɪsɪs/
+consumption, tuberculosis
+_____
+
+phui
+phui /pʰˈʊɪ/
+shame
+_____
+
+phylaca
+phylaca /pʰˈylaka/
+jail, gaol, prison
+_____
+
+phylacterium
+phylacterium /pʰylaktˈɛrɪʊm/
+amulet, charm, talisman
+_____
+
+physica
+physica /pʰˈysɪka/
+physics
+_____
+
+physicus
+physicus /pʰˈysɪkʊs/
+1. physical
+2. physicist
+_____
+
+pica
+pica /pˈɪka/
+magpie
+_____
+
+picea
+picea /pˈɪkɛa/
+pine, pine‐tree
+_____
+
+picus
+picus /pˈɪkʊs/
+woodpecker
+_____
+
+piger
+piger /pˈɪɡɛr/
+lazy
+_____
+
+pila
+pila /pˈɪla/
+ball
+_____
+
+pingere
+pingere /pˈɪŋɡɛrɛ/
+paint
+_____
+
+pinguis
+pinguis /pˈɪŋɡwɪs/
+fat, fatty, greasy
+_____
+
+pinus
+pinus /pˈɪnʊs/
+pine, pine‐tree
+_____
+
+piper
+piper /pˈɪpɛr/
+pepper
+_____
+
+pirus
+pirus /pˈɪrʊs/
+pear‐tree
+_____
+
+piscis
+piscis /pˈɪskɪs/
+fish
+_____
+
+pius
+pius /pˈɪʊs/
+pious
+_____
+
+pix
+pix /pˈɪks/
+pitch
+_____
+
+placidus
+placidus /plˈakɪdʊs/
+peaceful
+_____
+
+planta
+planta /plˈanta/
+plant
+_____
+
+planus
+planus /plˈanʊs/
+even, flat, level, smooth
+_____
+
+platanus
+platanus /plˈatanʊs/
+plane, plane‐tree, sycamore
+_____
+
+plebs
+plebs /plˈɛbs/
+folk, nation, people
+_____
+
+plectere
+plectere /plˈɛktɛrɛ/
+1. braid, plait, twine, wreathe
+2. punish
+_____
+
+plenus
+plenus /plˈɛnʊs/
+complete, full
+_____
+
+plicare
+plicare /plˈɪkarɛ/
+fold
+_____
+
+plumbum
+plumbum /plˈʊmbʊm/
+1. pencil
+2. lead
+_____
+
+plus
+plus /plˈʊs/
+more
+_____
+
+pluvia
+pluvia /plˈʊwɪa/
+rain
+_____
+
+podagra
+podagra /pˈɔdaɡra/
+gout
+_____
+
+podex
+podex /pˈɔdɛks/
+anus, arse
+_____
+
+poema
+poema /pˈɔɪma/
+poem
+_____
+
+poena
+poena /pˈɔɪna/
+punishment
+_____
+
+poeta
+poeta /pˈɔɪta/
+poet
+_____
+
+polliceri
+polliceri /pɔllˈɪkɛrɪ/
+promise
+_____
+
+polus
+polus /pˈɔlʊs/
+pole
+_____
+
+polypus
+polypus /pɔlˈypʊs/
+polyp
+_____
+
+pomum
+pomum /pˈɔmʊm/
+1. fruit‐tree
+2. fruit
+3. apple
+_____
+
+pomus
+pomus /pˈɔmʊs/
+fruit‐tree
+_____
+
+pondus
+pondus /pˈɔndʊs/
+weight
+_____
+
+ponere
+ponere /pˈɔnɛrɛ/
+lay down, place, put, put down
+_____
+
+pons
+pons /pˈɔns/
+bridge
+_____
+
+pontus
+pontus /pˈɔntʊs/
+sea
+_____
+
+poples
+poples /pˈɔplɛs/
+knee
+_____
+
+populus
+populus /pˈɔpʊlʊs/
+folk, nation, people
+_____
+
+porca
+porca /pˈɔrka/
+sow
+_____
+
+porcarius
+porcarius /pɔrkˈarɪʊs/
+pig, pig‐, of a pig
+_____
+
+porcella
+porcella /pɔrkˈɛlla/
+piglet
+_____
+
+porcellus
+porcellus /pɔrkˈɛllʊs/
+young of a wild boar
+_____
+
+porcina
+porcina /pˈɔrkɪna/
+pork
+_____
+
+porcula
+porcula /pˈɔrkʊla/
+piglet
+_____
+
+porculus
+porculus /pˈɔrkʊlʊs/
+young of a wild boar
+_____
+
+porcus
+porcus /pˈɔrkʊs/
+hog, pig, swine
+_____
+
+porta
+porta /pˈɔrta/
+gate, gateway, portal
+_____
+
+portare
+portare /pˈɔrtarɛ/
+carry, wear
+_____
+
+portio
+portio /pˈɔrtɪɔ/
+share
+_____
+
+portus
+portus /pˈɔrtʊs/
+harbor, harbour, port
+_____
+
+posse
+posse /pˈɔssɛ/
+1. be possible
+2. be able to
+_____
+
+possibilis
+possibilis /pɔssˈɪbɪlɪs/
+possible
+_____
+
+possibilitas
+possibilitas /pɔssɪbˈɪlɪtas/
+possibility
+_____
+
+possidere
+possidere /pɔssˈɪdɛrɛ/
+own, possess
+_____
+
+post
+post /pˈɔst/
+after, behind
+_____
+
+postulare
+postulare /pɔstˈʊlarɛ/
+demand, postulate, require
+_____
+
+potens
+potens /pˈɔtɛns/
+powerful
+_____
+
+potentia
+potentia /pɔtˈɛntɪa/
+power
+_____
+
+potestas
+potestas /pɔtˈɛstas/
+power
+_____
+
+potissimum
+potissimum /pɔtˈɪssɪmʊm/
+1. above all, especially, chiefly, mainly, principally
+_____
+
+potui
+potui /pˈɔtʊɪ/
+be able to
+_____
+
+precare
+precare /prˈɛkarɛ/
+pray
+_____
+
+premere
+premere /prˈɛmɛrɛ/
+press, oppress, squeeze
+_____
+
+pretium
+pretium /prˈɛtɪʊm/
+1. value, worth
+_____
+
+primus
+primus /prˈɪmʊs/
+first
+_____
+
+pro
+pro /pˈrɔ/
+1. instead of
+2. before, in front of
+_____
+
+probare
+probare /prˈɔbarɛ/
+prove
+_____
+
+proelium
+proelium /prˈɔɪlɪʊm/
+action, battle, scuffle, struggle
+_____
+
+profligare
+profligare /prɔflˈɪɡarɛ/
+conquer
+_____
+
+profugere
+profugere /prɔfˈʊɡɛrɛ/
+flee, run away
+_____
+
+profundus
+profundus /prɔfˈʊndʊs/
+deep, profound
+_____
+
+prohibere
+prohibere /prɔhˈɪbɛrɛ/
+prevent
+_____
+
+prohibire
+prohibire /prɔhˈɪbɪrɛ/
+forbid, prohibit
+_____
+
+proles
+proles /prˈɔlɛs/
+1. child, offspring, young
+2. successor
+_____
+
+promittere
+promittere /prɔmˈɪtːɛrɛ/
+promise
+_____
+
+propagare
+propagare /prɔpˈaɡarɛ/
+spread
+_____
+
+prope
+prope /prˈɔpɛ/
+almost, nearly
+_____
+
+prostituere
+prostituere /prɔstɪtˈʊɛrɛ/
+prostitute
+_____
+
+provincia
+provincia /prɔwˈɪŋkɪa/
+province
+_____
+
+proximare
+proximare /prɔksˈɪmarɛ/
+advance, come close, come closer, come on
+_____
+
+præ
+præ /prˈaɪ/
+before, in front of
+_____
+
+præbia
+præbia /prˈaɪbɪa/
+amulet, charm, talisman
+_____
+
+præmium
+præmium /prˈaɪmɪʊm/
+compensation, reward
+_____
+
+prænomen
+prænomen /prˈaɪnɔmɛn/
+first name
+_____
+
+præter
+præter /prˈaɪtɛr/
+beyond, by, past, straight past
+_____
+
+psittaca
+psittaca /psˈɪtːaka/
+parrot
+_____
+
+publicus
+publicus /pˈʊblɪkʊs/
+public
+_____
+
+puella
+puella /pʊˈɛlla/
+girl, lass, wench
+_____
+
+puelus
+puelus /pˈʊɛlʊs/
+bath
+_____
+
+puer
+puer /pˈʊɛr/
+boy, lad, laddie
+_____
+
+puera
+puera /pˈʊɛra/
+girl, lass, wench
+_____
+
+pugil
+pugil /pˈʊɡɪl/
+1. boxer
+_____
+
+pugio
+pugio /pˈʊɡɪɔ/
+dagger
+_____
+
+pugna
+pugna /pˈʊŋna/
+1. action, battle, scuffle, struggle
+2. competition, contest
+_____
+
+pugnare
+pugnare /pˈʊŋnarɛ/
+fight, struggle
+_____
+
+pugnus
+pugnus /pˈʊŋnʊs/
+fist
+_____
+
+pulcher
+pulcher /pˈʊlkʰɛr/
+beautiful, fine, handsome, lovely
+_____
+
+pulmo
+pulmo /pˈʊlmɔ/
+lung
+_____
+
+pulpa
+pulpa /pˈʊlpa/
+meat
+_____
+
+pulsare
+pulsare /pˈʊlsarɛ/
+beat, hit, strike
+_____
+
+pulvis
+pulvis /pˈʊlwɪs/
+dust
+_____
+
+punire
+punire /pˈʊnɪrɛ/
+punish
+_____
+
+pupa
+pupa /pˈʊpa/
+doll, puppet
+_____
+
+puppis
+puppis /pˈʊpːɪs/
+1. poop, poopdeck, stern
+_____
+
+purgare
+purgare /pˈʊrɡarɛ/
+clean, cleanse, make clean, purge
+_____
+
+purpura
+purpura /pˈʊrpʊra/
+purple
+_____
+
+purus
+purus /pˈʊrʊs/
+1. pure
+2. clean
+_____
+
+pus
+pus /pˈʊs/
+pus
+_____
+
+putare
+putare /pˈʊtarɛ/
+guess, presume, suppose, surmise
+_____
+
+putus
+putus /pˈʊtʊs/
+1. pure
+2. clean
+_____
+
+pæne
+pæne /pˈaɪnɛ/
+almost, nearly
+_____
+
+pæninsula
+pæninsula /paɪnˈɪnsʊla/
+peninsula
+_____
+
+pænula
+pænula /pˈaɪnʊla/
+raincoat
+_____
+
+quadraginta
+quadraginta /kwadraɡˈɪnta/
+forty
+_____
+
+quaqua
+quaqua /kwˈakwa/
+wherever
+_____
+
+quartus
+quartus /kwˈartʊs/
+fourth
+_____
+
+quasi
+quasi /kwˈasɪ/
+as if, as though, in a way
+_____
+
+quattuor
+quattuor /kwˈatːʊɔr/
+four
+_____
+
+quattuordecim
+quattuordecim /kwatːʊˈɔrdɛkɪm/
+fourteen
+_____
+
+quercus
+quercus /kwˈɛrkʊs/
+oak
+_____
+
+quia
+quia /kwˈɪa/
+as, because, for, since
+_____
+
+quindecim
+quindecim /kwˈɪndɛkɪm/
+fifteen
+_____
+
+quinquaginta
+quinquaginta /kwɪŋkwaɡˈɪnta/
+fifty
+_____
+
+quinque
+quinque /kwˈɪŋkwɛ/
+five
+_____
+
+quintus
+quintus /kwˈɪntʊs/
+fifth
+_____
+
+quisquis
+quisquis /kwˈɪskwɪs/
+any, whichever, whoever
+_____
+
+quo
+quo /kwˈɔ/
+somewhere, to some place
+_____
+
+quod
+quod /kwˈɔd/
+as, because, for, since
+_____
+
+quærere
+quærere /kwˈaɪrɛrɛ/
+ask
+_____
+
+radix
+radix /rˈadɪks/
+1. root
+2. radish
+_____
+
+ramus
+ramus /rˈamʊs/
+bough, branch
+_____
+
+rana
+rana /rˈana/
+1. toad
+2. frog
+_____
+
+raphanum
+raphanum /rˈapʰanʊm/
+radish
+_____
+
+raphanus
+raphanus /rˈapʰanʊs/
+cabbage
+_____
+
+rapulum
+rapulum /rˈapʊlʊm/
+radish
+_____
+
+rapum
+rapum /rˈapʊm/
+turnip
+_____
+
+raro
+raro /rˈarɔ/
+seldom
+_____
+
+rarus
+rarus /rˈarʊs/
+rare
+_____
+
+raucus
+raucus /rˈaʊkʊs/
+hoarse
+_____
+
+ravus
+ravus /rˈawʊs/
+grey
+_____
+
+re‐
+re‐ /rˈɛ/
+re‐
+_____
+
+rectus
+rectus /rˈɛktʊs/
+direct, straight
+_____
+
+red‐
+red‐ /rˈɛd/
+re‐
+_____
+
+refugere
+refugere /rɛfˈʊɡɛrɛ/
+flee back
+_____
+
+regalis
+regalis /rˈɛɡalɪs/
+regal, royal
+_____
+
+regere
+regere /rˈɛɡɛrɛ/
+control, govern, restrain, rule
+_____
+
+regificus
+regificus /rɛɡˈɪfɪkʊs/
+regal, royal
+_____
+
+regillus
+regillus /rɛɡˈɪllʊs/
+regal, royal
+_____
+
+regimen
+regimen /rˈɛɡɪmɛn/
+administration, government
+_____
+
+regimentum
+regimentum /rɛɡɪmˈɛntʊm/
+administration, government
+_____
+
+regina
+regina /rˈɛɡɪna/
+queen
+_____
+
+regio
+regio /rˈɛɡɪɔ/
+1. district
+2. region
+_____
+
+regius
+regius /rˈɛɡɪʊs/
+regal, royal
+_____
+
+regnare
+regnare /rˈɛŋnarɛ/
+control, govern, restrain, rule
+_____
+
+regnum
+regnum /rˈɛŋnʊm/
+1. kingship, royalty
+2. kingdom
+_____
+
+relegare
+relegare /rɛlˈɛɡarɛ/
+1. do away with, get rid of, remove
+2. dismiss, turn away
+_____
+
+religio
+religio /rɛlˈɪɡɪɔ/
+1. religion
+2. superstition
+_____
+
+remex
+remex /rˈɛmɛks/
+rower
+_____
+
+remigare
+remigare /rɛmˈɪɡarɛ/
+row
+_____
+
+remus
+remus /rˈɛmʊs/
+oar
+_____
+
+ren
+ren /rˈɛn/
+kidney
+_____
+
+renovare
+renovare /rɛnˈɔwarɛ/
+renew
+_____
+
+reparare
+reparare /rɛpˈararɛ/
+1. earn back, regain, win back
+2. renew
+3. fix, repair
+_____
+
+repente
+repente /rɛpˈɛntɛ/
+all of a sudden, suddenly
+_____
+
+repentinus
+repentinus /rɛpˈɛntɪnʊs/
+abrupt, sudden
+_____
+
+repere
+repere /rˈɛpɛrɛ/
+crawl, creep
+_____
+
+reperire
+reperire /rɛpˈɛrɪrɛ/
+1. discover, uncover
+2. find
+_____
+
+requiescere
+requiescere /rɛkwɪˈɛskɛrɛ/
+repose, rest
+_____
+
+requirere
+requirere /rɛkwˈɪrɛrɛ/
+need, require
+_____
+
+reri
+reri /rˈɛrɪ/
+think
+_____
+
+res
+res /rˈɛs/
+affair, business, business deal, case, matter
+_____
+
+resistere
+resistere /rɛsˈɪstɛrɛ/
+resist, withstand
+_____
+
+respondere
+respondere /rɛspˈɔndɛrɛ/
+answer, reply, respond
+_____
+
+responsum
+responsum /rɛspˈɔnsʊm/
+answer, reply
+_____
+
+respublica
+respublica /rɛspˈʊblɪka/
+state
+_____
+
+rex
+rex /rˈɛks/
+king
+_____
+
+rhinoceros
+rhinoceros /rhɪnˈɔkɛrɔs/
+rhino, rhinoceros
+_____
+
+risus
+risus /rˈɪsʊs/
+laughter
+_____
+
+ritus
+ritus /rˈɪtʊs/
+rite
+_____
+
+robur
+robur /rˈɔbʊr/
+oak, oak‐wood
+_____
+
+robustus
+robustus /rɔbˈʊstʊs/
+strong
+_____
+
+rodere
+rodere /rˈɔdɛrɛ/
+gnaw
+_____
+
+rogare
+rogare /rˈɔɡarɛ/
+ask, ask for, beg, bid, request
+_____
+
+rosa
+rosa /rˈɔsa/
+rose
+_____
+
+rota
+rota /rˈɔta/
+wheel
+_____
+
+ruber
+ruber /rˈʊbɛr/
+red
+_____
+
+rubus
+rubus /rˈʊbʊs/
+blackberry, blackberry bush, bramble
+_____
+
+rumex
+rumex /rˈʊmɛks/
+dock, sorrel
+_____
+
+rumpere
+rumpere /rˈʊmpɛrɛ/
+break
+_____
+
+rus
+rus /rˈʊs/
+country, countryside
+_____
+
+russus
+russus /rˈʊssʊs/
+red
+_____
+
+rusticus
+rusticus /rˈʊstɪkʊs/
+rural
+_____
+
+sacer
+sacer /sˈakɛr/
+1. divine
+2. holy, sacred
+_____
+
+sacerdos
+sacerdos /sakˈɛrdɔs/
+priest
+_____
+
+sacerdotalis
+sacerdotalis /sakɛrdˈɔtalɪs/
+priestly
+_____
+
+sacrare
+sacrare /sˈakrarɛ/
+sanctify
+_____
+
+sacratus
+sacratus /sˈakratʊs/
+holy, sacred
+_____
+
+sacricola
+sacricola /sakrˈɪkɔla/
+priest
+_____
+
+sacrum
+sacrum /sˈakrʊm/
+holy object, sacred object
+_____
+
+sagitta
+sagitta /saɡˈɪtːa/
+arrow
+_____
+
+sal
+sal /sˈal/
+salt
+_____
+
+salamandra
+salamandra /salamˈandra/
+salamander
+_____
+
+salire
+salire /sˈalɪrɛ/
+jump, leap, spring
+_____
+
+saliva
+saliva /sˈalɪwa/
+saliva
+_____
+
+salix
+salix /sˈalɪks/
+willow
+_____
+
+salmo
+salmo /sˈalmɔ/
+salmon
+_____
+
+salsus
+salsus /sˈalsʊs/
+salty
+_____
+
+salus
+salus /sˈalʊs/
+safety
+_____
+
+salutare
+salutare /salˈʊtarɛ/
+greet, salute
+_____
+
+sambucus
+sambucus /sˈambʊkʊs/
+elder
+_____
+
+sancire
+sancire /sˈaŋkɪrɛ/
+sanctify
+_____
+
+sanctescere
+sanctescere /saŋktˈɛskɛrɛ/
+become holy
+_____
+
+sanctificare
+sanctificare /saŋktɪfˈɪkarɛ/
+sanctify
+_____
+
+sanctimonialis
+sanctimonialis /saŋktɪmɔnˈɪalɪs/
+1. nun
+2. pious
+_____
+
+sanctus
+sanctus /sˈaŋktʊs/
+1. divine
+2. pious
+3. holy, sacred
+_____
+
+sandalium
+sandalium /sandˈalɪʊm/
+sandal
+_____
+
+sanguis
+sanguis /sˈaŋɡwɪs/
+blood
+_____
+
+sanitas
+sanitas /sˈanɪtas/
+health
+_____
+
+sanus
+sanus /sˈanʊs/
+healthy, well
+_____
+
+sapiens
+sapiens /sˈapɪɛns/
+sagacious, sage, wise
+_____
+
+sapientia
+sapientia /sapɪˈɛntɪa/
+wisdom
+_____
+
+sapo
+sapo /sˈapɔ/
+soap
+_____
+
+satis
+satis /sˈatɪs/
+enough, quite, rather, sufficiently
+_____
+
+saurion
+saurion /sˈaʊrɪɔn/
+mustard
+_____
+
+saxum
+saxum /sˈaksʊm/
+rock
+_____
+
+scabere
+scabere /skˈabɛrɛ/
+scratch
+_____
+
+scalpere
+scalpere /skˈalpɛrɛ/
+cut, slice
+_____
+
+scandalum
+scandalum /skˈandalʊm/
+commotion, scandal
+_____
+
+scapha
+scapha /skˈapʰa/
+boat
+_____
+
+scarabæus
+scarabæus /skarabˈaɪʊs/
+beetle
+_____
+
+scelus
+scelus /skˈɛlʊs/
+crime
+_____
+
+sceptrum
+sceptrum /skˈɛptrʊm/
+sceptre
+_____
+
+schola
+schola /skʰˈɔla/
+school
+_____
+
+scire
+scire /skˈɪrɛ/
+know, know how
+_____
+
+sciurus
+sciurus /skˈɪʊrʊs/
+squirrel
+_____
+
+scolopendra
+scolopendra /skɔlɔpˈɛndra/
+centipede
+_____
+
+scorpio
+scorpio /skˈɔrpɪɔ/
+scorpion
+_____
+
+scribere
+scribere /skrˈɪbɛrɛ/
+write
+_____
+
+scrofa
+scrofa /skrˈɔfa/
+sow
+_____
+
+scæna
+scæna /skˈaɪna/
+scene
+_____
+
+secare
+secare /sˈɛkarɛ/
+cut, slice
+_____
+
+secundus
+secundus /sɛkˈʊndʊs/
+second
+_____
+
+sedecim
+sedecim /sˈɛdɛkɪm/
+sixteen
+_____
+
+segregare
+segregare /sɛɡrˈɛɡarɛ/
+divide, separate
+_____
+
+seiungere
+seiungere /sɛjjˈʊŋɡɛrɛ/
+divide, separate
+_____
+
+semen
+semen /sˈɛmɛn/
+seed
+_____
+
+semideus
+semideus /sˈɛmɪdɛʊs/
+1. of a demigod
+2. demigod
+_____
+
+semper
+semper /sˈɛmpɛr/
+always, ever
+_____
+
+sentire
+sentire /sˈɛntɪrɛ/
+feel, sense
+_____
+
+sepia
+sepia /sˈɛpɪa/
+sepia
+_____
+
+septem
+septem /sˈɛptɛm/
+seven
+_____
+
+septendecim
+septendecim /sɛptˈɛndɛkɪm/
+seventeen
+_____
+
+septimus
+septimus /sˈɛptɪmʊs/
+seventh
+_____
+
+septuaginta
+septuaginta /sɛptʊaɡˈɪnta/
+seventy
+_____
+
+sequi
+sequi /sˈɛkwɪ/
+follow
+_____
+
+serpens
+serpens /sˈɛrpɛns/
+1. dragon
+2. serpent, snake
+_____
+
+serpere
+serpere /sˈɛrpɛrɛ/
+crawl, creep
+_____
+
+serus
+serus /sˈɛrʊs/
+late, tardy
+_____
+
+serva
+serva /sˈɛrwa/
+bondwoman, slave, female slave
+_____
+
+servire
+servire /sˈɛrwɪrɛ/
+serve
+_____
+
+servus
+servus /sˈɛrwʊs/
+slave
+_____
+
+severus
+severus /sˈɛwɛrʊs/
+severe, strict
+_____
+
+sex
+sex /sˈɛks/
+six
+_____
+
+sexaginta
+sexaginta /sɛksaɡˈɪnta/
+sixty
+_____
+
+sextus
+sextus /sˈɛkstʊs/
+sixth
+_____
+
+sexus
+sexus /sˈɛksʊs/
+sex
+_____
+
+si
+si /sˈɪ/
+if, provided that
+_____
+
+sic
+sic /sˈɪk/
+so, such, thus
+_____
+
+sidus
+sidus /sˈɪdʊs/
+star
+_____
+
+signum
+signum /sˈɪŋnʊm/
+mark, sign, signal, token
+_____
+
+silens
+silens /sˈɪlɛns/
+silent
+_____
+
+silex
+silex /sˈɪlɛks/
+flint, gravel
+_____
+
+silva
+silva /sˈɪlwa/
+forest, woods
+_____
+
+simia
+simia /sˈɪmɪa/
+ape, monkey
+_____
+
+sisurna
+sisurna /sɪsˈʊrna/
+mattress
+_____
+
+sisymbrium
+sisymbrium /sɪsˈymbrɪʊm/
+watercress
+_____
+
+socer
+socer /sˈɔkɛr/
+father‐in‐law
+_____
+
+socrus
+socrus /sˈɔkrʊs/
+mother‐in‐law
+_____
+
+sol
+sol /sˈɔl/
+sun
+_____
+
+solaris
+solaris /sˈɔlarɪs/
+solair, sun, sun‐, of the sun
+_____
+
+solidus
+solidus /sˈɔlɪdʊs/
+firm, solid
+_____
+
+solum
+solum /sˈɔlʊm/
+exclusively, just, only
+_____
+
+solus
+solus /sˈɔlʊs/
+alone, only, sole, solitary
+_____
+
+somnus
+somnus /sˈɔmnʊs/
+sleep
+_____
+
+sophia
+sophia /sˈɔpʰɪa/
+wisdom
+_____
+
+sophus
+sophus /sˈɔpʰʊs/
+sagacious, sage, wise
+_____
+
+sopor
+sopor /sˈɔpɔr/
+sleep
+_____
+
+sorbum
+sorbum /sˈɔrbʊm/
+mountain‐ash berry, rowan berry
+_____
+
+sorbus
+sorbus /sˈɔrbʊs/
+mountain‐ash, rowan
+_____
+
+sperare
+sperare /spˈɛrarɛ/
+hope
+_____
+
+spes
+spes /spˈɛs/
+hope
+_____
+
+spiritus
+spiritus /spˈɪrɪtʊs/
+spirit
+_____
+
+spodium
+spodium /spˈɔdɪʊm/
+ash, cinder
+_____
+
+squama
+squama /skwˈama/
+scale
+_____
+
+stare
+stare /stˈarɛ/
+stand
+_____
+
+statua
+statua /stˈatʊa/
+statue
+_____
+
+stella
+stella /stˈɛlla/
+star
+_____
+
+sterilis
+sterilis /stˈɛrɪlɪs/
+1. barren, infertile
+2. sterile, unfruitful
+_____
+
+stigma
+stigma /stˈɪɡma/
+brand
+_____
+
+stigmare
+stigmare /stˈɪɡmarɛ/
+brand
+_____
+
+stimulare
+stimulare /stɪmˈʊlarɛ/
+rouse, stimulate, stir up
+_____
+
+struthocamelus
+struthocamelus /strʊtʰɔkˈamɛlʊs/
+ostrich
+_____
+
+studium
+studium /stˈʊdɪʊm/
+study
+_____
+
+stulte
+stulte /stˈʊltɛ/
+stupidly
+_____
+
+stultus
+stultus /stˈʊltʊs/
+1. foolish
+2. addled, stupid
+_____
+
+suavis
+suavis /sˈʊawɪs/
+gentle, soft, sweet, tender
+_____
+
+subito
+subito /sˈʊbɪtɔ/
+all of a sudden, suddenly
+_____
+
+subnotatio
+subnotatio /sʊbnɔtˈatɪɔ/
+signature
+_____
+
+successus
+successus /sʊkːˈɛssʊs/
+achievement, success
+_____
+
+sulphur
+sulphur /sˈʊlpʰʊr/
+brimstone, sulphur
+_____
+
+sulpur
+sulpur /sˈʊlpʊr/
+brimstone, sulphur
+_____
+
+super
+super /sˈʊpɛr/
+1. above, over
+2. on top, overhead, upstairs
+_____
+
+supera
+supera /sˈʊpɛra/
+above, over
+_____
+
+superare
+superare /sʊpˈɛrarɛ/
+exceed, surpass
+_____
+
+supereffluere
+supereffluere /sʊpɛrɛfflˈʊɛrɛ/
+overflow
+_____
+
+superstitio
+superstitio /sʊpɛrstˈɪtɪɔ/
+superstition
+_____
+
+synagoge
+synagoge /synˈaɡɔɡɛ/
+synagogue
+_____
+
+sæpe
+sæpe /sˈaɪpɛ/
+frequently, often, regularly
+_____
+
+sævus
+sævus /sˈaɪwʊs/
+savage, wild
+_____
+
+tabula
+tabula /tˈabʊla/
+board, plank
+_____
+
+talpa
+talpa /tˈalpa/
+mole
+_____
+
+tamarix
+tamarix /tˈamarɪks/
+tamarisk
+_____
+
+tamen
+tamen /tˈamɛn/
+but, however, nevertheless, yet
+_____
+
+tangere
+tangere /tˈaŋɡɛrɛ/
+touch
+_____
+
+tantum
+tantum /tˈantʊm/
+exclusively, just, only
+_____
+
+tata
+tata /tˈata/
+dad, daddy
+_____
+
+taurus
+taurus /tˈaʊrʊs/
+bull
+_____
+
+taxare
+taxare /tˈaksarɛ/
+appraise, estimate, rate
+_____
+
+taxus
+taxus /tˈaksʊs/
+1. yew‐tree
+2. javelin
+_____
+
+tegere
+tegere /tˈɛɡɛrɛ/
+cover
+_____
+
+tela
+tela /tˈɛla/
+1. spiderweb
+2. fabric, textile
+_____
+
+tellus
+tellus /tˈɛllʊs/
+earth, land, soil
+_____
+
+tempestas
+tempestas /tɛmpˈɛstas/
+1. time, while
+2. storm
+_____
+
+tempestus
+tempestus /tɛmpˈɛstʊs/
+weather
+_____
+
+templum
+templum /tˈɛmplʊm/
+temple
+_____
+
+tempus
+tempus /tˈɛmpʊs/
+time, while
+_____
+
+tenebricosus
+tenebricosus /tɛnɛbrˈɪkɔsʊs/
+dark, dim
+_____
+
+tenere
+tenere /tˈɛnɛrɛ/
+hang onto, hold
+_____
+
+terra
+terra /tˈɛrɾa/
+earth, land, soil
+_____
+
+tertius
+tertius /tˈɛrtɪʊs/
+third
+_____
+
+tetragonum
+tetragonum /tɛtrˈaɡɔnʊm/
+quadrangle
+_____
+
+texere
+texere /tˈɛksɛrɛ/
+weave
+_____
+
+textile
+textile /tˈɛkstɪlɛ/
+fabric, textile
+_____
+
+textura
+textura /tˈɛkstʊra/
+fabric, textile
+_____
+
+textus
+textus /tˈɛkstʊs/
+1. fabric, textile
+2. lyric, text
+_____
+
+thalassicus
+thalassicus /tʰalˈassɪkʊs/
+maritime, sea, sea‐, of the sea
+_____
+
+theatrum
+theatrum /tʰˈɛatrʊm/
+theatre
+_____
+
+theologia
+theologia /tʰɛɔlˈɔɡɪa/
+theology
+_____
+
+theologus
+theologus /tʰɛˈɔlɔɡʊs/
+theologian
+_____
+
+thesis
+thesis /tʰˈɛsɪs/
+essay, thesis
+_____
+
+thorax
+thorax /tʰˈɔraks/
+chest
+_____
+
+thridax
+thridax /tʰrˈɪdaks/
+lettuce
+_____
+
+thynnus
+thynnus /tʰˈynnʊs/
+tuna, tuna‐fish, tunny
+_____
+
+tibi
+tibi /tˈɪbɪ/
+thee, to thee, to you
+_____
+
+tibia
+tibia /tˈɪbɪa/
+shin‐bone, tibia
+_____
+
+tigris
+tigris /tˈɪɡrɪs/
+tiger
+_____
+
+tilia
+tilia /tˈɪlɪa/
+lime‐tree, linden‐tree
+_____
+
+tiliaceus
+tiliaceus /tɪlˈɪakɛʊs/
+lime, lime‐, of a lime‐tree
+_____
+
+tiliagineus
+tiliagineus /tɪlɪˈaɡɪnɛʊs/
+lime, lime‐, of a lime‐tree
+_____
+
+tiliaris
+tiliaris /tɪlˈɪarɪs/
+lime, lime‐, of a lime‐tree
+_____
+
+timere
+timere /tˈɪmɛrɛ/
+be afraid of, fear
+_____
+
+tinca
+tinca /tˈɪŋka/
+tench
+_____
+
+tinea
+tinea /tˈɪnɛa/
+1. cockroach
+2. moth
+_____
+
+titulus
+titulus /tˈɪtʊlʊs/
+degree, heading, title
+_____
+
+toga
+toga /tˈɔɡa/
+toga
+_____
+
+tolerare
+tolerare /tɔlˈɛrarɛ/
+endure, put up with, tolerate
+_____
+
+tonus
+tonus /tˈɔnʊs/
+tone
+_____
+
+tornare
+tornare /tˈɔrnarɛ/
+turn, turn around, turn round
+_____
+
+tragula
+tragula /trˈaɡʊla/
+javelin
+_____
+
+trebax
+trebax /trˈɛbaks/
+clever, cunning, sly, smart
+_____
+
+tredecim
+tredecim /trˈɛdɛkɪm/
+thirteen
+_____
+
+tremere
+tremere /trˈɛmɛrɛ/
+quiver, shiver, tremble
+_____
+
+tremor
+tremor /trˈɛmɔr/
+1. earthquake
+2. quiver, quivering, vibration
+_____
+
+tres
+tres /trˈɛs/
+three
+_____
+
+tria
+tria /trˈɪa/
+three
+_____
+
+triangularis
+triangularis /trɪaŋɡˈʊlarɪs/
+triangular
+_____
+
+triangulum
+triangulum /trɪˈaŋɡʊlʊm/
+triangle
+_____
+
+triangulus
+triangulus /trɪˈaŋɡʊlʊs/
+triangular
+_____
+
+tribacca
+tribacca /trɪbˈakːa/
+ear‐drop, earring
+_____
+
+tribulus
+tribulus /trˈɪbʊlʊs/
+thisle
+_____
+
+tribunal
+tribunal /trˈɪbʊnal/
+rostrum, speaker's platform
+_____
+
+tribunus
+tribunus /trˈɪbʊnʊs/
+tribune
+_____
+
+trifolium
+trifolium /trɪfˈɔlɪʊm/
+clover, shamrock, trefoil
+_____
+
+trigarium
+trigarium /trɪɡˈarɪʊm/
+team of three horses
+_____
+
+triginta
+triginta /trɪɡˈɪnta/
+thirty
+_____
+
+trigonicus
+trigonicus /trɪɡˈɔnɪkʊs/
+triangular
+_____
+
+trigonium
+trigonium /trɪɡˈɔnɪʊm/
+triangle
+_____
+
+trigonus
+trigonus /trˈɪɡɔnʊs/
+triangular
+_____
+
+triquetrus
+triquetrus /trˈɪkwɛtrʊs/
+triangular
+_____
+
+triticum
+triticum /trˈɪtɪkʊm/
+wheat
+_____
+
+triumphare
+triumphare /trɪˈʊmpʰarɛ/
+triumph
+_____
+
+triumphus
+triumphus /trɪˈʊmpʰʊs/
+triumph
+_____
+
+trochus
+trochus /trˈɔkʰʊs/
+hoop
+_____
+
+tropæum
+tropæum /trɔpˈaɪʊm/
+monument
+_____
+
+tructa
+tructa /trˈʊkta/
+trout
+_____
+
+trudis
+trudis /trˈʊdɪs/
+pole, rod
+_____
+
+tuba
+tuba /tˈʊba/
+1. clarion
+2. trumpet
+_____
+
+tulere
+tulere /tˈʊlɛrɛ/
+carry, wear
+_____
+
+tumba
+tumba /tˈʊmba/
+grave, tomb
+_____
+
+tunica
+tunica /tˈʊnɪka/
+tunic
+_____
+
+turba
+turba /tˈʊrba/
+accumulation, crowd, heap, mass, multitude, pile
+_____
+
+turda
+turda /tˈʊrda/
+thrush
+_____
+
+turdus
+turdus /tˈʊrdʊs/
+thrush
+_____
+
+turibulum
+turibulum /tʊrˈɪbʊlʊm/
+censer, incensory, thurible
+_____
+
+turpis
+turpis /tˈʊrpɪs/
+nasty, ugly
+_____
+
+turricula
+turricula /tʊrɾˈɪkʊla/
+turret
+_____
+
+turris
+turris /tˈʊrɾɪs/
+1. castle
+2. palace
+3. tower
+_____
+
+turtur
+turtur /tˈʊrtʊr/
+turtle‐dove
+_____
+
+tus
+tus /tˈʊs/
+incense
+_____
+
+tussis
+tussis /tˈʊssɪs/
+cough
+_____
+
+tympanum
+tympanum /tˈympanʊm/
+tambourine, timbrel
+_____
+
+typhon
+typhon /tˈypʰɔn/
+whirlwind
+_____
+
+typhus
+typhus /tˈypʰʊs/
+pride
+_____
+
+tyrannicus
+tyrannicus /tyrˈannɪkʊs/
+despotic
+_____
+
+tyrannis
+tyrannis /tyrˈannɪs/
+tyranny
+_____
+
+tyrannus
+tyrannus /tyrˈannʊs/
+tyrant
+_____
+
+tæda
+tæda /tˈaɪda/
+pine, pine‐tree
+_____
+
+uber
+uber /ˈʊbɛr/
+1. udder
+2. breast, teat
+_____
+
+ulcus
+ulcus /ˈʊlkʊs/
+ulcer, sore
+_____
+
+una
+una /ˈʊna/
+one
+_____
+
+unda
+unda /ˈʊnda/
+wave
+_____
+
+unde
+unde /ˈʊndɛ/
+from where, whence
+_____
+
+undecim
+undecim /ˈʊndɛkɪm/
+eleven
+_____
+
+undeviginti
+undeviginti /ʊndɛwɪɡˈɪntɪ/
+nineteen
+_____
+
+universus
+universus /ʊnɪwˈɛrsʊs/
+entire, overall, whole
+_____
+
+unum
+unum /ˈʊnʊm/
+one
+_____
+
+unus
+unus /ˈʊnʊs/
+one
+_____
+
+upilio
+upilio /ʊpˈɪlɪɔ/
+shepherd
+_____
+
+upupa
+upupa /ˈʊpʊpa/
+hoopoo
+_____
+
+urbs
+urbs /ˈʊrbs/
+city, town
+_____
+
+urina
+urina /ˈʊrɪna/
+1. water
+2. urine
+_____
+
+ursa
+ursa /ˈʊrsa/
+she‐bear
+_____
+
+ursus
+ursus /ˈʊrsʊs/
+bear
+_____
+
+urtica
+urtica /ˈʊrtɪka/
+nettle
+_____
+
+urus
+urus /ˈʊrʊs/
+aurochs
+_____
+
+uterus
+uterus /ˈʊtɛrʊs/
+grub, larva
+_____
+
+uti
+uti /ˈʊtɪ/
+employ, use, make use of
+_____
+
+utriculus
+utriculus /ʊtrˈɪkʊlʊs/
+uterus, womb
+_____
+
+uxor
+uxor /ˈʊksɔr/
+wife
+_____
+
+vacca
+vacca /wˈakːa/
+cow
+_____
+
+vaccinium
+vaccinium /wakːˈɪnɪʊm/
+larkspur
+_____
+
+vacerra
+vacerra /wakˈɛrɾa/
+pole, post, stanchion, stake
+_____
+
+vacuus
+vacuus /wˈakʊʊs/
+empty, void
+_____
+
+vadare
+vadare /wˈadarɛ/
+wade
+_____
+
+vadere
+vadere /wˈadɛrɛ/
+go
+_____
+
+vafer
+vafer /wˈafɛr/
+clever, cunning, sly, smart
+_____
+
+vaframentum
+vaframentum /waframˈɛntʊm/
+ruse, stratagem, trick
+_____
+
+vagari
+vagari /wˈaɡarɪ/
+roam, wander
+_____
+
+vagina
+vagina /wˈaɡɪna/
+vagina
+_____
+
+vallis
+vallis /wˈallɪs/
+valley
+_____
+
+vanus
+vanus /wˈanʊs/
+abortive, futile, useless, vain
+_____
+
+vapor
+vapor /wˈapɔr/
+steam, vapor, vapour
+_____
+
+vapos
+vapos /wˈapɔs/
+steam, vapor, vapour
+_____
+
+varia
+varia /wˈarɪa/
+panther
+_____
+
+vas
+vas /wˈas/
+1. barrel
+2. vase, vessel
+_____
+
+vectigal
+vectigal /wˈɛktɪɡal/
+tax
+_____
+
+vehere
+vehere /wˈɛhɛrɛ/
+1. carry, wear
+2. go, ride, travel
+_____
+
+velum
+velum /wˈɛlʊm/
+sail
+_____
+
+vendere
+vendere /wˈɛndɛrɛ/
+dispose of, sell, vend
+_____
+
+venenare
+venenare /wɛnˈɛnarɛ/
+poison
+_____
+
+venenum
+venenum /wˈɛnɛnʊm/
+poison
+_____
+
+venire
+venire /wˈɛnɪrɛ/
+come
+_____
+
+venter
+venter /wˈɛntɛr/
+1. stomach
+2. abdomen, belly, tummy
+_____
+
+ventus
+ventus /wˈɛntʊs/
+wind
+_____
+
+verbum
+verbum /wˈɛrbʊm/
+1. verb
+2. word
+_____
+
+veritas
+veritas /wˈɛrɪtas/
+1. truth
+2. reality
+_____
+
+vermis
+vermis /wˈɛrmɪs/
+worm
+_____
+
+verpa
+verpa /wˈɛrpa/
+penis
+_____
+
+verres
+verres /wˈɛrɾɛs/
+boar
+_____
+
+verruca
+verruca /wˈɛrɾʊka/
+wart
+_____
+
+versutia
+versutia /wɛrsˈʊtɪa/
+cunning, subtlety, slyness
+_____
+
+veru
+veru /wˈɛrʊ/
+javelin
+_____
+
+verus
+verus /wˈɛrʊs/
+true
+_____
+
+verutum
+verutum /wˈɛrʊtʊm/
+javelin
+_____
+
+vesica
+vesica /wˈɛsɪka/
+bladder, bubble
+_____
+
+vespa
+vespa /wˈɛspa/
+wasp
+_____
+
+vesper
+vesper /wˈɛspɛr/
+1. west, West
+2. evening
+_____
+
+vesperalis
+vesperalis /wɛspˈɛralɪs/
+western
+_____
+
+vespertilio
+vespertilio /wɛspɛrtˈɪlɪɔ/
+bat
+_____
+
+vespertinus
+vespertinus /wɛspˈɛrtɪnʊs/
+western
+_____
+
+vestire
+vestire /wˈɛstɪrɛ/
+clothe, dress
+_____
+
+vetare
+vetare /wˈɛtarɛ/
+forbid, prohibit
+_____
+
+vetus
+vetus /wˈɛtʊs/
+1. old
+_____
+
+vetustus
+vetustus /wɛtˈʊstʊs/
+old
+_____
+
+via
+via /wˈɪa/
+1. canal, channel
+2. manner, mode, way
+3. method
+4. street
+5. journey, trip, voyage
+6. road, route
+_____
+
+viburnum
+viburnum /wɪbˈʊrnʊm/
+guelder rose, snowball
+_____
+
+victima
+victima /wˈɪktɪma/
+victim
+_____
+
+victor
+victor /wˈɪktɔr/
+victor
+_____
+
+victoria
+victoria /wɪktˈɔrɪa/
+victory
+_____
+
+vicus
+vicus /wˈɪkʊs/
+1. estate, farm, property, ranch
+2. district, neighbourhood, quarter
+3. street
+4. village
+_____
+
+videre
+videre /wˈɪdɛrɛ/
+see
+_____
+
+viginti
+viginti /wɪɡˈɪntɪ/
+twenty
+_____
+
+villa
+villa /wˈɪlla/
+estate, farm, property, ranch
+_____
+
+vincere
+vincere /wˈɪŋkɛrɛ/
+conquer
+_____
+
+vinum
+vinum /wˈɪnʊm/
+wine
+_____
+
+viola
+viola /wˈɪɔla/
+violet
+_____
+
+vir
+vir /wˈɪr/
+fellow, man
+_____
+
+virga
+virga /wˈɪrɡa/
+1. broom
+2. twig
+3. bough, branch
+_____
+
+virgo
+virgo /wˈɪrɡɔ/
+virgin
+_____
+
+virus
+virus /wˈɪrʊs/
+mucus, phlegm
+_____
+
+vis
+vis /wˈɪs/
+force, strength, vigour
+_____
+
+vita
+vita /wˈɪta/
+life
+_____
+
+vitare
+vitare /wˈɪtarɛ/
+avoid, evade
+_____
+
+vitellus
+vitellus /wɪtˈɛllʊs/
+calf
+_____
+
+vitis
+vitis /wˈɪtɪs/
+vine, grapevine
+_____
+
+vitrum
+vitrum /wˈɪtrʊm/
+glass
+_____
+
+vitulina
+vitulina /wɪtˈʊlɪna/
+veal
+_____
+
+vivere
+vivere /wˈɪwɛrɛ/
+be alive, live
+_____
+
+vix
+vix /wˈɪks/
+with effort
+_____
+
+vocabulum
+vocabulum /wɔkˈabʊlʊm/
+1. appellation, name
+2. word
+_____
+
+vocare
+vocare /wˈɔkarɛ/
+call, summon
+_____
+
+volare
+volare /wˈɔlarɛ/
+1. fly
+2. race, run
+_____
+
+volucris
+volucris /wˈɔlʊkrɪs/
+bird
+_____
+
+voluntas
+voluntas /wɔlˈʊntas/
+will, willingness, wish
+_____
+
+volva
+volva /wˈɔlwa/
+uterus, womb
+_____
+
+vox
+vox /wˈɔks/
+voice
+_____
+
+vulpes
+vulpes /wˈʊlpɛs/
+fox
+_____
+
+vultur
+vultur /wˈʊltʊr/
+vulture
+_____
+
+vultus
+vultus /wˈʊltʊs/
+face
+_____
+
+zamia
+zamia /zˈamɪa/
+loss
+_____
+
+zaplutus
+zaplutus /zˈaplʊtʊs/
+immensely rich, rolling in money
+_____
+
+zona
+zona /zˈɔna/
+1. belt, girdle
+2. zone
+_____
+
+Æneas
+Æneas /ˈaɪnɛas/
+Aeneas
+_____
+
+Æolus
+Æolus /ˈaɪɔlʊs/
+Aeolus
+_____
+
+Æthiops
+Æthiops /ˈaɪtʰɪɔps/
+1. Abyssinian
+2. Ethiopian
+_____
+
+ædes
+ædes /ˈaɪdɛs/
+house
+_____
+
+ædificatio
+ædificatio /aɪdɪfɪkˈatɪɔ/
+building
+_____
+
+ædificium
+ædificium /aɪdɪfˈɪkɪʊm/
+building
+_____
+
+ædon
+ædon /ˈaɪdɔn/
+nightingale
+_____
+
+æger
+æger /ˈaɪɡɛr/
+1. faint, light, weak
+2. ill, sick
+_____
+
+ægoceros
+ægoceros /aɪɡˈɔkɛrɔs/
+ibex
+_____
+
+ægre
+ægre /ˈaɪɡrɛ/
+hardly, not easily, with difficulty
+_____
+
+ægrere
+ægrere /ˈaɪɡrɛrɛ/
+be ailing
+_____
+
+ægrescere
+ægrescere /aɪɡrˈɛskɛrɛ/
+be taken ill, fall ill
+_____
+
+ægrimonia
+ægrimonia /aɪɡrɪmˈɔnɪa/
+1. grief, sadness, sorrow
+_____
+
+ægrotare
+ægrotare /aɪɡrˈɔtarɛ/
+be ailing
+_____
+
+ægrotus
+ægrotus /ˈaɪɡrɔtʊs/
+ill, sick
+_____
+
+ælinos
+ælinos /ˈaɪlɪnɔs/
+elegy
+_____
+
+æneus
+æneus /ˈaɪnɛʊs/
+1. bronze
+2. copper
+_____
+
+ænigma
+ænigma /aɪnˈɪɡma/
+1. enigmatic character, mysteriousness
+2. enigma, puzzle, riddle
+_____
+
+æon
+æon /ˈaɪɔn/
+aeon
+_____
+
+æquabilitas
+æquabilitas /aɪkwabˈɪlɪtas/
+draw, equality
+_____
+
+æquilibrium
+æquilibrium /aɪkwɪlˈɪbrɪʊm/
+equilibrium
+_____
+
+æquor
+æquor /ˈaɪkwɔr/
+sea
+_____
+
+æquoreus
+æquoreus /ˈaɪkwɔrɛʊs/
+maritime, sea, sea‐, of the sea
+_____
+
+æquus
+æquus /ˈaɪkwʊs/
+1. even, flat, level, smooth
+2. equal
+_____
+
+ær
+ær /ˈaɪr/
+1. air
+2. cloud
+_____
+
+ærarius
+ærarius /aɪrˈarɪʊs/
+copper
+_____
+
+æruscare
+æruscare /aɪrˈʊskarɛ/
+beg
+_____
+
+æruscator
+æruscator /aɪrˈʊskatɔr/
+1. beggar
+2. market trader
+_____
+
+æs
+æs /ˈaɪs/
+1. bronze
+2. copper
+3. money
+4. salary, wage, wages
+_____
+
+æsculetum
+æsculetum /aɪskˈʊlɛtʊm/
+oak‐wood
+_____
+
+æstas
+æstas /ˈaɪstas/
+summer
+_____
+
+æstimare
+æstimare /aɪstˈɪmarɛ/
+appraise, estimate, rate
+_____
+
+ætaluta
+ætaluta /aɪtˈalʊta/
+love, sexual love
+_____
+
+ætas
+ætas /ˈaɪtas/
+1. age
+2. generation
+_____
+
+æternalis
+æternalis /aɪtˈɛrnalɪs/
+eternal
+_____
+
+æternitas
+æternitas /aɪtˈɛrnɪtas/
+eternity
+_____
+
+æternus
+æternus /aɪtˈɛrnʊs/
+eternal
+_____
+
+æther
+æther /ˈaɪtʰɛr/
+1. air
+2. ether
+3. heaven, sky
+_____
+
+ætherius
+ætherius /aɪtʰˈɛrɪʊs/
+celestial, heavenly
+_____
+
+æthra
+æthra /ˈaɪtʰra/
+heaven, sky
+_____
+
+ævitas
+ævitas /ˈaɪwɪtas/
+eternity
