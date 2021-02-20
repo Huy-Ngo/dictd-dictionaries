@@ -60,9 +60,6 @@ jobs:
           cd freedict-2021.01.05/eng-lat
           make
           cd ../..
-          cd freedict-2021.01.05/ell-eng
-          make
-          cd ../..
           cd freedict-2021.01.05/eng-ell
           make
           cd ../..
