@@ -37,7 +37,7 @@ jobs:
         
       - name: Extract some dictionaries # (for example)
         run: |
-          sudo apt-get install make xsltproc libicu-dev python3 python3-icu virtualenv python3-virtualenv espeak-ng
+          sudo apt-get install make xsltproc libicu-dev python3 python3-icu virtualenv python3-virtualenv espeak-ng dictfmt
           pip install git+https://github.com/itkach/slob.git  # install general slob tools
           pip install git+https://github.com/itkach/tei2slob.git  # install tei2slob converter
           cd freedict-2021.01.05/eng-fra
