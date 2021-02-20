@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Install dictionaries
         run: |
-          sudo add-apt-repository 'deb http://de.archive.ubuntu.com/ubuntu bionic-updates main'
+          sudo add-apt-repository 'deb http://ftp.debian.org/debian/ buster main'
           sudo apt update
           sudo apt install dictd \
             dict \
