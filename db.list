@@ -428,6 +428,11 @@ database fd-eng-ara
   data  /usr/share/dictd/freedict-eng-ara.dict.dz
   index /usr/share/dictd/freedict-eng-ara.index
 }
+database moby-thesaurus
+ {
+  data  /usr/share/dictd/moby-thesaurus.dict.dz
+  index /usr/share/dictd/moby-thesaurus.index
+}
 database fd-ita-fin
  {
   data  /usr/share/dictd/freedict-ita-fin.dict.dz
