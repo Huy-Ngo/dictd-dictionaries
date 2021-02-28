@@ -28,7 +28,7 @@ jobs:
       # Runs a single command using the runners shell
       - name: Install dictionaries
         run: |
-          sudo apt install dictzip
+          sudo apt install dictzip dict dictd dictfmt
           mkdir -p wikt
           cd wikt
           wget https://dumps.wikimedia.org/enwiktionary/latest/enwiktionary-latest-pages-articles.xml.bz2
