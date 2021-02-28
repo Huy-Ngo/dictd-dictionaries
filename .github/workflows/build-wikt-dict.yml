@@ -58,8 +58,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: *.dict.dz
-          asset_name: wiktionary-en.dz
+          asset_path: wiktionary-en.dict.dz
+          asset_name: wikt.dict.dz
           asset_content_type: application/zip
 
       - name: Upload Release Asset
@@ -70,5 +70,4 @@ jobs:
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: wiktionary-en.index
-          asset_name: wikt.dict.dz
-          asset_content_type: application/zip
+          asset_name: wikt.index
