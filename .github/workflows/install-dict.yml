@@ -29,6 +29,7 @@ jobs:
       - name: Install dictionaries
         run: |
           sudo add-apt-repository 'deb http://us.archive.ubuntu.com/ubuntu/ bionic main'
+          sudo add-apt-repository 'deb http://us.archive.ubuntu.com/ubuntu/ groovy main'
           sudo apt update --allow-insecure-repositories
           sudo apt install dictd \
             dict \
