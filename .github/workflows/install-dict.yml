@@ -123,9 +123,10 @@ jobs:
             dict-jargon \
             dict-moby-thesaurus \
             dict-wn
-          cp /usr/share/dictd/*.dict.dz .
-          cp /usr/share/dictd/*.index .
-          cp /var/lib/dictd/db.list .
+          mkdir -p build
+          cp /usr/share/dictd/*.dict.dz build/
+          cp /usr/share/dictd/*.index build/
+          cp /var/lib/dictd/db.list build/
           
       - name: Commit changes
         run: |
