@@ -131,14 +131,8 @@ jobs:
       - name: Commit changes
         run: |
           git checkout -b build
-          git pull
           git add -f *.dict.dz *.index
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git commit -m "Add some dictionaries"
-
-      - name: Push changes
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: build
+          git push --force-with-lease
