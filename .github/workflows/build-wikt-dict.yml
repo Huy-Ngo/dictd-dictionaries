@@ -37,7 +37,7 @@ jobs:
           dictzip wiktionary-en.dict
       - name: Commit changes
         run: |
-          git checkout -b build
+          git checkout -B wikt
           git pull
           git add -f *.dict.dz *.index
           git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -48,4 +48,4 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: build
+          branch: wikt
