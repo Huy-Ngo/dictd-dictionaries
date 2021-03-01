@@ -69,3 +69,4 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
           asset_path: wikt/wiktionary-en.index
           asset_name: wikt.index
+          asset_content_type: text/plain
