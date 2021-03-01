@@ -123,6 +123,7 @@ jobs:
             dict-gcide \
             dict-jargon \
             dict-moby-thesaurus \
+            dict-vera \
             dict-wn
           mkdir -p build
           cp /usr/share/dictd/*.dict.dz build/
